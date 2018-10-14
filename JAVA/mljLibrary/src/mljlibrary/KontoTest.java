@@ -1,0 +1,24 @@
+package mljlibrary;
+
+/**
+ * <p>Title: </p>
+ * <p>Description: </p>
+ * <p>Copyright: 2003</p>
+ * <p>Company: al kaida</p>
+ * @author Marc Landolt
+ * @version 1.0
+ */
+
+import InOut;
+
+public class KontoTest {
+  public static void main(String[] args) {
+    System.out.println(InOut.getInt());
+    InOut.getLine();
+  //  Konto kto = new Konto();
+  //  kto.setzeZinsfuss(2.25);
+  //  kto.einzahlung(1, 4);
+  //  kto.getSaldo();
+  //  kto.addiereJahreszins();
+  }
+}

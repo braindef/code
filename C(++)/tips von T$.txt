@@ -1,0 +1,55 @@
+Tips von T$:
+
+Variante 1: Text->Vektormodell
+Liefert Vektormodell von schrift, D3DXCreateText Function
+
+CreateDC("DISPLAY",...) -> HDC
+-> Font-Objekt
+->CreateFont-> liefert FontHandle HFont
+->SelectObject(HDC, HFONT) -> alten HFONT
+D3DXCreateText(HDC) -> Mesh-Objekt
+->SelectObject(alten HFont)
+->Deleteobject(HFont)
+->DeleteDC(HDC)
+
+Mesh-Objekt: DrawSubset()
+
+Variante 2: Text direkt aufs Rendertarget 
+Sprite parallel zum bildschirm von hinten nach vorne gezeichnet
+
+
+D3DXCreateFont -> D3DXFont-Objekt
+D3DXFont::DrawText
+
+
+Variante 3: Text auf beliebige Textur/surface
+
+getDC handle des cd's -->MSDN 
+
+MSDN/WIN32- und COM Entwicklung/Graphics+Multimedia/GDI/Windows GDI/Font and Text/Font and Text References/CreateFont
+
+...DrawText (getDC() ....) 
+
+
+-Textur bzw. Surface erzeugen
+->GetDC liefert Handle HDC
+->CreateFont-> liefert FontHandle HFont
+->DrawText(HDC, HFont)
+->ReleaseDC(HDC)
+->DeleteObject(HFont)
+
+
+
+
+Texturzugriff:
+-Schnell (Speicherzeiger):
+-Texture::LockRect
+->Zeiger und Zeilenabstand(Pitch!) im Speicher
+->Pixelformat beachten! (D3DFMT_A8R8G8B8, D3DFMT_X8R8G8B8 und D3DFMT_R5G6B5 geht praktisch immer)
+-Texture::UnlockRect
+
+Einfach:
+GetDC()
+-GDI SetPixelV,...
+-GDI+
+ReleaseDC

@@ -1,0 +1,36 @@
+package physik;
+
+/**
+ * <p>Title: Physik Formelsammlung</p>
+ * <p>Description: Angewandte Physik</p>
+ * <p>Copyright: Freeware</p>
+ * <p>Company: none</p>
+ * @author Marc Landolt
+ * @version 1.0
+ */
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class physikMain {
+
+  public static void main(String[] args) {
+    Menu m1 = new Menu();
+    m1.show();
+    Graphics g = m1.getGraphics();
+    g.drawOval(80,50,20,20);
+
+/*
+    JFrame frame = new JFrame();
+            frame.addWindowListener(new WindowAdapter () {
+                    public void windowClosing (WindowEvent e) {
+                        System.exit(0);
+                    }
+                });
+            frame.setSize(200,200);
+            frame.show();
+            Graphics g = frame.getGraphics();
+            g.drawOval(80, 50,  20, 20);*/
+  }
+
+}

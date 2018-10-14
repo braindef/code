@@ -1,0 +1,20 @@
+#include <GDI01b.h>
+#include <windows.h>
+
+//ICO_W4 ICON W4.ICO
+
+W4 MENU
+{
+	POPUP "&Was_tun"
+	{
+		MENUITEM "&Berechnen",	IDM_RECHNE
+			MENUITEM "Loeschen des &Windows",	IDM_LOESCHEN
+			MENUITEM SEPARATOR
+			MENUITEM "Hasta la vista, &Baby", IDM_ENDE
+	}
+
+	POPUP "&Hilfe"
+	{
+		MENUITEM "&About",	IDM_WERISTS
+	}
+}

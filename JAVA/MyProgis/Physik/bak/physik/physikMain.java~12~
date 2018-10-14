@@ -1,0 +1,23 @@
+package physik;
+
+/**
+ * <p>Title: Physik Formelsammlung</p>
+ * <p>Description: Angewandte Physik</p>
+ * <p>Copyright: Freeware</p>
+ * <p>Company: none</p>
+ * @author Marc Landolt
+ * @version 1.0
+ */
+import java.awt.*;
+
+public class physikMain {
+
+  public static void main(String[] args) {
+    Menu m1 = new Menu();
+
+    Graphics g = m1.getGraphics();
+    g.fillOval(50,50,50,50);
+        m1.show();
+  }
+
+}

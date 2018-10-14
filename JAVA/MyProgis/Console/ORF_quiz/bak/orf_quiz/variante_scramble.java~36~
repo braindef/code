@@ -1,0 +1,62 @@
+package orf_quiz;
+
+/**
+ * <p>Überschrift: </p>
+ * <p>Beschreibung: </p>
+ * <p>Copyright: Copyright (c) 2002</p>
+ * <p>Organisation: </p>
+ * @author unbekannt
+ * @version 1.0
+ */
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileNotFoundException;
+import java.io.StreamTokenizer;
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.lang.StringBuffer;
+
+
+public class variante_scramble {
+  public static void main(String[] args) throws IOException {
+    if (args[0]==null) {  // TODO auf 1 stellen
+      System.out.println("no Files defined!!!");
+      return;
+    }
+          InputStream fifi = new FileInputStream(args[0]);
+          BufferedReader buf = new BufferedReader(new InputStreamReader(fifi));
+          StringBuffer sb = new StringBuffer(buf.readLine());
+
+          File fofo = new File(args[1]);
+          PrintWriter filePrinter = new PrintWriter(new BufferedWriter(new FileWriter(fofo)));
+          char ch;
+
+    while(!sb.toString().equals("null")) {
+      //scramble
+      System.out.println(sb.toString());
+      for(int i=0;i<sb.length();i++) {
+        ch = sb.charAt(i);
+        ch+=i%3;
+        sb.setCharAt(i,ch);
+      }
+
+
+      filePrinter.println(sb.toString());
+      sb.delete(0,sb.length());
+      sb.append(buf.readLine());
+    }
+    filePrinter.close();
+
+
+    // lösung nach ein bisschen handarbeit, da der char nicht nur aus 26 zeichen sondern noch weit mehr besteht:
+    // Dies ist eine ganz primitive Chiffriermethode, die Buchstben werden dabei um dreizehn versetzt. Diese Methode nennt man ROT dreizehn. Wendet man die codierung ein zweites Mal an, so erhaelt man wieder den Originaltext
+  return;
+  }
+  }

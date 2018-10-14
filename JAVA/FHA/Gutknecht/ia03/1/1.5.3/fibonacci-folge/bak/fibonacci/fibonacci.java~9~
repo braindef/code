@@ -1,0 +1,23 @@
+package fibonacci;  //meta-knall: historisches hierarchisches system
+
+/**
+ * <p>Title: Fibonacci Folge 1 1 2 3 5 8</p>
+ * <p>Description: </p>
+ * <p>Copyright: Copyright (c) 2003</p>
+ * <p>Company: </p>
+ * @author not attributable
+ * @version 1.0
+ */
+
+public class fibonacci {
+  public static void main(String[] args) {
+    int a = 1;
+    int b = 1;
+    for(int i=0; i < 11; i++) {
+      System.out.println(a);
+      int c=a+b;
+      a=b;
+      b=c;
+    }
+  }
+}

@@ -1,0 +1,128 @@
+http://www.codeproject.com/directx/DirectXDialogTemplate.asp
+
+void CDlgBackgroundArtDecoDlg::displayFrame()
+{
+    CRect rect; GetClientRect(rect);
+
+    int width = rect.Width() / 2;
+    int height = rect.Height() / 2;
+
+    DWORD starttime,stoptime;
+
+
+    starttime = GetTickCount();
+    {
+        g_pDisplay.Clear();
+        CDirectXLockGuard lock(this);
+
+#if defined(IS_IT_WORTH_IT)
+
+        setPixelPTR _setPixel = setPixel;
+        int x, y, c, z = zoom;
+        _asm
+        {
+            mov edx, width
+loop1:        mov ebx, height
+loop2:        mov eax, edx;    //color = (x*x+y*y)
+            imul eax, eax;
+            mov ecx, ebx;
+            imul ecx, ecx;
+            add eax, ecx;
+            imul eax, eax;    //color = color*color;
+
+            mov ecx, z;        //zoom
+            sar eax, cl;
+
+            and eax, 0xFF;
+            mov cl, al;
+            and cl, 0x80;    //if (color >= 128) color = color - 127;
+            jz weiter;
+            xor eax, 0x7F;
+
+weiter:        shl eax, 8+1;
+            
+            //Backup
+            mov x, edx;
+            mov y, ebx;
+            mov c, eax;
+                        
+            push eax;        //color            
+            mov eax, ebx;    //y
+            add eax, height;
+            push eax;            
+            mov eax, edx;    //x
+            add eax, width;
+            push eax;            
+            mov ecx, this;    //this-call of member function pointer
+            call _setPixel;
+
+            mov eax, c;        //color            
+            push eax;
+            mov eax, y;        //y
+            add eax, height;
+            push eax;            
+            mov eax, width;    //x
+            sub eax, x;
+            push eax;            
+            mov ecx, this;    //this-call of member function pointer
+            call _setPixel;
+
+            mov eax, c;        //color            
+            push eax;
+            mov eax, height;//y
+            sub eax, y;
+            push eax;            
+            mov eax, width;    //x
+            sub eax, x;
+            push eax;            
+            mov ecx, this;    //this-call of member function pointer
+            call _setPixel;
+
+            mov eax, c;        //color            
+            push eax;
+            mov eax, height;//y
+            sub eax, y;
+            push eax;            
+            mov eax, x;        //x
+            add eax, width;
+            push eax;            
+            mov ecx, this;    //this-call of member function pointer
+            call _setPixel;
+
+
+            //Reload
+            mov edx, x;
+            mov ebx, y;            
+
+            sub ebx, 1
+            jge loop2
+            sub edx, 1
+            jge loop1        
+        }
+#else        
+        for (long x = 0; x < width; x++)
+            for (long y = 0; y < height; y++)
+            {
+                long g = x*x + y*y;
+                g = g * g;                
+                g = g >> zoom;            
+                g = g & 0xFf;
+                if (g & 0x80) // if (g > 0x7f) g = 0x7f - g;
+                    g = 0x7f ^ g;
+                g = g << 1;                
+                (this->*setPixel)(width + x, height + y,RGBA_MAKE(g,0,0,0));
+                (this->*setPixel)(width - x, height + y,RGBA_MAKE(0,g,0,0));
+                (this->*setPixel)(width + x, height - y,RGBA_MAKE(0,0,g,0));
+                (this->*setPixel)(width - x, height - y,RGBA_MAKE(g,g,g,0));
+            }        
+#endif
+    }
+    stoptime = GetTickCount();
+
+    char buffer[128];
+    sprintf(buffer, "time: %4dms", stoptime - starttime);
+    g_pTextSurface->DrawText(NULL, buffer, 0, 0, RGB(0,0,0), RGB(255,255,0));
+    g_pDisplay.Blt(20, 20, g_pTextSurface, NULL);
+
+    CDialog::OnPaint();
+}

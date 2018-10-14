@@ -1,0 +1,120 @@
+package listshortener;
+
+/**
+ * <p>Title: ListShortener</p>
+ * <p>Description: Kills unnecessary lines from filelists</p>
+ * <p>Copyright: Copyright (c) 2003</p>
+ * <p>Company:  none</p>
+ * @author Landev
+ * @version 1.0
+ */
+
+import java.io.*;
+import java.util.StringTokenizer;
+
+
+public class ListShortener {
+  public ListShortener() {
+  }
+
+public static boolean readFile(String inputFile, String outputFile) throws java.io.FileNotFoundException, java.io.IOException{
+    InputStream fileIn = new FileInputStream(inputFile);
+
+    File fileOut = new File (outputFile);
+    PrintWriter filePrinter = new PrintWriter( new BufferedWriter( new FileWriter(fileOut)));
+
+    BufferedReader buf = new BufferedReader(new InputStreamReader(fileIn));
+    StringBuffer sb = new StringBuffer("                                                                                ");
+    StringTokenizer lastRelevantString = new StringTokenizer("");
+    StringTokenizer actuelString;
+    boolean theSameGame = true;
+
+    while(!sb.toString().equals("null")) {
+      sb.delete(0,80);
+      sb.append(buf.readLine());
+
+      if ((sb.toString().indexOf("[01/")!=-1)) {
+        theSameGame = true;
+        actuelString = new StringTokenizer(sb.toString());
+
+        for(int i = 0; i < 3; i++) {
+          if (actuelString.hasMoreTokens() && lastRelevantString.hasMoreTokens()) {
+            actuelString.nextToken();
+            lastRelevantString.nextToken();
+          }
+        }
+        for(int i = 0; i < 2; i++) {
+          if (actuelString.hasMoreTokens() && lastRelevantString.hasMoreTokens())
+            if (!actuelString.nextToken().equals(lastRelevantString.nextToken())) {
+              theSameGame = false;
+            }
+        }
+
+        int index = sb.toString().indexOf("[01/");
+        sb.replace(index+1, index+3, "xx");
+        if (!theSameGame) System.out.println();
+        if (!theSameGame) filePrinter.println();
+        System.out.println(sb.toString());
+        filePrinter.println(sb.toString());
+        lastRelevantString = new StringTokenizer(sb.toString());
+      }
+    }
+    filePrinter.close();
+    return true;
+  }
+
+
+
+
+public static void main(String[] args) {
+
+    System.out.println("Dieses Tool zeigt nur die Zeilen an mit der 1. Disk ([01/xx])) an");
+    System.out.println();
+    System.out.println("Befehl: ListShortener <eingabedatei> <ausgabedatei>");
+    System.out.println();
+    System.out.println("Befehl: ListShortener");
+    System.out.println("Hier wird als Eingabe input.txt hund für die ausgabe output.txt angenommen");
+    System.out.println();
+    System.out.println("Befehl: ListShortener c:\\test\\input.txt");
+    System.out.println("Hier wird die Ausgabedatei c:\\test\\output.txt heissen (ja das meine ich so)");
+    System.out.println();
+    System.out.println("Befehl: ListShortener c:\\blablabla\\eingabe.txt c:\\rüebliland.txt");
+    System.out.println("Hier wird alles wie vorgegeben verarbeitet.");
+    System.out.println("");
+    System.out.println("Wenn was nicht so funktionert wie es sollte liegt der Source in java bei...");
+    System.out.println();
+    try {
+      if (args.length==0) readFile("input.txt", "output.txt");
+
+      if (args.length==1) {
+        if(args[0].lastIndexOf("\\")!=-1) {
+          StringBuffer newPath = new StringBuffer(args[0]);
+          int cut=newPath.reverse().indexOf("\\");
+          newPath.reverse().delete(newPath.length()-cut,newPath.length());
+          System.out.println(newPath);
+          readFile(args[0], newPath+"output.txt");
+        }
+        else readFile(args[0], "output.txt");
+      }
+      if (args.length==2) {
+        if(args[1].indexOf("\\")!=-1) {
+          System.out.println("File wird geschrieben: " + args[1]);
+          readFile(args[0], args[1]);
+        }
+        else {
+          StringBuffer newPath = new StringBuffer(args[0]);
+          int cut = newPath.reverse().indexOf("\\");
+          newPath.reverse().delete(newPath.length() - cut, newPath.length());
+          System.out.println("File wird geschrieben: " + newPath + args[1]);
+          readFile(args[0], newPath+args[1]);
+        }
+      }
+      if (args.length>2) System.out.println("WOW, so viele parameter, da weiss ich ja garnicht was anfangen damit..... (:");
+    }
+    catch (Exception ex) {
+      ex.printStackTrace();
+      System.out.println("Sorry Shrike, aber dieses File gibt es nich'");
+    }
+
+  }
+}

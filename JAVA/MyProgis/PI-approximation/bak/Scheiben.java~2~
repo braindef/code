@@ -1,0 +1,52 @@
+
+/**
+ * <p>Title: </p>
+ * <p>Description: </p>
+ * <p>Copyright: Copyright (c) 2003</p>
+ * <p>Company: </p>
+ * @author not attributable
+ * @version 1.0
+ */
+
+
+import java.awt.*;
+import java.applet.*;
+public class Scheiben extends Applet
+{
+  void zeichneFigur(Graphics g, int xm, int ym, int r, int s)
+  {  int xLeft = xm-s;
+     int xRight = xm+s;
+     int x1, x2, y, dx, dy = 0;
+     while ( dy <= s )
+     {  if ( dy < r )
+        {  dx = (int)Math.round(Math.sqrt(r*r-dy*dy));
+           x1 = xm-dx;
+           x2 = xm+dx;
+           y = ym - dy;
+           g.drawLine(xLeft, y, x1, y);
+           g.drawLine(x2, y, xRight, y);
+           y = ym + dy;
+           g.drawLine(xLeft, y, x1, y);
+           g.drawLine(x2, y, xRight, y);
+        }
+        else
+        {  y = ym - dy;
+           g.drawLine(xLeft, y, xRight, y);
+           y = ym + dy;
+           g.drawLine(xLeft, y, xRight, y);
+        }
+        dy++;
+     }
+  }
+
+  public void init()
+  { setBackground(Color.blue);
+  }
+
+  public void paint(Graphics g)
+  {  g.setColor(Color.orange);
+     zeichneFigur(g, 200, 200, 50, 60);
+     g.setColor(Color.yellow);
+     zeichneFigur(g, 270, 220, 50, 60);
+  }
+}

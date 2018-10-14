@@ -1,0 +1,16 @@
+Tex Formelcompiler.  -->oder winedt
+normal.dot säubern
+
+
+streckungsfaktor auf java quadrate pseudoperspektive darstellung
+-mittelpunkt als ausgang
+-aus rechtecken zusammengesetzt
+
+Ariane 4 stürzte ab weil eine float in eine Int variable geschrieben wurde
+
+Ganzzahliges
+
+Scheiben, Perspektive, optik ....
+
+goldenerSchnitt
+

@@ -1,0 +1,164 @@
+package physik;
+
+import java.awt.*;
+import java.awt.geom.*;
+import java.awt.event.*;
+import javax.swing.*;
+import java.util.*;
+
+
+
+/**
+ * <p>Title: Physik Formelsammlung</p>
+ * <p>Description: Angewandte Physik</p>
+ * <p>Copyright: Freeware</p>
+ * <p>Company: none</p>
+ * @author Marc Landolt
+ * @version 1.0
+ */
+
+//          Graphics g = this.getGraphics();
+//          g.drawOval(10,100,100,100);
+
+public class Menu extends JFrame {
+  JPanel contentPane;
+  JMenuBar jMenuBar = new JMenuBar();
+  JMenu jMenuDatei = new JMenu();
+  JMenuItem jMenuDateiBeenden = new JMenuItem();
+  JMenu jMenuHilfe = new JMenu();
+  JMenuItem jMenuHelpAbout = new JMenuItem();
+  JToolBar jToolBar = new JToolBar();
+  ImageIcon image1;
+  ImageIcon image2;
+  ImageIcon image3;
+  JLabel statusBar = new JLabel();
+  BorderLayout borderLayout1 = new BorderLayout();
+  JMenu jMechanik = new JMenu();
+  JMenu jMenuWaermelehre = new JMenu();
+  JMenu jMenuAkustuk = new JMenu();
+  JMenu jMenuElektrik = new JMenu();
+  JMenu jMenuAtomKernphysik = new JMenu();
+  JMenuItem jMenuElektrikOhm = new JMenuItem();
+
+  //Construct the frame
+
+      void paintCircle(Graphics g, double x, double y)      {
+        g.setColor(Color.blue);
+        g.drawOval(10,10,10,10);
+      }
+
+      public Menu() {
+        enableEvents(AWTEvent.WINDOW_EVENT_MASK);
+        try {
+          jbInit();
+        }
+        catch(Exception e) {
+          e.printStackTrace();
+        }
+      }
+
+
+  //Component initialization
+  private void jbInit() throws Exception  {
+    image1 = new ImageIcon(physik.Menu.class.getResource("openFile.png"));
+    image2 = new ImageIcon(physik.Menu.class.getResource("closeFile.png"));
+    image3 = new ImageIcon(physik.Menu.class.getResource("help.png"));
+    contentPane = (JPanel) this.getContentPane();
+    contentPane.setLayout(borderLayout1);
+    this.setContentPane(contentPane);
+    this.setDefaultCloseOperation(HIDE_ON_CLOSE);
+    this.setForeground(Color.black);
+//TODO: image file not found
+    this.setIconImage(Toolkit.getDefaultToolkit().createImage("mainIcon.png"));
+    this.setLocale(new java.util.Locale("de", "CH", ""));
+    this.setSize(new Dimension(400, 300));
+    this.setState(Frame.NORMAL);
+    this.setTitle("Angewandte Physik");
+    statusBar.setText(" ");
+    jMenuDatei.setText("Datei");
+    jMenuDateiBeenden.setText("Beenden");
+    jMenuDateiBeenden.addActionListener(new Menu_jMenuDateiBeenden_ActionAdapter(this));
+    jMenuHilfe.setText("Hilfe");
+    jMenuHelpAbout.setText("Info");
+    jMenuHelpAbout.addActionListener(new Menu_jMenuHelpAbout_ActionAdapter(this));
+    contentPane.setBorder(BorderFactory.createLoweredBevelBorder());
+    jMenuBar.setEnabled(true);
+    jMenuBar.setForeground(Color.black);
+    jMenuBar.setBorder(null);
+    jMenuBar.setDebugGraphicsOptions(0);
+    jMenuBar.setDoubleBuffered(false);
+    jMenuBar.setRequestFocusEnabled(true);
+    jMenuBar.setToolTipText("");
+    jMenuBar.setMargin(new Insets(0, 0, 0, 0));
+    jMechanik.setText("Mechanik");
+    jMenuWaermelehre.setText("Wärmelehre");
+    jMenuAkustuk.setText("Akustik");
+    jMenuElektrik.setText("Elektrik");
+    jMenuAtomKernphysik.setText("Atom- /Kernphysik");
+    jMenuElektrikOhm.setText("Ohmsches Gesetz");
+    jMenuDatei.add(jMenuDateiBeenden);
+    jMenuHilfe.add(jMenuHelpAbout);
+    jMenuBar.add(jMenuDatei);
+    jMenuBar.add(jMechanik);
+    jMenuBar.add(jMenuWaermelehre);
+    jMenuBar.add(jMenuAkustuk);
+    jMenuBar.add(jMenuElektrik);
+    jMenuBar.add(jMenuAtomKernphysik);
+    jMenuBar.add(jMenuHilfe);
+    this.setJMenuBar(jMenuBar);
+    contentPane.add(jToolBar, BorderLayout.NORTH);
+    contentPane.add(statusBar, BorderLayout.SOUTH);
+    jMenuElektrik.add(jMenuElektrikOhm);
+  }
+  //File | Exit action performed
+  public void jMenuDateiBeenden_actionPerformed(ActionEvent e) {
+    System.exit(0);
+  }
+  //Help | About action performed
+  public void jMenuHelpAbout_actionPerformed(ActionEvent e) {
+    Menu_AboutBox dlg = new Menu_AboutBox(this);
+    Dimension dlgSize = dlg.getPreferredSize();
+    Dimension frmSize = getSize();
+    Point loc = getLocation();
+    dlg.setLocation((frmSize.width - dlgSize.width) / 2 + loc.x, (frmSize.height - dlgSize.height) / 2 + loc.y);
+    dlg.setModal(true);
+    dlg.pack();
+    dlg.show();
+  }
+  //Overridden so we can exit when window is closed
+  protected void processWindowEvent(WindowEvent e) {
+    super.processWindowEvent(e);
+    if (e.getID() == WindowEvent.WINDOW_CLOSING) {
+      jMenuDateiBeenden_actionPerformed(null);
+    }
+    System.out.println(e.getComponent());
+  }
+
+  public void actionPerformed(ActionEvent event) {
+  }
+
+}
+
+
+
+class Menu_jMenuDateiBeenden_ActionAdapter implements ActionListener {
+  Menu adaptee;
+
+  Menu_jMenuDateiBeenden_ActionAdapter(Menu adaptee) {
+    this.adaptee = adaptee;
+  }
+  public void actionPerformed(ActionEvent e) {
+    adaptee.jMenuDateiBeenden_actionPerformed(e);
+  }
+}
+
+class Menu_jMenuHelpAbout_ActionAdapter implements ActionListener {
+  Menu adaptee;
+
+  Menu_jMenuHelpAbout_ActionAdapter(Menu adaptee) {
+    this.adaptee = adaptee;
+  }
+  public void actionPerformed(ActionEvent e) {
+    adaptee.jMenuHelpAbout_actionPerformed(e);
+  }
+}

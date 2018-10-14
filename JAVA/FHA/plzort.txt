@@ -1,0 +1,6582 @@
+1000VDLausanne
+1000VDLosanna
+1000VDLes Monts-de-Pully
+1000VDLausanne 2
+1000VDLausanne 3
+1000VDLausanne 4
+1000VDLausanne 5
+1000VDLausanne 6
+1000VDLausanne 7
+1000VDLausanne 8
+1000VDLausanne 9
+1000VDLausanne 12
+1000VDChailly-sur-Laus
+1000VDLausanne 13
+1000VDLausanne 14
+1000VDLausanne 16
+1000VDLausanne 17
+1000VDLausanne 19
+1000VDLausanne 20
+1000VDLausanne 21
+1000VDLausanne 22
+1000VDLausanne 23
+1000VDLausanne 24
+1000VDLausanne 25
+1000VDLe Chalet-a-Gobet
+1000VDLausanne 26
+1000VDVers-chez-les-Blan
+1000VDLausanne 27
+1000VDTrois-Chasseurs
+1000VDMontblesson
+1000VDLausanne 28
+1000VDLausanne 30
+1000VDLausanne 1 Dist L
+1000VDLausanne DT
+1001VDLausanne
+1001VDLausanne DAP
+1002VDLausanne
+1003VDLausanne
+1004VDLausanne
+1005VDLausanne
+1006VDLausanne
+1007VDLausanne
+1008VDPrilly
+1008VDCery
+1008VDJouxtens-Mezery
+1009VDPully
+1010VDLausanne
+1010VDVennes
+1011VDLausanne
+1012VDLausanne
+1014VDLausanne Adm cant
+1015VDLausanne
+1017VDLausanne Veillon
+1018VDLausanne
+1018VDLa Blecherette
+1020VDRenens VD
+1020VDRenens VD 1
+1020VDRenens VD 2
+1022VDChavannes-Renens
+1023VDCrissier
+1024VDEcublens VD
+1024VDRenges
+1025VDSt-Sulpice VD
+1026VDEchandens-Denges
+1026VDDenges
+1026VDEchandens
+1027VDLonay
+1028VDPreverenges
+1029VDVillars-Ste-Croix
+1030VDBussigny-Lausanne
+1031VDMex VD
+1032VDRomanel-s-Lausanne
+1032VDVernand-Dessus
+1033VDCheseaux-Lausanne
+1033VDVernand-Dessous
+1034VDBoussens
+1035VDBournens
+1036VDSullens
+1037VDEtagnieres
+1038VDBercher
+1040VDEchallens
+1041VDEchallens Sorties
+1041VDSt-Barthelemy VD
+1041VDOulens-Echallens
+1041VDBettens
+1041VDBioley-Orjulaz
+1041VDVillars-le-Terroir
+1041VDDommartin
+1041VDChardonney-Mtaubio
+1041VDMontaubion-Chardon
+1041VDPeyres-Possens
+1041VDPossens
+1041VDBoulens
+1041VDNaz
+1041VDPoliez-le-Grand
+1041VDPoliez-Pittet
+1041VDBottens
+1041VDBretigny-Morrens
+1042VDAssens
+1042VDMalapalud
+1043VDSugnens
+1044VDFey
+1045VDOgens
+1046VDBioley-Magnoux
+1051VDMont-Lausanne Poly
+1052VDMont-sur-Lausanne
+1053VDCugy VD
+1053VDMontheron
+1054VDMorrens VD
+1055VDFroideville
+1058VDVillars-Tiercelin
+1059VDPeney-le-Jorat
+1061VDVillars-Mendraz
+1062VDSottens
+1063VDChapelle-s-Moudon
+1063VDMartherenges
+1064VDSt-Cierges
+1064VDCorrencon
+1066VDEpalinges
+1066VDLes Croisettes
+1073VDSavigny
+1073VDClaie-aux-Moines
+1074VDMollie-Margot
+1076VDFerlens VD
+1077VDServion
+1078VDEssertes
+1080VDLes Cullayes
+1081VDMontpreveyres
+1082VDCorcelles-le-Jorat
+1083VDMezieres VD
+1084VDCarrouge VD
+1085VDVulliens
+1086VDVucherens
+1088VDRopraz
+1092VDBelmont-Lausanne
+1093VDLa Conversion
+1094VDPaudex
+1095VDLutry
+1095VDChatelard-Lutry
+1095VDBossiere
+1095VDCorsy
+1095VDSavuit
+1096VDCully
+1096VDTreytorrens Lavaux
+1096VDVillette (Lavaux)
+1097VDRiex
+1098VDEpesses
+1099VDMontpreveyres Foto
+1110VDMorges
+1110VDMorges 1
+1110VDMorges 2
+1110VDMorges 3
+1112VDEchichens
+1113VDSt-Saphorin-Morges
+1114VDColombier VD
+1115VDVullierens
+1116VDCottens VD
+1117VDGrancy
+1117VDSt-Denis
+1118VDSenarclens
+1121VDBremblens
+1122VDRomanel-sur-Morges
+1123VDAclens
+1124VDGollion
+1125VDMonnaz
+1126VDVaux-sur-Morges
+1127VDClarmont
+1128VDReverolle
+1131VDTolochenaz
+1132VDLully VD
+1133VDLussy-sur-Morges
+1134VDVufflens-Chateau
+1134VDChigny
+1135VDDenens
+1136VDBussy-Chardonney
+1136VDChardonney-Morges
+1137VDYens
+1138VDVillars-sous-Yens
+1141VDSevery
+1142VDPampigny
+1143VDApples
+1144VDBallens
+1145VDBiere
+1145VDBiere Caserne
+1146VDMollens VD
+1147VDMontricher
+1148VDL'Isle
+1148VDVillars-Bozon
+1148VDMauraz
+1149VDBerolle
+1162VDSt-Prex
+1163VDEtoy
+1164VDBuchillon
+1165VDAllaman
+1166VDPerroy
+1170VDAubonne
+1170VDLa Vaux
+1172VDBougy-Villars
+1172VDSignal-de-Bougy
+1173VDFechy
+1174VDMontherod
+1174VDLa Fouly VD
+1174VDPizy
+1175VDLavigny
+1176VDSt-Livres
+1180VDRolle
+1180VDBugnaux
+1180VDTartegnin
+1182VDGilly
+1182VDVincy
+1183VDBursins
+1184VDLuins
+1184VDVinzel
+1185VDMont-sur-Rolle
+1186VDEssertines-Rolle
+1187VDSt-Oyens
+1188VDGimel
+1189VDSaubraz
+1195VDDully-Bursinel
+1195VDDully
+1195VDBursinel
+1196VDGland
+1197VDPrangins
+1200GEGeneve
+1200GEGenf
+1200GEGinevra
+1200GEGeneve 1
+1200GEGeneve 3
+1200GEGeneve 4
+1200GEGeneve 2 Transit
+1200GEGeneve 6
+1200GEGeneve 7
+1200GEGeneve 8
+1200GEGeneve 9
+1200GEGeneve 11
+1200GEGeneve 12
+1200GEGeneve 13
+1200GEGeneve 16
+1200GEGeneve 17
+1200GEGeneve 18
+1200GEGeneve 19
+1200GELe Petit-Saconnex
+1200GEGeneve 20
+1200GEGeneve 21
+1200GEGeneve 24
+1200GEGeneve 25
+1200GEGeneve 26
+1200GEGeneve 28
+1200GEGeneve 29
+1200GEGeneve 2 Dist L
+1201GEGeneve
+1202GEGeneve
+1203GEGeneve
+1204GEGeneve
+1205GEGeneve
+1206GEGeneve
+1207GEGeneve
+1208GEGeneve
+1209GEGeneve
+1211GEGeneve 1
+1211GEGeneve 2
+1211GEGeneve 3
+1211GEGeneve 4
+1211GEGeneve 6
+1211GEGeneve 7
+1211GEGeneve 8
+1211GEGeneve 9
+1211GEGeneve 10
+1211GEGeneve 11
+1211GEGeneve 12
+1211GEGeneve 13
+1211GEGeneve 14
+1211GEGeneve 16
+1211GEGeneve 17
+1211GEGeneve 18
+1211GEGeneve 19
+1211GEGeneve 20
+1211GEGeneve 21
+1211GEGeneve 22
+1211GEGeneve 23
+1211GEGeneve 24
+1211GEGeneve 25
+1211GEGeneve 26
+1211GEGeneve 27
+1211GEGeneve 28
+1211GEGeneve 29
+1211GEGeneve 1 DAP
+1211GEGeneve 2 DT
+1211GEGeneve 70 CS
+1211GEGeneve 71 CS CP
+1211GEGeneve 24 Caserne
+1211GEGeneve 84 Votation
+1212GEGrand-Lancy
+1212GELancy
+1212GESaconnex-d'Arve
+1212GEArare
+1212GEGrand-Lancy 1
+1212GEGrand-Lancy 2
+1213GEPetit-Lancy
+1213GELancy
+1213GEPetit-Lancy 1
+1213GEPetit-Lancy 2
+1213GEOnex
+1214GEVernier
+1215GEGeneve
+1215GEGeneve ICC OLS
+1215GEGeneve 15 Depot
+1215GEGeneve 15 Echange
+1216GECointrin
+1217GEMeyrin
+1217GEMategnin
+1217GEMeyrin 1
+1217GEMeyrin 2
+1218GELe Grand-Saconnex
+1218GESaconnex
+1218GEGrand-Saconnex PAL
+1219GELe Lignon
+1219GEAire
+1219GEAire Cases
+1219GEChatelaine
+1219GEChatelaine Cases
+1220GELes Avanchets
+1222GEVesenaz
+1222GELa Capite
+1222GEBellerive GE
+1222GELa Pallanterie
+1222GESt-Maurice
+1223GECologny
+1224GEChene-Bougeries
+1225GEChene-Bourg
+1225GEFossard
+1225GEMoillesulaz
+1225GEVillette GE
+1226GEThonex
+1227GECarouge GE
+1227GELes Acacias
+1227GELa Praille
+1228GEPlan-les-Ouates
+1231GEConches
+1232GEConfignon
+1233GEBernex
+1233GEChevres
+1233GELoex
+1233GELully GE
+1233GESezenove
+1234GEVessy
+1234GEPinchat
+1236GECartigny
+1237GEAvully
+1239GECollex
+1239GEBossy
+1239GEVireloup
+1241GEPuplinge
+1241GEMon-Idee
+1242GESatigny
+1242GEBourdigny
+1242GEChoully
+1242GEPeissy
+1242GEPeney GE
+1243GEPresinge
+1243GECara
+1244GEChoulex
+1244GEChevrier
+1245GECollonge-Bellerive
+1246GECorsier GE
+1247GEAnieres
+1247GEChevrens
+1248GEHermance
+1251GEGy
+1251GEMerlinge
+1252GEMeinier
+1252GECorsinge
+1253GEVandoeuvres
+1253GEChougny
+1253GEPressy
+1254GEJussy
+1254GELullier
+1254GEMonniaz
+1255GEVeyrier
+1255GESierne
+1256GETroinex
+1257GELa Croix-de-Rozon
+1257GEBardonnex
+1257GECharrot
+1257GELandecy
+1258GEPerly
+1258GECertoux
+1260VDNyon
+1260VDBois-Bougy
+1260VDNyon 1
+1260VDNyon 2
+1260VDNyon Dist L
+1260VDNyon car postal
+1261VDNyon Sorties
+1261VDGrens
+1261VDLe Muids
+1261VDBurtigny
+1261VDMarchissy
+1261VDLe Vaud
+1261VDLongirod
+1261VDSt-George
+1262VDEysins
+1263VDCrassier
+1264VDSt-Cergue
+1264VDLa Givrine
+1265VDLa Cure
+1266VDDuillier
+1267VDVich-Coinsins
+1267VDVich
+1267VDCoinsins
+1268VDBegnins
+1269VDBassins
+1270VDTrelex
+1271VDGivrins
+1272VDGenolier
+1273VDArzier
+1274VDSigny
+1275VDCheserex
+1276VDGingins
+1277VDBorex
+1277VDArnex-sur-Nyon
+1278VDLa Rippe
+1279VDChavannes-de-Bogis
+1279VDChavannes-Bogis LS
+1279VDBogis-Bossey
+1281GERussin
+1282GEDardagny
+1282GEEssertines GE
+1282GEMalval
+1283GELa Plaine
+1284GEChancy
+1285GEAthenaz (Avusy)
+1285GEAvusy
+1285GESezegnin
+1286GESoral
+1287GELaconnex
+1288GEAire-la-Ville
+1289GEGeneve Serv. Spec.
+1290GEVersoix
+1290GEPont-Ceard
+1290GERichelien
+1290GESauverny
+1290VDChavannes-des-Bois
+1291VDCommugny
+1292GEChambesy
+1292GEPregny
+1293GEBellevue
+1293GEColovrex
+1293GELes Tuileries
+1293GEValavran
+1294GEGenthod
+1294GECreux-de-Genthod
+1294GEMalagny
+1295VDMies-Tannay
+1295VDMies
+1295VDTannay
+1296VDCoppet
+1297VDFounex
+1297VDChataigneriaz
+1298GECeligny
+1298GEBossey
+1299VDCrans-pres-Celigny
+1302VDVufflens-la-Ville
+1303VDPenthaz
+1304VDCossonay-Ville
+1304VDAllens
+1304VDDizy
+1305VDPenthalaz
+1305VDCossonay-Gare
+1306VDDaillens
+1307VDLussery
+1307VDVillars-Lussery
+1308VDLa Chaux-Cossonay
+1309VDCuarnens
+1309VDChavannes-Veyron
+1312VDEclepens
+1313VDFerreyres
+1314VDMoiry VD
+1315VDLa Sarraz
+1316VDChevilly
+1317VDOrny
+1318VDPompaples
+1318VDSt-Loup
+1321VDArnex-sur-Orbe
+1322VDCroy
+1323VDRomainmotier
+1323VDEnvy
+1324VDPremier
+1325VDVaulion
+1326VDJuriens
+1327VDLa Praz
+1328VDMont-la-Ville
+1328VDLa Coudre VD
+1328VDMollendruz
+1329VDBretonnieres
+1337VDVallorbe
+1337VDLe Day
+1337VDLe Creux VD
+1338VDBallaigues
+1341VDOrient
+1342VDLe Pont
+1343VDLes Charbonnieres
+1344VDL'Abbaye
+1345VDLe Lieu
+1345VDEsserts-de-Rive
+1345VDLe Sechey
+1346VDLes Bioux
+1346VDVers-chez-Grosjean
+1347VDLe Sentier
+1347VDChez-le-Maitre
+1347VDLa Golisse
+1347VDLe Rocheray
+1347VDLe Solliat
+1348VDLe Brassus
+1348VDLe Marchairuz
+1350VDOrbe
+1352VDAgiez
+1353VDBofflens
+1354VDMontcherand
+1355VDL'Abergement
+1355VDSergey
+1356VDLes Clees
+1356VDLa Russille
+1357VDLignerolle
+1358VDValeyres-Rances
+1359VDRances
+1372VDBavois
+1373VDChavornay
+1374VDCorcelles-Chavorn
+1375VDPenthereaz
+1376VDGoumoens-la-Ville
+1376VDEclagnens
+1376VDGoumoens-le-Jux
+1400VDYverdon-les-Bains
+1400VDNoreaz
+1400VDYverdon 1
+1400VDYverdon 2
+1400VDYverdon 3
+1400VDCheseaux-Noreaz
+1400VDYverdon Caserne
+1400VDYverdon car postal
+1401VDYverdon
+1404VDCuarny
+1404VDVillars-Epeney
+1405VDPomy
+1406VDCronay
+1407VDDonneloye
+1407VDGossens
+1407VDMezery-Donneloye
+1408VDPrahins
+1409VDChaneaz
+1410VDThierrens
+1410VDCorrevon
+1412VDValeyres-Ursins
+1412VDSermuz
+1412VDUrsins
+1413VDOrzens
+1413VDOppens
+1414VDRueyres
+1415VDMolondin
+1415VDDemoret
+1416VDPailly
+1417VDEssertines-Yverdon
+1417VDNonfoux
+1417VDEpautheyres
+1418VDVuarrens
+1418VDVuarrengel
+1420VDFiez
+1421VDFontaines-Grandson
+1421VDGrandevent
+1422VDGrandson
+1422VDCorcelettes
+1422VDTuileries-de-Grand
+1422VDGrandson 1
+1422VDGrandson 2
+1423VDVillars-Burquin
+1423VDFontanezier
+1423VDRomairon
+1423VDVaugondry
+1424VDChampagne
+1425VDOnnens VD
+1426VDConcise
+1426VDCorcelles-Concise
+1427VDBonvillars
+1428VDProvence-Mutrux
+1428VDProvence
+1428VDMutrux
+1429VDGiez
+1430VDOrges
+1431VDVugelles-La Mothe
+1431VDLa Mothe
+1431VDNovalles
+1432VDBelmont-Yverdon
+1432VDVillaret
+1432VDGressy
+1433VDSuchy
+1434VDEpendes VD
+1435VDEssert-Pittet
+1436VDTreycovagnes
+1436VDChamblon
+1437VDSuscevaz
+1438VDMathod
+1441VDValeyres-Montagny
+1442VDMontagny-Yverdon
+1443VDChampvent
+1443VDEssert-s-Champvent
+1443VDVillars-Champvent
+1445VDVuiteboeuf
+1445VDPeney (Vuiteboeuf)
+1446VDBaulmes
+1450VDSte-Croix
+1450VDLa Sagne VD
+1450VDLe Chateau-Croix
+1452VDLes Rasses
+1453VDBullet
+1453VDMauborget
+1454VDL'Auberson
+1454VDChaux-de-Ste-Croix
+1454VDLa Vraconnaz
+1462VDYvonand
+1462VDLa Mauguettaz
+1462VDNiedens
+1462VDArrissoules
+1463VDRovray
+1464VDChavannes-le-Chene
+1464VDPaquier VD
+1464VDChene-Paquier
+1468FRCheyres
+1470FREstavayer-le-Lac
+1470FRLully FR
+1473FRFont
+1473FRChatillon FR
+1474FRChables FR
+1474FRBollion
+1474FRSeiry
+1482FRCugy FR
+1483FRMontet (Broye)
+1483FRFrasses
+1483FRVesin
+1484FRAumont
+1484FRGranges-de-Vesin
+1485FRNuvilly
+1486FRVuissens
+1487VDChamptauroz
+1488VDTreytorrens-Payern
+1489FRMurist
+1489FRMontborget
+1489FRLa Vounaise
+1489FRFranex
+1501VDPalezieux-Village
+1501VDSerix
+1501VDLes Tavernes
+1501VDLes Thioleyres
+1502VDChatillens
+1502VDVuibroye
+1503FREcublens FR
+1503FREschiens
+1503FRVillangeaux
+1510VDMoudon
+1510VDBressonnaz
+1510VDSyens
+1510VDMoudon Caserne
+1512VDChavannes-s-Moudon
+1513VDHermenches
+1513VDRossenges
+1514VDBussy-sur-Moudon
+1515VDVillars-le-Comte
+1515VDNeyruz-sur-Moudon
+1516VDDenezy
+1516FRPrevondavaux
+1521VDCurtilles
+1522VDLucens
+1522VDOulens-sur-Lucens
+1523VDGranges-Marnand
+1523VDGranges VD
+1524VDMarnand
+1525VDHenniez
+1525VDTreize-Cantons
+1525VDSeigneux
+1526VDForel-sur-Lucens
+1526VDCremin
+1527FRVilleneuve FR
+1528FRSurpierre
+1528FRPraratoud
+1529FRCheiry
+1529FRCoumin
+1530VDPayerne
+1530VDPayerne Caserne
+1532FRFetigny
+1533FRMenieres
+1534VDSassel
+1534FRChapelle (Broye)
+1535VDCombremont-Grand
+1536VDCombremont-Petit
+1541FRBussy FR
+1541FRMorens FR
+1541FRSevaz
+1542FRRueyres-les-Pres
+1543VDGrandcour
+1543VDRessudens
+1544FRGletterens
+1545VDChevroux
+1551VDVers-chez-Perrin
+1551VDEtrabloz
+1552VDTrey
+1552VDGranges-sous-Trey
+1553FRChatonnaye
+1554VDSedeilles
+1554VDRossens VD
+1555VDVillarzel
+1556VDVillars-Bramard
+1556VDCerniaz VD
+1557VDDompierre VD
+1557VDGranges-Dompierre
+1562VDCorcelles-Payerne
+1563FRDompierre FR
+1564FRDomdidier
+1565VDMissy
+1565VDCarignan
+1565FRVallon
+1566FRSt-Aubin FR
+1567FRDelley
+1568FRPortalban
+1569FRAutavaux
+1569FRLes Planches
+1569FRForel FR
+1569FRMontbrelloz
+1580VDAvenches
+1580VDOleyres
+1582VDDonatyre
+1583FRVillarepos
+1583FRChandossel
+1584VDVillars-le-Grand
+1584FRLes Friques
+1585VDSalavaux
+1585VDCotterd
+1585VDBellerive VD
+1586VDVallamand
+1587VDMontmagny
+1587VDConstantine
+1588VDCudrefin
+1588VDMontet (Vully)
+1588VDLa Sauge
+1588VDChampmartin
+1589VDChabrey
+1595VDFaoug
+1595VDPfauen
+1595BEClavaleyres
+1602VDLa Croix (Lutry)
+1602VDEscherin
+1603VDGrandvaux
+1603VDLe Tronchet
+1603VDAran
+1603VDChenaux
+1604VDPuidoux-Gare
+1604VDMoreillon
+1604VDPuidoux
+1605VDChexbres
+1605VDCremieres
+1606VDForel (Lavaux)
+1607VDPalezieux-Gare
+1608VDOron-le-Chatel
+1608VDOron
+1608VDBussigny-sur-Oron
+1608VDChesalles-sur-Oron
+1608FRChapelle (Glane)
+1609FRSt-Martin FR
+1609FRBesencens
+1609FRFiaugeres
+1609FRLe Jordil
+1610VDOron-la-Ville
+1611FRLe Cret-p-Semsales
+1612VDEcoteaux
+1613VDMaracon
+1613VDLa Rogivue
+1614FRGranges (Veveyse)
+1615FRBossonnens
+1616FRAttalens
+1616FRCorcelles FR
+1616FRVuarat
+1617FRRemaufens
+1617FRTatroz
+1618FRChatel-St-Denis
+1618FRFruence
+1618FRPrayoud
+1619FRLes Paccots
+1623FRSemsales
+1623FRLa Rougeve
+1624FRLa Verrerie
+1624FRGrattavache
+1624FRProgens
+1625FRSales (Gruyere)
+1625FRMaules
+1626FRRomanens
+1626FRTreyfayes
+1626FRRueyres-Treyfayes
+1627FRVaulruz
+1628FRVuadens
+1628FRLes Colombettes
+1630FRBulle
+1630FRBulle 1
+1630FRBulle 2
+1631FRBulle
+1632FRRiaz
+1633FRMarsens
+1634FRLa Roche FR
+1635FRLa Tour-de-Treme
+1635FRLa Part-Dieu
+1636FRBroc
+1637FRCharmey (Gruyere)
+1638FRMorlon
+1641FRVuippens
+1642FRSorens
+1643FRGumefens
+1644FRAvry-devant-Pont
+1645FRLe Bry
+1645FRPont-en-Ogoz
+1645FRVillars-d'Avry
+1646FREcharlens
+1647FRCorbieres
+1648FRHauteville
+1649FRPont-la-Ville
+1651FRVillarvolard
+1652FRBotterens
+1652FRVillarbeney
+1653FRCresuz-Chatel-Mont
+1653FRCresuz
+1653FRChatel-Montsalvens
+1654FRCerniat FR
+1654FRLa Valsainte
+1655FRIm Fang
+1655FRLa Villette FR
+1656FRJaun
+1656FRBellegarde
+1657BEAblaendschen
+1661FRPaquier-Montbarry
+1661FRMontbarry
+1661FRLe Paquier FR
+1662FRPringy
+1662FRMoleson-Village
+1663FRGruyeres
+1664FREpagny
+1665FREstavannens
+1666FRGrandvillard
+1666FRVillars-sous-Mont
+1667FREnney
+1668FRNeirivue
+1669FRAlbeuve
+1669FRLessoc
+1670FRUrsy
+1670FRBionnens
+1670FREsmonts
+1671FRRue
+1673FRPromasens
+1673FRGillarens
+1673FRAuboranges
+1674FRVuarmarens
+1674FRMontet (Glane)
+1674FRMorlens
+1675FRVauderens
+1675FRBlessens
+1675FRMossel
+1676FRChavannes-Forts
+1677FRPrez-vers-Siviriez
+1678FRSiviriez
+1678FRLe Saulgy
+1678FRVillaranon
+1679FRVillaraboud
+1680FRRomont FR
+1680FRArruffens
+1680FRDrognens
+1680FRChavannes-Romont
+1680FRLes Glanes
+1680FRBerlens
+1680FRRomont Caserne
+1681FRRomont FR Sorties
+1681FRBillens
+1681FRHennens
+1681FREstevenens
+1682VDPrevonloup
+1682VDLovatens
+1683VDBrenles
+1683VDChesalles-Moudon
+1683VDSarzens
+1684FRMezieres FR
+1685FRVillariaz
+1686FRGrangettes-Romont
+1686FRLa Neirigue
+1687FRVuisternens-Romont
+1687FRLa Magne
+1688FRSommentier
+1688FRLieffrens
+1689FRChatelard-p-Romont
+1690FRVillaz-St-Pierre
+1690FRLussy FR
+1691FRVillarimboud
+1691FRMacconnens
+1692FRMassonnens
+1692FRFerlens FR
+1693FROrsonnens
+1693FRChavannes-Orsonnen
+1694FRVillarsiviriaux
+1694FRVillargiroud
+1695FRVillarlod
+1695FRRueyres-St-Laurent
+1696FRVuisternens-Ogoz
+1697FRLa Joux FR
+1697FRLes Ecasseys
+1698FRBouloz
+1699FRPorsel
+1699FRPont (Veveyse)
+1700FRFribourg
+1700FRFreiburg
+1700FRFriborgo
+1700FRLa Glane
+1700FRNeuveville
+1700FRUebewil
+1700FRVillars-les-Joncs
+1700FRDaillettes
+1700FRFribourg 1
+1700FRFribourg 1 Dist
+1700FRFribourg Caserne
+1701FRFribourg
+1701FRFribourg DT
+1702FRFribourg
+1703FRFribourg
+1704FRFribourg
+1705FRFribourg
+1706FRFribourg
+1707FRFribourg
+1708FRFribourg
+1709FRFribourg
+1711FRSchwarzsee
+1711FRLac-Noir
+1711FRZollhaus
+1712FRTafers
+1712FRTavel FR
+1713FRSt. Antoni
+1714FRHeitenried
+1714FRNiedermuhren
+1715FRAlterswil FR
+1715FRBenewil
+1715FRWengliswil
+1716FRPlaffeien
+1716FRPlanfayon
+1716FROberschrot
+1717FRSt. Ursen
+1717FRSt-Ours
+1718FRRechthalten
+1718FRDirlaret
+1719FRBruenisried
+1719FRZumholz
+1720FRCorminboeuf
+1720FRChesopelloz
+1721FRMisery
+1721FRCormerod
+1721FRCorsalettes
+1721FRCourtion
+1722FRBourguillon
+1722FRBuerglen FR
+1722FRRoemerswil FR
+1723FRMarly
+1723FRMarly 1
+1723FRMarly 2
+1723FRVillarsel-Marly
+1723FRPierrafortscha
+1724FRPraroman-Le Mouret
+1724FRLe Mouret
+1724FREssert FR
+1724FRFerpicloz
+1724FRMontevraz
+1724FROberried FR
+1724FRSenedes
+1724FRZenauva
+1725FRPosieux
+1725FRGrangeneuve FR
+1725FRHauterive FR
+1726FRFarvagny
+1726FRFarvagny-le-Petit
+1726FRGrenilles
+1726FRPosat
+1727FRCorpataux
+1727FRMagnedens
+1728FRRossens FR
+1729FRBonnefontaine
+1729FRMontecu
+1730FREcuvillens
+1731FREpendes FR
+1731FRSales (Sarine)
+1732FRArconciel
+1733FRTreyvaux
+1734FRTentlingen
+1735FRGiffers
+1735FREichholz
+1735FRChevrilles
+1736FRSt. Silvester
+1737FRPlasselb
+1737FRNeuhaus FR
+1738BESangernboden
+1738BEOttenleue Bad
+1738BESchwefelberg Bad
+1738BESelibuehl
+1740FRNeyruz FR
+1740FRNierlet-le-Toit
+1741FRCottens FR
+1742FRAutigny
+1743FREstavayer-Gibloux
+1743FRVillarsel-Gibloux
+1744FRChenens
+1745FRLentigny
+1746FRPrez-vers-Noreaz
+1747FRCorserey
+1748FRTorny-le-Grand
+1749FRMiddes
+1749FRTorny-le-Petit
+1752FRVillars-sur-Glane
+1752FRCormanon
+1752FRVillars-Glane 1
+1752FRVillars-Glane 2
+1753FRMatran
+1754FRRose
+1754FRCorjolens
+1754FRAvry-sur-Matran
+1754FRAvry-Centre FR
+1756FROnnens FR
+1756FRLovens
+1757FRNoreaz
+1757FRSeedorf FR
+1762FRGivisiez
+1763FRGranges-Paccot
+1772FRGrolley
+1772FRNierlet-les-Bois
+1772FRPonthaux
+1773FRLechelles
+1773FRChandon
+1773FRRussy
+1774FRCousset
+1774FRMontagny-les-Monts
+1775FRMannens-Grandsivaz
+1775FRMannens
+1775FRGrandsivaz
+1776FRMontagny-la-Ville
+1782FRBelfaux
+1782FRCutterwil
+1782FRFormangueires
+1782FRAutafond
+1782FRLossy-Formangueire
+1783FRPensier
+1783FRBreilles
+1783FRLa Sonnaz
+1783FRLa Corbaz
+1783FRCormagens
+1783FRBarbereche
+1784FRCourtepin
+1784FREsserts (Lac)
+1784FRCournillens
+1784FRWallenried
+1785FRCressier FR
+1786FRSugiez
+1786FRBellechasse
+1786FRBas-Vully
+1786FRNant FR
+1787FRMotier (Vully)
+1787FRGuevaux
+1787VDMur (Vully)
+1788FRPraz (Vully)
+1789FRLugnorre
+1789FRHaut-Vully
+1791FRCourtaman
+1792FRCordast
+1792FRKleinguschelmuth
+1792FRGrossguschelmuth
+1792FRGuschelmuth
+1793FRJeuss
+1793FRJentes
+1794FRSalvenach
+1794FRSalvagny
+1795FRCourlevon
+1795FRCoussiberle
+1796FRCourgevaux
+1796FRGurwolf
+1797BEMuenchenwiler
+1797BEVillars-les-Moines
+1800VDVevey
+1800VDHauteville (Vevey)
+1800VDNant VD
+1800VDVevey 1
+1800VDVevey 2
+1800VDVevey 1 Dist L
+1801VDLe Mont-Pelerin
+1802VDCorseaux
+1803VDChardonne
+1804VDCorsier-sur-Vevey
+1805VDJongny
+1806VDSt-Legier-Chiesaz
+1806VDSt-Legier
+1806VDLa Chiesaz
+1807VDBlonay
+1807VDBains-de-l'Alliaz
+1807VDL'Alliaz
+1807VDLes Chevalleyres
+1807VDLally
+1807VDLes Pleiades
+1808VDMonts-de-Corsier
+1808VDMoille-Saulaz
+1808VDCorsier-les-Monts
+1809VDFenil-sur-Corsier
+1811VDVevey Nestle
+1812VDRivaz
+1813VDSt-Saphorin-Lavaux
+1814VDLa Tour-de-Peilz
+1814VDBurier
+1815VDClarens
+1815VDBaugy
+1815VDPlanchamp
+1815VDTavel VD
+1816VDChailly-Montreux
+1817VDBrent
+1817VDFontanivent
+1820VDMontreux
+1820VDGrandchamp VD
+1820VDMont-Fleuri
+1820VDPlanches (Mtrx)
+1820VDVuarennes
+1820VDChatelard VD
+1820VDChillon
+1820VDMontreux 1
+1820VDMontreux 2
+1820VDMontreux 3
+1820VDTerritet-Veytaux
+1820VDVeytaux-Chillon
+1820VDVeytaux
+1820VDMontreux 1 Dist L
+1822VDChernex
+1822VDSonzier
+1823VDGlion
+1824VDCaux
+1824VDRochers-de-Naye
+1831VDMontreux Sorties
+1831VDVillard-sur-Chamby
+1831FRSciernes-d'Albeuve
+1831VDL'Etivaz
+1831VDLa Lecherette
+1832VDChamby
+1832VDCornaux VD
+1833VDLes Avants
+1833VDJor
+1835FRMontbovon
+1835FRAllieres
+1835FRLes Cases
+1836VDRossiniere
+1836VDLa Tine
+1837VDChateau-d'Oex
+1837VDLes Combes VD
+1837VDGranges-Chat-d'Oex
+1837VDLes Moulins
+1838VDRougemont
+1839VDFlendruz
+1839VDLes Combes VD
+1844VDVilleneuve VD
+1845VDNoville
+1845VDCrebelley
+1846VDChessel
+1847VDRennaz
+1852VDRoche VD
+1852VDVersvey
+1853VDYvorne
+1854VDLeysin
+1854VDLeysin 1
+1854VDLeysin 2
+1855VDSt-Triphon
+1856VDCorbeyrier
+1858VDPanex
+1858VDPlambuit
+1860VDAigle
+1860VDFontanney
+1861VDLa Comballaz
+1861VDOrmont-Dessous
+1861VDLes Voettes
+1862VDLes Mosses
+1862VDOrmont-Dessous
+1863VDLe Sepey
+1863VDCergnat
+1863VDOrmont-Dessous
+1864VDVers-l'Eglise
+1864VDLes Aviolats
+1864VDLe Rosex
+1865VDLes Diablerets
+1865VDCol-du-Pillon
+1865VDLes Bovets
+1865VDOrmont-Dessus
+1866VDLa Forclaz VD
+1866VDExergillod
+1866VDOrmont-Dessous
+1867VDOllon VD
+1867VDAntagnes
+1867VDAuliens
+1867VDVilly VD
+1867VDGlutieres
+1867VDSalaz
+1868VSCollombey
+1869VSMassongex
+1870VSMonthey
+1870VSMonthey 1
+1870VSMonthey 2
+1871VSChoex
+1871VSLes Giettes
+1872VSTroistorrents
+1872VSChemex
+1873VSVal-d'Illiez
+1873VSChampoussin
+1873VSLes Crosets
+1874VSChampery
+1874VSPlanachaux
+1875VSMorgins
+1880VDBex
+1880VDChietres-sur-Bex
+1880VDLe Bevieux
+1880VDLes Devens
+1880VDChene-sur-Bex
+1880VDFrenieres-sur-Bex
+1880VDFenalet-sur-Bex
+1882VDGryon
+1882VDAnzeinda
+1882VDSolalex
+1882VDLa Barboleuse
+1884VDVillars-sur-Ollon
+1884VDBretaye
+1884VDArveyes
+1884VDHuemoz
+1885VDChesieres
+1886VDLes Posses-sur-Bex
+1888VDLes Plans-sur-Bex
+1890VSSt-Maurice
+1890VSDailly
+1890VSEpinassey
+1890VSSavatan
+1890VSSt-Maurice Caserne
+1891VSSt-Maurice Sorties
+1891VSMex VS
+1891VSVerossaz
+1891VSDaviaz
+1892VDLavey-Village
+1892VDLavey-les-Bains
+1893VSMuraz (Collombey)
+1893VSIllarsaz
+1894VSLes Evouettes
+1894VSPort-Valais
+1895VSVionnaz
+1896VSVouvry
+1896VSMiex
+1896VSTanay
+1897VSBouveret
+1898VSSt-Gingolph
+1899VSTorgon
+1899VSRevereulaz
+1902VSEvionnaz
+1902VSLa Balmaz
+1902VSLa Rasse VS
+1903VSCollonges
+1904VSVernayaz
+1904VSMieville
+1905VSDorenaz
+1905VSAllesse
+1905VSChampex-d'Allesse
+1906VSCharrat
+1906VSLes Chenes
+1906VSVison
+1907VSSaxon
+1907VSMayens-de-Saxon
+1907VSSapinhaut
+1907VSTovassiere
+1908VSRiddes
+1908VSEcone
+1911VSOvronnaz
+1911VSMayens-de-Chamoson
+1912VSLeytron
+1912VSDugny
+1912VSMontagnon
+1912VSProduit
+1913VSSaillon
+1914VSIserables
+1914VSAuddes-sur-Riddes
+1918VSMayens-de-Riddes
+1918VSVilly VS
+1920VSMartigny
+1920VSLa Forclaz(Trient)
+1920VSLa Batiaz
+1920VSGueuroz
+1920VSLa Caffe
+1920VSLes Rappes
+1920VSMartigny 1
+1920VSMartigny 2
+1920VSMartigny 1 Dist L
+1921VSMartigny-Croix
+1921VSLe Brocard
+1921VSMartigny-Combe
+1921VSLa Fontaine
+1921VSLe Cergneux VS
+1921VSLe Fays
+1921VSLe Chanton
+1921VSPlan-Cerisier
+1922VSSalvan
+1922VSVan-d'en-Haut
+1922VSLe Bioley
+1922VSVan-d'en-Bas
+1922VSGranges (Salvan)
+1923VSLes Marecottes
+1923VSLa Creusaz
+1923VSLe Tretien
+1925VSFinhaut
+1925VSGietroz
+1925VSLe Chatelard VS
+1926VSFully
+1926VSBranson
+1926VSChataignier
+1926VSMazembroz
+1926VSSaxe
+1926VSChiboz
+1927VSChemin
+1927VSChemin-Dessous
+1927VSChemin-Dessus
+1928VSRavoire
+1928VSSommet-des-Vignes
+1929VSTrient
+1929VSLes Jeurs
+1932VSBovernier
+1932VSLes Valettes
+1932VSLe Borgeaud
+1933VSSembrancher
+1933VSVens
+1933VSChamoille
+1933VSLa Garde
+1934VSLe Chable VS
+1934VSBagnes
+1934VSCotterg
+1934VSMontagnier
+1934VSFontenelle
+1934VSLe Sapey
+1934VSMayens-de-Bruson
+1934VSVillette
+1934VSBruson
+1936VSVerbier
+1936VSMedieres
+1936VSVerbier 1
+1936VSVerbier 2
+1937VSOrsieres
+1937VSSom-la-Proz
+1937VSCommeire
+1937VSLa Douay
+1937VSIssert
+1937VSReppaz
+1937VSLa Rosiere
+1937VSPrassurny
+1937VSChez-les-Reuses
+1937VSChamoille VS
+1937VSChez-les-Addy
+1937VSChez-les-Giroud
+1937VSMaligue
+1937VSSoulalex
+1937VSVerlonnaz
+1937VSLe Bioley
+1938VSChampex
+1941VSVolleges
+1941VSCries
+1941VSEtiez
+1942VSLevron
+1943VSPraz-de-Fort
+1943VSLa Seiloz
+1943VSLes Arlaches
+1943VSSaleinaz
+1944VSLa Fouly VS
+1944VSPrayon
+1944VSBranche
+1945VSLiddes
+1945VSDranse
+1945VSChandonne
+1945VSChez-Petit
+1945VSFontaine
+1945VSRive-Haute
+1945VSVicheres
+1946VSBourg-St-Pierre
+1946VSBourg-St-Bernard
+1946VSGrand-St-Bernard
+1947VSVersegeres
+1947VSChampsec
+1947VSPrarreyer
+1947VSLe Martinet
+1948VSLourtier
+1948VSFionnay
+1948VSSarreyer
+1950VSSion
+1950VSLa Muraz
+1950VSSitten
+1950VSMolignon
+1950VSDiolly
+1950VSLa Sionne
+1950VSMaragnenaz
+1950VSMontorge
+1950VSSion 1
+1950VSSion 2
+1950VSSion 3
+1950VSSion 4
+1950VSSion 5
+1950VSSion 1 Dist L
+1950VSSion Caserne
+1951VSSion
+1951VSSion DT
+1951VSSion car postal
+1955VSChamoson
+1955VSLes Verines
+1955VSNemiaz
+1956VSSt-Pierre-Clages
+1957VSArdon
+1958VSSt-Leonard
+1958VSUvrier
+1961VSVernamiege
+1962VSPont-de-la-Morge
+1962VSChatroz
+1962VSVuisse
+1963VSVetroz
+1963VSMagnot
+1964VSConthey
+1964VSChateauneuf (Cont)
+1964VSConthey 1
+1964VSConthey 2
+1965VSSaviese
+1965VSChandolin-Saviese
+1965VSDrone
+1965VSGranois
+1965VSSt-Germain
+1965VSMayens-de-la-Zour
+1965VSOrmone
+1965VSRoumaz
+1965VSPrafirmin
+1966VSAyent
+1966VSBotyre
+1966VSLuc
+1966VSArgnou
+1966VSBlignou
+1966VSFortunau
+1966VSLa Place
+1966VSSaxonne
+1966VSSignese
+1966VSVilla (Ayent)
+1966VSZeuzier
+1967VSBramois
+1968VSMase
+1968VSMayens-de-Mase
+1969VSSt-Martin VS
+1969VSTrogne
+1969VSEison
+1969VSSuen
+1969VSLiez
+1971VSGrimisuat
+1971VSChamplan
+1971VSComeraz
+1972VSAnzere
+1973VSNax
+1973VSMayens-de-Nax
+1974VSArbaz
+1974VSMayens-d'Arbaz
+1975VSSt-Severin
+1975VSSensine (Conthey)
+1976VSErde
+1976VSDerborence
+1976VSPremploz
+1976VSMayens-de-Conthey
+1976VSLe Nez
+1976VSMayens-de-My
+1976VSPomeiron
+1976VSAven
+1976VSDaillon
+1977VSIcogne
+1978VSLens
+1981VSVex
+1981VSLes Prasses
+1981VSYpresses
+1982VSEuseigne
+1982VSPraz-Jean
+1982VSLa Luette
+1983VSEvolene
+1984VSLes Hauderes
+1984VSFerpecle
+1985VSLa Sage
+1985VSLa Forclaz VS
+1985VSVillaz
+1986VSArolla
+1987VSHeremence
+1987VSCerise
+1987VSLe Chargeur
+1987VSPralong
+1987VSProlin
+1987VSRiod
+1987VSMache
+1988VSThyon-Les Collons
+1988VSLes Masses
+1988VSThyon
+1988VSLes Collons
+1991VSSalins
+1991VSArvilard (Salins)
+1991VSLa Courtaz
+1991VSLe Parfay
+1991VSLe Saillen
+1991VSMiseriez
+1991VSPradurant
+1991VSTurin
+1991VSPravidondaz
+1992VSLes Agettes
+1992VSLa Vernaz
+1992VSLes Mayens-de-Sion
+1993VSVeysonnaz
+1993VSClebes
+1994VSBaar (Nendaz)
+1994VSBioley-de-Brignon
+1994VSBrignon
+1994VSPlan-Baar
+1994VSBeuson
+1994VSAproz
+1996VSBasse-Nendaz
+1996VSNendaz
+1996VSCondemines
+1996VSCoor
+1996VSSaclentz
+1996VSBieudron
+1996VSFey (Nendaz)
+1997VSHaute-Nendaz
+1997VSNendaz
+1997VSLe Bleusy
+1997VSSornard
+1997VSSiviez
+2000NENeuchatel
+2000NENeuenburg
+2000NENeuchatel 2 Dist L
+2001NENeuchatel 1
+2001NENeuchatel DAP
+2002NENeuchatel 2
+2002NENeuchatel DT
+2003NENeuchatel 3
+2003NESerrieres
+2004NENeuchatel 4
+2005NENeuchatel 5
+2006NENeuchatel 6
+2007NENeuchatel 7
+2008NENeuchatel 8
+2009NENeuchatel 9
+2009NELa Coudre NE
+2012NEAuvernier
+2013NEColombier NE
+2013NEColombier Caserne
+2014NEBole
+2015NEAreuse
+2015NEGrandchamp NE
+2016NECortaillod
+2017NEBoudry
+2017NEPerreux
+2022NEBevaix
+2023NEGorgier
+2024NESt-Aubin NE
+2025NEChez-le-Bart
+2026NESauges NE
+2027NEFresens-Montalchez
+2027NEMontalchez
+2027NEFresens
+2028NEVaumarcus
+2028NEVerneaz
+2034NEPeseux
+2035NECorcelles NE
+2036NECormondreche
+2042NEValangin
+2043NEBoudevilliers
+2043NELa Jonchere
+2043NEMalvilliers
+2046NEFontaines NE
+2046NELandeyeux
+2052NEFontainemelon
+2053NECernier
+2054NEChezard-St-Martin
+2054NEPetit-Chezard
+2054NELes Vieux-Pres
+2056NEDombresson
+2057NEVilliers
+2057NEClemesin
+2058NELe Paquier NE
+2058NELes Bugnenets
+2058NELa Joux-du-Plane
+2063NEVilars NE
+2063NEFenin
+2063NESaules NE
+2063NEEngollon
+2065NESavagnier
+2065NEGrand-Savagnier
+2065NEPetit-Savagnier
+2067NEChaumont
+2068NEHauterive
+2072NESt-Blaise
+2072NEVoens
+2073NEEnges
+2074NEMarin-Epagnier
+2074NEEpagnier
+2074NEPrefargier
+2075NEThielle-Wavre
+2075NEMontmirail
+2075NEZihlbruecke
+2075NEThielle
+2075NEWavre
+2076BEGals
+2076BEChules
+2076BEBethlehem b. Gals
+2087NECornaux NE
+2088NECressier NE
+2103NENoiraigue
+2103NEBrot-Dessous
+2105NETravers
+2108NECouvet
+2108NEPlancemont
+2108NELes Ruilleres
+2112NEMotiers NE
+2113NEBoveresse
+2114NEFleurier
+2115NEButtes
+2116NEMont-de-Buttes
+2117NELa Cote-aux-Fees
+2117NELes Bourquins
+2117NELes Jeannets
+2117NESt-Olivier
+2123NESt-Sulpice NE
+2124NELes Sagnettes
+2126NELes Verrieres
+2126NEMeudon
+2126NEMont-des-Verrieres
+2127NELes Bayards
+2127NELe Cernil NE
+2149NEChamp-du-Moulin
+2202NEChambrelien
+2203NERochefort
+2203NELes Grattes
+2203NELa Tourne
+2205NEMontmollin
+2205NEMontezillon
+2206NEGeneveys-Coffrane
+2207NECoffrane
+2208NELes Hauts-Geneveys
+2209NELa Vue-des-Alpes
+2209NEMontagne-Cernier
+2209NETete-de-Ran
+2209NELes Loges
+2300NELa Chaux-de-Fonds
+2300NELa Chaux-de-Fds 1
+2300NEChxdFds 1 Dist L
+2301NELa Chaux-de-Fonds
+2302NELa Chaux-de-Fonds
+2303NELa Chaux-de-Fonds
+2304NELa Chaux-de-Fonds
+2304NELes Eplatures
+2305NELa Chaux-de-Fonds
+2306NELa Chaux-de-Fonds
+2314NELa Sagne NE
+2314NELes Coeudres
+2314NELa Corbatiere
+2315NEPetit-Martel
+2316NEPonts-de-Martel
+2316NEMartel-Dernier
+2318NEBrot-Plamboz
+2318NELes Petits-Ponts
+2318NEBrot-Dessus
+2322NELe Cret-du-Locle
+2325NELes Planchettes
+2325NELes Joux-Derriere
+2326JUBiaufond
+2332NELa Cibourg
+2333BELa Ferriere
+2333BELa Chaux-d'Abel
+2336JULes Bois
+2336JUCerneux-Godat
+2336JUCreux-des-Biches
+2336JULe Peu-Claude
+2336JULe Boechet
+2338JUEmibois-Muriaux
+2338JUMuriaux
+2340JULe Noirmont
+2340JULe Peu-Pequignot
+2345JULes Breuleux
+2345JULe Roselet
+2345JULes Vacheries
+2345JULe Peuchapatte
+2345JULe Cerneux-Veusil
+2345JUChaux-des-Breuleux
+2350JUSaignelegier
+2350JULes Cerlatez
+2353JULes Pommerats
+2354JUGoumois
+2354JUBelfond
+2354JUVautenaivre
+2400NELe Locle
+2400NEEntre-deux-Monts
+2400NELe Quartier
+2400NELes Replattes
+2405NELa Chaux-du-Milieu
+2405NELe Cachot
+2406NELa Brevine
+2406NELes Tailleres
+2407NELa Chatagne
+2408NELe Brouillet
+2408NEBemont NE
+2412NELe Col-des-Roches
+2413NELe Prevoux
+2414NECerneux-Pequignot
+2416NELes Brenets
+2416NELes Fretes
+2500BEBiel/Bienne
+2500BEBienne
+2500BEBiel BE
+2500BEBienna
+2500BEBiel/Bienne 1
+2500BEBiel/Bienne 3
+2500BEBiel/Bienne 4
+2500BEBiel/Bienne 5
+2500BEBiel/Bienne 6
+2500BEBiel/Bienne 7
+2500BEBiel/Bienne 8
+2500BEBiel/Bienne 9
+2500BEBiel 1 Ausgabe
+2501BEBiel/Bienne
+2501BEBiel TD
+2502BEBiel/Bienne
+2503BEBiel/Bienne
+2504BEBiel/Bienne
+2505BEBiel/Bienne
+2512BETuescherz-Alfermee
+2512BEDaucher
+2512BEAlfermee
+2513BETwann
+2513BEDouanne
+2513BEGaicht
+2513BEWingreis
+2514BELigerz
+2514BEChavannes BE
+2514BEGleresse
+2514BESchafis
+2514BESchernelz
+2515BEPreles
+2515BEPraegelz
+2516BELamboing
+2516BETwannberg
+2517BEDiesse
+2518BENods
+2518BEChasseral
+2520BELa Neuveville
+2520BENeuenstadt
+2523NELignieres
+2525NELe Landeron
+2525NESt-Jean BE
+2525NESt. Johannsen
+2532BEMagglingen/Macolin
+2532BEMacolin
+2533BEEvilard
+2533BELeubringen
+2534BEOrvin
+2534BEIlfingen
+2534BELes Pres-d'Orvin
+2535BEFrinvillier
+2535BEFriedliswart
+2536BEPlagne
+2537BEVauffelin
+2537BEFueglisthal
+2538BERomont BE
+2540SOGrenchen
+2540SOGranges SO
+2540SOStaad (Grenchen)
+2540SOGrenchenberg
+2540SOGrenchen 1
+2540SOGrenchen 2
+2542BEPieterlen
+2542BEPerles
+2543BELengnau BE
+2543BELongeau
+2544SOBettlach
+2545SOSelzach
+2545SOAltreu
+2545SOBaeriswil SO
+2545SOHaag SO
+2552BEOrpund
+2552BEGottstatt
+2553BESafnern
+2554BEMeinisberg
+2555BEBruegg b. Biel
+2556BEScheuren
+2556BESchwadernau
+2557BEStuden BE
+2558BEAegerten
+2560BENidau
+2562BEPort
+2563BEIpsach
+2564BEBellmund
+2565BEJens
+2572BESutz
+2572BELattrigen
+2572BEMoerigen
+2575BETaeuffelen
+2575BEGerolfingen
+2575BEHagneck
+2576BELuescherz
+2577BESiselen BE
+2577BEFinsterhennen
+2578BEBruettelen
+2603BEPery
+2603BELa Reuchenette
+2603BEMontoz (Pery)
+2604BELa Heutte
+2605BESonceboz-Sombeval
+2605BESombeval
+2606BECorgemont
+2607BECortebert
+2608BECourtelary
+2608BEMontagne-Courtlary
+2608BEPres-de-Cortebert
+2610BESt-Imier
+2610BESt. Immer
+2610BELes Pontins
+2610BEMont-Soleil
+2610BEMontagne-du-Droit
+2610BEMont-Crosin
+2612BECormoret
+2613BEVilleret
+2615BESonvilier
+2615BEMontagne-Sonvilier
+2616BERenan BE
+2616BEConvers
+2710BETavannes
+2710BEDachsfelden
+2711JULe Predame
+2711JUVacheries-Genevez
+2712BELe Fuet
+2712BEMoron (Chatelat)
+2713BEBellelay
+2714JULes Genevez JU
+2715BEChatelat-Monible
+2715BEChatelat
+2715BEMonible
+2716BESornetan
+2717BEFornet-Dessous
+2717BERebevelier
+2718JULajoux JU
+2718JUFornet-Dessus
+2720BETramelan
+2720BETramlingen
+2720BELa Tanne
+2722BELes Reussilles
+2722BEChaux-de-Tramelan
+2722BELe Cernil BE
+2723BEMont-Tramelan
+2723BEVacheries-Brunier
+2732BEReconvilier
+2732BEChaindon
+2732BERokwiler
+2732BESaicourt
+2732BESaules BE
+2732BELoveresse
+2733BEPontenet
+2735BEMalleray-Bevilard
+2735BEBevilard
+2735BEChampoz
+2735BEMalleray
+2735BEMoron (Malleray)
+2736BESorvilier
+2738BECourt
+2738BELe Chaluet
+2740BEMoutier
+2740BEMontagne-Moutier
+2740BEMuenster BE
+2740BEMoutier 1
+2740BEMoutier 2
+2742BEPerrefitte
+2743BEEschert
+2744BEBelprahon
+2745BEGrandval
+2746BECremines
+2747BECorcelles BE
+2747BESeehof
+2747BEElay
+2748BESouboz-Les Ecorch
+2748BELes Ecorcheresses
+2762BERoches BE
+2800JUDelemont
+2800JULes Rondez
+2800JUDelsberg
+2800JUDelemont 1
+2800JUDelemont 2
+2800JUDelemont 1 Dist
+2800JUDelemont car post
+2802JUDevelier
+2803JUBourrignon
+2805JUSoyhieres
+2805JUBellerive JU
+2806JUMettembert
+2807JUPleigne
+2807JULucelle
+2807JULuetzel
+2812JUMovelier
+2813JUEderswiler
+2814BLRoggenburg
+2814BLMoulin-Neuf
+2822JUCourroux
+2823JUCourcelon
+2824JUVicques
+2824JURecolaine
+2825JUCourchapoix
+2826JUCorban
+2827JUMervelier
+2827JULa Scheulte
+2827BESchelten
+2828JUMontsevelier
+2829JUVermes
+2829JUEnvelier
+2830JUCourrendlin
+2830JUVellerat
+2830JUChoindez
+2832JURebeuvelier
+2842JURossemaison
+2843JUChatillon JU
+2852JUCourtetelle
+2853JUCourfaivre
+2854JUBassecourt
+2854JUBerlincourt
+2855JUGlovelier
+2855JUSceut
+2856JUBoecourt
+2857JUMontavon
+2857JUSeprais
+2863JUUndervelier
+2864JUSoulce
+2873JUSaulcy
+2874JUSt-Brais
+2874JUMontfavergier
+2875JUMontfaucon
+2875JULes Sairains
+2875JULes Enfers
+2877JULe Bemont JU
+2877JULa Bosse
+2877JULes Rouges-Terres
+2882JUSt-Ursanne
+2883JUMontmelon
+2884JUMontenol
+2885JUEpauvillers
+2886JUEpiquerez
+2886JUEssertfallon
+2887JUSoubey
+2888JUSeleute
+2889JUOcourt
+2889JULa Motte
+2900JUPorrentruy
+2900JUPruntrut
+2900JUPorrentruy 1
+2900JUPorrentruy 2
+2900JUPorrentruy 1 Dist
+2900JUPorrentruy Caserne
+2902JUFontenais
+2903JUVillars-sur-Font
+2904JUBressaucourt
+2905JUCourtedoux
+2906JUChevenez
+2907JURocourt
+2908JUGrandfontaine
+2912JUReclere-Roche-d'Or
+2912JUReclere
+2912JURoche-d'Or
+2914JUDamvant
+2915JUBure
+2916JUFahy
+2922JUCourchavon
+2923JUCourtemaiche
+2924JUMontignez
+2924JUGrandgourt
+2925JUBuix
+2926JUBoncourt
+2932JUCoeuve
+2933JUDamphreux-Lugnez
+2933JUDamphreux
+2933JULugnez
+2935JUBeurnevesin
+2942JUAlle
+2943JUVendlincourt
+2944JUBonfol
+2946JUMiecourt
+2946JUMiserez-Dessous
+2947JUCharmoille
+2947JUMiserez-Dessus
+2950JUCourgenay
+2950JUCourtemautruy
+2952JUCornol
+2953JUFregiecourt-Pleuj
+2953JUFregiecourt
+2953JUPleujouse
+2954JUAsuel
+2954JULes Rangiers
+3000BEBern
+3000BEBerna
+3000BEBerne
+3000BEBern 2
+3000BEBern 5
+3000BEBern 6
+3000BEBern 7
+3000BEBern 8
+3000BEBern 9
+3000BEBern 11
+3000BEBern 13
+3000BEBern 14
+3000BEBern 15
+3000BEBern 16
+3000BEBern 17
+3000BEBern 21
+3000BEBern 22
+3000BEBern 23
+3000BEBern 25
+3000BEBern 26
+3000BEBern 29
+3000BEBern 31
+3000BEBern 32
+3000BEBern 1 Ba
+3000BEBern 60 UPD
+3000BEBern 71 CS PZ
+3000BEBern 22 Kaserne
+3000BEBern Postauto
+3000BEBern Radio Schweiz
+3001BEBern
+3002BEBern RZC I Betrieb
+3003BEBern
+3003BEBern 3 Nationalrat
+3003BEBern 3 Staenderat
+3004BEBern
+3004BEFelsenau BE
+3005BEBern
+3006BEBern
+3007BEBern
+3008BEBern
+3010BEBern
+3011BEBern
+3012BEBern
+3013BEBern
+3014BEBern
+3015BEBern
+3018BEBern
+3018BEBuempliz
+3018BENiederbottigen
+3019BEBern
+3019BEMatzenried
+3019BEOberbottigen
+3020BEBern
+3020BERiedbach
+3024BEBern
+3027BEBern
+3027BEBethlehem b. Bern
+3027BERiedern b. Bern
+3029BEBern
+3030BEBern 30
+3030BEBern
+3030BEBern KPD
+3030BEBern TD
+3032BEHinterkappelen
+3032BEEymatt
+3033BEWohlen b. Bern
+3033BEIlliswil
+3034BEMurzelen
+3035BEFrieswil
+3036BEDetligen
+3036BEOltigen
+3036BEMatzwil
+3036BEOstermanigen
+3037BEHerrenschwanden
+3037BENeubrueck
+3037BEStuckishaus
+3038BEKirchlindach
+3038BEJetzikofen
+3038BEOberlindach
+3040BEBern
+3042BEOrtschwaben
+3043BEUettligen
+3043BEMoeriswil
+3044BEInnerberg-Saeriswil
+3044BEInnerberg
+3044BESaeriswil
+3045BEMeikirch
+3045BEGraechwil
+3045BEWeissenstein BE
+3046BEWahlendorf
+3047BEBremgarten b. Bern
+3047BESeftau
+3048BEWorblaufen
+3050BEBern
+3052BEZollikofen
+3052BESteinibach
+3052BEReichenbach b.Bern
+3052BERuetti
+3053BEMuenchenbuchsee
+3053BEHofwil
+3053BEDeisswil Mbuchsee
+3053BEDiemerswil
+3053BEWiggiswil
+3054BESchuepfen
+3054BEBuetschwil BE
+3054BEBundkofen
+3054BESaurenhorn
+3054BESchwanden b. Schuep
+3054BEZiegelried
+3063BEIttigen
+3063BEEyfeld
+3063BEKappelisacker
+3063BEPapiermuehle
+3065BEBolligen
+3065BEFlugbrunnen
+3065BEGeristein
+3065BEHabstetten
+3065BEBantigen
+3065BEBolligen Dorf
+3065BEBolligen Station
+3066BEStettlen
+3066BEDeisswil Stettlen
+3066BEFerenberg b.Stettl
+3067BEBoll
+3067BELindental b. Boll
+3067BESinneringen
+3067BEVechigen
+3068BEUtzigen
+3068BERadelfingen
+3072BEOstermundigen
+3072BEWaldau
+3072BEOstermundigen 1
+3072BEOstermundigen 2
+3072BEOstermundigen SB
+3073BEGuemligen
+3073BEMelchenbuehl
+3074BEMuri b. Bern
+3075BERuefenacht BE
+3075BELangenloh
+3075BEVielbringen b.Worb
+3076BEWorb
+3076BEWattenwil b. Worb
+3076BEDentenberg
+3076BEBangerten b. Worb
+3076BEWorb 1
+3076BEWorb 2
+3077BEEnggistein
+3078BERichigen
+3082BESchlosswil
+3082BERied b. Worb
+3083BETrimstein
+3084BEWabern
+3084BEGurten
+3086BEZimmerwald
+3086BEKuehlewil
+3086BEEnglisberg
+3087BENiedermuhlern
+3088BERueeggisberg
+3088BEOberbuetschel
+3088BEBuetschel
+3089BEHinterfultigen
+3089BEVorderfultigen
+3095BESpiegel b. Bern
+3096BEOberbalm
+3097BELiebefeld
+3098BEKoeniz
+3098BESchliern b. Koeniz
+3099BERueti b.Riggisberg
+3110BEMuensingen
+3112BEAllmendingen b. BE
+3113BERubigen
+3113BEBeitenwil
+3114BEWichtrach
+3114BENiederwichtrach
+3114BEOberwichtrach
+3115BEGerzensee
+3116BEKirchdorf BE
+3116BEMuehledorf BE
+3116BENoflen BE
+3122BEKehrsatz
+3123BEBelp
+3123BEBelpmoos
+3124BEBelpberg
+3125BEToffen
+3126BEKaufdorf
+3126BEGelterfingen
+3127BEMuehlethurnen
+3127BELohnstorf
+3128BEKirchenthurnen
+3128BERuemligen
+3132BERiggisberg
+3132BEHermiswil Kirchth
+3144BEGasel
+3144BEMengestorf
+3145BENiederscherli
+3145BEOberried Ndscherli
+3145BEOberscherli
+3147BEMittelhaeusern
+3147BEAekenmatt
+3148BELanzenhaeusern
+3150BESchwarzenburg
+3150BEWahlern
+3152BEMamishaus
+3153BERueschegg Gambach
+3153BEGambach
+3153BEHirschhorn
+3154BERueschegg Heubach
+3154BEHeubach
+3154BEWislisau
+3154BERueschegg Graben
+3155BEHelgisried
+3155BERohrbach Riggisbg
+3156BERiffenmatt
+3157BEMilken
+3158BEGuggisberg
+3158BEHirschmatt
+3159BERiedstaett
+3172BENiederwangen BE
+3172BEHerzwil
+3173BEOberwangen b. Bern
+3173BELiebewil
+3174BEThoerishaus
+3175FRFlamatt
+3176BENeuenegg
+3176BEBrueggelbach
+3176BEBramberg
+3176BEFreiburghaus
+3177BELaupen BE
+3178FRBoesingen
+3178FRFendringen
+3178FRGrenchen FR
+3178FRNoflen FR
+3178FRTuftera
+3178FRRichterwil
+3178FRVorstaffels
+3178FRGertholz
+3178FRUnterboesingen
+3178FRHubel
+3178FRRiederberg
+3178FREngelberg
+3178FRLitzistorf
+3178FRVogelshus
+3178FRLischera
+3178FRHanenhus
+3178FRHaala
+3178FRRebacher
+3179BEKriechenwil
+3179BESchoenenbuehl
+3182FRUeberstorf
+3183BEAlbligen
+3184FRWuennewil
+3184FRDietisberg FR
+3185FRSchmitten FR
+3185FRBerg FR
+3185FRFillistorf
+3185FRLanthen
+3186FRDuedingen
+3186FRBaeriswil b.Tafers
+3186FRBundtels
+3186FRGalmis b.Duedingen
+3186FRGarmiswil
+3186FRGuin
+3186FRHeitiwil
+3186FRJetschwil
+3186FRMariahilf
+3186FRSt. Wolfgang FR
+3202BEFrauenkappelen
+3202BEHeggidorn
+3203BEMuehleberg
+3203BEOberei Muehleberg
+3203BEButtenried
+3203BEMarfeldingen
+3203BEFuchsenried
+3204BERosshaeusern
+3204BEBaerfischenhaus
+3204BEJuchlishaus
+3204BESpengelried
+3204BESueri
+3204BERueplisried
+3205BEGuemmenen
+3205BEBuch b. Muehleberg
+3205BEMauss
+3205BEAllenlueften
+3206BERizenbach
+3206BEBiberen
+3206BEFerenbalm
+3206BEGammen
+3206FRWallenbuch
+3207BEWileroltigen
+3207BEGolaten
+3208BEGurbrue
+3210FRKerzers
+3210FRChietres
+3212FRGurmels
+3212FRCormondes
+3212FRMonterschu
+3212FRKleingurmels
+3213FRLiebistorf
+3213FRKleinboesingen
+3214FRUlmiz
+3214FROrmey
+3215FRGempenach
+3215FRChampagny
+3215FRBuchillon
+3215FRBuechslen
+3215FRLurtigen
+3216FRRied b. Kerzers
+3216FRAgrimoine
+3216FRAgriswil
+3225BEMuentschemier
+3225BEMonsmier
+3226BETreiten
+3232BEIns
+3232BEAnet
+3233BETschugg
+3234BEVinelz
+3235BEErlach
+3235BECerlier
+3235BESt. Petersinsel
+3236BEGampelen
+3236BEChampion
+3236BEWitzwil
+3250BELyss
+3250BEHardern
+3250BELyss Briefausgabe
+3250BELyss Kaserne
+3251BEWengi b. Bueren
+3251BEWaltwil
+3251BEScheunenberg
+3251BERuppoldsried
+3252BEWorben
+3253SOSchnottwil
+3254SOMessen
+3254SOEichholz b. Messen
+3254SOBalm b. Messen
+3255BERapperswil BE
+3255BEBittwil b. Rappw
+3255BEFrauchwil
+3255BEVogelsang BE
+3255BEWierezwil
+3255BEZimlisberg
+3256BEDieterswil
+3256BEMoosaffoltern
+3256BESeewil
+3256BEBangerten
+3257BEGrossaffoltern
+3257BEVorimholz
+3257BEAmmerzwil BE
+3262BESuberg
+3262BEKosthofen
+3263BEBueetigen
+3264BEDiessbach b.Bueren
+3266BEWiler b. Seedorf
+3267BESeedorf BE
+3267BEBaggwil
+3267BEAspi b. Seedorf
+3267BEFrienisberg
+3268BELobsigen
+3268BERuchwil
+3268BEDampfwil
+3270BEAarberg
+3270BESpins
+3271BERadelfingen
+3272BEWalperswil
+3272BEEpsach
+3273BEKappelen
+3273BEWerdthof
+3274BEHermrigen
+3274BESt. Niklaus b. Mer
+3274BEBuehl BE
+3274BEMerzligen
+3280FRMurten
+3280FRBurg b. Murten
+3280FRMerlach
+3280FRMorat
+3280FRMeyriez
+3280FRAltavilla
+3280FRGreng
+3282BEBargen BE
+3283BEKallnach
+3283BENiederried b. Kall
+3284FRFraeschels
+3284FRFrasses (Lac)
+3285FRGalmiz
+3285FRCharmey (Lac)
+3286FRMuntelier
+3286FRMontilier
+3292BEBusswil b. Bueren
+3293BEDotzigen
+3294BEBueren an der Aare
+3294BEReiben
+3294BEMeienried
+3295BERueti b. Bueren
+3296BEArch
+3297BELeuzigen
+3298BEOberwil b. Bueren
+3302BEMoosseedorf
+3303BEJegenstorf
+3303BEMuenchringen
+3303BEZuzwil BE
+3303BEBallmoos
+3305BEIffwil
+3305BEScheunen
+3306BEEtzelkofen
+3307SOBrunnenthal
+3308BEGrafenried
+3309BEKernenried
+3309BEZauggenried
+3312BEFraubrunnen
+3313BEBueren zum Hof
+3314BESchalunen
+3315BEBaetterkinden
+3315BEKraeiligen
+3317BELimpach
+3317BEMuelchi
+3321BESchoenbuehl EKZ
+3322BESchoenbuehl-Urtenen
+3322BEMattstetten
+3322BEUrtenen
+3323BEBaeriswil BE
+3324BEHindelbank
+3324BEMoetschwil
+3325BEHettiswil
+3325BEGrauenstein
+3325BESchleumen
+3326BEKrauchthal
+3326BEThorberg
+3360BEHerzogenbuchsee
+3362BENiederoenz
+3363BEOberoenz
+3365BEGrasswil
+3365BEBittwil b.Grasswil
+3365BESeeberg
+3366BEBettenhausen
+3366BEBollodingen
+3367BEThoerigen
+3367BEOchlenberg
+3368BEBleienbach
+3372BEWanzwil
+3373BERoethenbach Hbsee
+3373BEHeimenhausen
+3374BEWangenried
+3375BEInkwil
+3376BEGraben
+3376BEBerken
+3377BEWalliswil b.Wangen
+3380BEWangen an der Aare
+3380BEWalliswil-Nbipp
+3380BEWangen Kaserne
+3400BEBurgdorf
+3400BEBerthoud
+3400BEBurgdorf 1
+3400BEBurgdorf Ausgabe
+3401BEBurgdorf
+3402BEBurgdorf
+3412BEHeimiswil
+3412BEBusswil b. Heimisw
+3413BEKaltacker
+3414BEOberburg
+3415BEHasle-Rueegsau
+3415BEKalchofen
+3415BEHasle b. Burgdorf
+3415BESchafhausen i. E.
+3415BERueegsauschachen
+3416BEAffoltern BE
+3417BERueegsau
+3418BERueegsbach
+3419BEBiembach
+3421BELyssach
+3421BERohrmoos
+3421BERueti b. Lyssach
+3422BEKirchberg BE
+3422BEBuetikofen
+3422BERuedtligen
+3422BEAlchenflueh
+3423BEErsigen
+3423BERudswil
+3424BENiederoesch
+3424BEOberoesch
+3425BEKoppigen
+3425BEOeschberg
+3425BESt. Niklaus b. Kop
+3425BEWilladingen
+3426BEAefligen
+3427BEUtzenstorf
+3427BELandshut
+3428BEWiler b.Utzenstorf
+3429BEHoechstetten-Hells
+3429BEHoechstetten
+3429BEHellsau
+3432BELuetzelflueh-Goldb
+3432BEGoldbach BE
+3432BEWaldhaus
+3433BESchwanden i. E.
+3434BEObergoldbach
+3434BELandiswil
+3435BERamsei
+3436BEZollbrueck
+3436BEMungnau
+3436BEUnterfrittenbach
+3437BERuederswil
+3438BELauperswil
+3439BERanflueh
+3452BEGruenenmatt
+3453BEHeimisbach
+3453BEThal b. Heimisbach
+3454BESumiswald
+3454BEGammenthal
+3454BEGriesbach
+3455BEGruenen
+3456BETrachselwald
+3457BEWasen im Emmental
+3457BEKurzenei
+3457BEOberei b. Wasen
+3462BEWeier im Emmental
+3463BEHaeusernmoos
+3463BEWaltrigen
+3464BESchmidigen-Muehlew
+3464BEMuehleweg i. E. BE
+3465BEDuerrenroth
+3472BEWynigen
+3472BERumendingen
+3473BEAlchenstorf
+3474BERueedisbach
+3474BEFerrenberg b.Wynig
+3475BERiedtwil
+3475BEHermiswil
+3476BEOschwand
+3476BEJuchten
+3476BEWaeckerschwend
+3502BETaegertschi
+3503BEGysenstein
+3503BEHerolfingen
+3504BENiederhuenigen
+3504BEOberhuenigen
+3506BEGrosshoechstetten
+3506BEMoeschberg
+3507BEBiglen
+3508BEArni BE
+3508BEArnisaege
+3510BEKonolfingen
+3510BEUrsellen
+3510BEKonolfingen 1
+3510BEKonolfingen 2
+3510BEKonolfingen 3
+3510BEStalden i. E.
+3510BEFreimettigen
+3510BEHaeutligen
+3512BEWalkringen
+3512BEWikartswil
+3513BEBigenthal
+3531BEOberthal
+3532BEZaeziwil
+3532BEMirchel
+3533BEBowil
+3533BEOberhofen i. E.
+3533BERuenkhofen
+3534BESignau
+3534BESteinen b. Signau
+3535BESchuepbach
+3536BEAeschau
+3537BEEggiwil
+3538BERoethenbach i. E.
+3543BEEmmenmatt
+3543BEMoosegg
+3543BEWaldhaeusern BE
+3550BELangnau i. E.
+3550BEObermatt BE
+3551BEOberfrittenbach
+3552BEBaerau
+3553BEGohl
+3555BETrubschachen
+3556BETrub
+3556BELaengengrund
+3557BEFankhaus (Trub)
+3600BEThun
+3600BEThoune
+3600BEThun 2
+3600BEThun 2 Ba
+3600BEThun TD
+3601BEThun
+3602BEThun
+3602BEThun 2 Militaer
+3603BEThun
+3603BELerchenfeld
+3604BEThun
+3604BEDuerrenast
+3605BEThun
+3606BEThun
+3607BEThun
+3608BEThun
+3608BEAllmendingn (Thun)
+3612BESteffisburg
+3612BEUnteremberg
+3612BEGlockenthal
+3612BEHartlisberg
+3613BESteffisburg
+3614BEUnterlangenegg
+3615BEHeimenschwand
+3615BEBuchholterberg
+3615BEWangelen
+3615BEBuchholterberg
+3616BESchwarzenegg
+3616BEOberlangenegg
+3617BEFahrni b. Thun
+3618BESuederen
+3618BEOberei b. Suederen
+3618BEWachseldorn
+3619BEEriz
+3619BEAussereriz
+3619BEInnereriz
+3622BEHomberg b. Thun
+3623BETeuffenthal BE
+3623BEBuchen
+3623BEHorrenbach-Buchen
+3624BEGoldiwil (Thun)
+3624BESchwendibach
+3625BEHeiligenschwendi
+3625BEHaltenegg
+3626BEHuenibach
+3627BEHeimberg
+3628BEUttigen
+3628BEKienersrueti
+3629BEKiesen
+3629BEOppligen
+3629BEJaberg
+3631BEHoefen b. Thun
+3632BEStocken
+3632BEOberstocken
+3632BENiederstocken
+3633BEAmsoldingen
+3634BEThierachern
+3635BEUebeschi
+3636BELaengenbuehl
+3636BEForst
+3638BEBlumenstein
+3638BEPohlern
+3645BEGwatt (Thun)
+3645BEGwattstutz
+3645BESchoren b. Thun
+3645BEZwieselberg
+3646BEEinigen
+3647BEReutigen
+3652BEHilterfingen
+3653BEOberhofen Thun'see
+3653BELaengenschachen
+3654BEGunten
+3655BESigriswil
+3656BETschingel
+3656BEAeschlen ob Gunten
+3656BERingoldswil
+3657BESchwanden Sigrisw
+3657BEMeiersmaad
+3658BEMerligen
+3658BEBeatenbucht
+3661BEUetendorf
+3662BESeftigen
+3663BEGurzelen
+3664BEBurgistein Station
+3664BEBurgistein Dorf
+3665BEWattenwil
+3671BEBrenzikofen
+3671BEHerbligen
+3672BEOberdiessbach
+3672BEAeschlen
+3673BELinden
+3673BEJassbach
+3673BEOtterbach
+3673BESchlegwegbad
+3674BEBleiken
+3700BESpiez
+3700BESpiezwiler
+3700BESpiezmoos
+3702BEHondrich
+3703BEAeschi b. Spiez
+3703BEAeschiried
+3704BEKrattigen
+3705BEFaulensee
+3706BELeissigen
+3707BEDaerligen
+3711BEEmdthal
+3711BEHeustrich-Emdthal
+3711BEMuelenen
+3712BENiesen Kulm
+3713BEReichenbach i. K.
+3714BEFrutigen
+3714BEFrutigen 1
+3714BEFrutigen 2
+3714BEWengi b. Frutigen
+3715BEAdelboden
+3715BEHirzboden
+3715BEBoden (Adelboden)
+3716BEKandergrund
+3716BEBunderbach
+3717BEBlausee-Mitholz
+3717BEMitholz
+3718BEKandersteg
+3722BEScharnachtal
+3723BEKiental
+3723BEGriesalp
+3724BERied (Frutigen)
+3725BEAchseten
+3752BEWimmis
+3752BEBrodhuesi
+3753BEOey
+3754BEDiemtigen
+3755BEHorboden
+3756BEZwischenflueh
+3757BESchwenden
+3757BEGrimmialp
+3758BELatterbach
+3762BEErlenbach i. S.
+3762BERingoldingen
+3763BEDaerstetten
+3764BEWeissenburg
+3765BEOberwil i. S.
+3766BEBoltigen
+3766BEEschi
+3766BEGarstatt
+3766BEReidenbach
+3766BEWeissenbach
+3770BEZweisimmen
+3770BEGrubenwald
+3770BEMannried
+3771BEBlankenburg
+3772BESt. Stephan
+3773BEMatten(St.Stephan)
+3775BELenk im Simmental
+3775BEBoden b. Lenk
+3775BEPoeschenried
+3776BEOeschseite
+3777BESaanenmoeser
+3778BESchoenried
+3780BEGstaad
+3780BEGruben b. Gstaad
+3781BETurbach
+3782BELauenen b. Gstaad
+3783BEGrund b. Gstaad
+3784BEFeutersoey
+3785BEGsteig b. Gstaad
+3792BESaanen
+3792BEGessenay
+3800BEInterlaken
+3800BEBreitlauenen
+3800BESchynige Platte
+3800BEUnterseen
+3800BEMatten b. Interl
+3800BESundlauenen
+3800BEInterlaken Pauto
+3801BEInterlaken Ausg
+3801BEKleine Scheidegg
+3801BEEigergletscher
+3801VSJungfraujoch
+3802BEWaldegg BE
+3803BEBeatenberg
+3804BEHabkern
+3805BEGoldswil
+3806BEBoenigen
+3807BEIseltwald
+3812BEWilderswil
+3813BESaxeten
+3814BEGsteigwiler
+3814BEGsteig Interlaken
+3815BEZweiluetschinen
+3815BEGuendlischwand
+3816BELuetschental
+3816BEBurglauenen
+3818BEGrindelwald
+3818BEGrund Grindelwald
+3818BEItramen
+3818BESchwendi BE
+3822BELauterbrunnen
+3822BEIsenfluh
+3823BEWengen
+3824BEStechelberg
+3825BEMuerren
+3826BEGimmelwald
+3852BERinggenberg BE
+3853BENiederried Interl
+3854BEOberried Brienz
+3855BEBrienz BE
+3855BEEbligen
+3855BEGiessbach
+3855BEKienholz
+3855BEPlanalp
+3855BEAxalp
+3855BERothorn Kulm
+3855BESchwanden-Brienz
+3856BEBrienzwiler
+3857BEUnterbach BE
+3858BEHofstetten BE
+3858BEBallenberg
+3860BEMeiringen
+3860BEBruenigen
+3860BEKaltenbrunnen BE
+3860BESteingletscher
+3860BEReichenbach b. Mei
+3860BESchattenhalb
+3860BEWilligen
+3860BEZaun
+3860BEAlpbach
+3860BERosenlaui
+3862BEInnertkirchen
+3863BEGadmen
+3863BENessental
+3864BEGuttannen
+3864BEBoden-Aegerstein
+3864BEGrimsel Hospiz
+3864BEGrimsel Passhoehe
+3864BEHandegg
+3900VSBrig
+3900VSBrigue
+3900VSBerisal
+3900VSSimplon Kulm
+3900VSGeimen
+3900VSGamsen
+3900VSBrigerbad
+3900VSBrig Ba
+3900VSBrig Postauto
+3901VSBrig Ausgaenge
+3901VSBirgisch
+3901VSRothwald
+3901VSGondo
+3901VSZwischbergen
+3902VSGlis
+3903VSMund
+3904VSNaters
+3905VSSaas Almagell
+3905VSMattmark
+3906VSSaas Fee
+3907VSSimplon Dorf
+3907VSSimplon Hospiz
+3907VSGabi (Simplon)
+3908VSSaas Balen
+3908VSSaas Bidermatten
+3909VSEisten
+3910VSSaas Grund
+3911VSRied-Brig
+3912VSTermen
+3912VSThermen
+3913VSRosswald
+3914VSBlatten b. Naters
+3914VSBelalp
+3915VSGoppenstein
+3916VSFerden
+3917VSKippel
+3918VSWiler (Loetschen)
+3919VSBlatten(Loetschen)
+3919VSFafleralp
+3919VSRied (Loetschen)
+3919VSEisten (Loetschen)
+3919VSWeissenried
+3920VSZermatt
+3920VSSchwarzsee
+3920VSGornergrat
+3922VSStalden VS
+3922VSAckersand
+3922VSKalpetran
+3923VSToerbel
+3924VSSt. Niklaus VS
+3924VSGasenried
+3925VSGraechen
+3926VSEmbd
+3927VSHerbriggen
+3927VSMattsand
+3928VSRanda
+3929VSTaesch
+3930VSVisp
+3930VSViege
+3931VSEyholz
+3931VSLalden
+3932VSVisperterminen
+3933VSStaldenried
+3933VSGspon
+3934VSZeneggen
+3935VSBuerchen
+3936VSSt. German
+3937VSBaltschieder
+3938VSAusserberg
+3939VSEggerberg
+3940VSSteg VS
+3942VSRaron
+3942VSRarogne
+3942VSNiedergesteln
+3943VSEischoll
+3944VSUnterbaech VS
+3945VSGampel
+3945VSJeizinen
+3945VSGetwing
+3945VSNiedergampel
+3946VSTurtmann
+3946VSTourtemagne
+3946VSGruben
+3947VSErgisch
+3948VSUnterems
+3948VSEms VS
+3948VSOberems
+3949VSHohtenn
+3951VSAgarn
+3952VSSusten
+3952VSLa Souste
+3953VSLeuk Stadt
+3953VSLoeche-la-Ville
+3953VSInden
+3954VSLeukerbad
+3954VSLoeche-les-Bains
+3955VSAlbinen
+3956VSFeschel-Guttet
+3956VSFeschel
+3956VSGuttet
+3957VSErschmatt
+3957VSBratsch
+3960VSSierre
+3960VSNiouc
+3960VSSiders
+3960VSLes Pontis
+3960VSCorin-de-la-Crete
+3960VSLoc
+3961VSSierre Sorties
+3961VSVissoie
+3961VSFang
+3961VSPinsec
+3961VSMayoux
+3961VSSoussillon
+3961VSSt-Luc
+3961VSChandolin
+3961VSAyer
+3961VSMission
+3961VSMottec
+3961VSZinal
+3961VSGrimentz
+3961VSMoiry VS
+3961VSSt-Jean VS
+3962VSMontana-Vermala
+3962VSMontana
+3962VSDiogne
+3962VSAminona
+3963VSCrans-sur-Sierre
+3963VSPlans-Mayens
+3964VSMuraz (Sierre)
+3965VSChippis
+3966VSChalais
+3966VSBrie
+3966VSRechy
+3967VSVercorin
+3968VSVeyras
+3969VSVaren
+3969VSVaronne
+3970VSSalgesch
+3970VSSalquenen
+3971VSChermignon
+3971VSChermignon-Bas
+3971VSOllon VS
+3972VSMiege
+3972VSPlanige
+3973VSVenthone
+3973VSDarnona
+3973VSAnchettes
+3974VSMollens VS
+3974VSSt-Maurice-Laques
+3974VSConzor
+3975VSRandogne
+3975VSBluche-Randogne
+3975VSRandogne-Village
+3976VSNoes
+3976VSChampzabe
+3977VSGranges VS
+3978VSFlanthey
+3978VSChelin
+3978VSSt-Clement
+3978VSVaas
+3978VSValencon
+3979VSGrone
+3979VSErdesson
+3979VSLoye
+3979VSDaillet
+3979VSItravers
+3979VSPramagnon
+3979VSVal-de-Rechy
+3981VSBrig Ausgaenge
+3981VSNiederwald
+3981VSBlitzingen
+3981VSGluringen
+3981VSGeschinen
+3981VSObergesteln
+3982VSBitsch
+3982VSZ'Matt
+3983VSMoerel
+3983VSGreich
+3983VSBreiten
+3983VSTunetschalp
+3983VSBister
+3983VSFilet
+3983VSGoppisberg
+3984VSFiesch
+3984VSEggishorn
+3984VSFieschertal
+3985VSMuenster VS
+3986VSRied-Moerel
+3987VSRiederalp
+3988VSUlrichen
+3989VSBiel VS
+3989VSRitzingen
+3989VSSelkingen
+3991VSBetten
+3992VSBettmeralp
+3993VSGrengiols
+3993VSDeisch
+3994VSLax
+3994VSMartisberg
+3995VSErnen
+3995VSAusserbinn
+3995VSMuehlebach (Goms)
+3995VSSteinhaus
+3996VSBinn
+3997VSBellwald
+3997VSFuergangen
+3998VSReckingen VS
+3999VSOberwald
+3999VSBelvedere (Furka)
+3999VSGletsch
+4000BSBasel
+4000BSBasilea
+4000BSBale
+4000BSBasel 2 Bv
+4000BSBasel 2 Ba
+4000BSBasel Postauto
+4001BSBasel
+4002BSBasel
+4002BSBasel KPD
+4002BSBasel TD
+4003BSBasel
+4004BSBasel
+4005BSBasel
+4005BSBasel 5 Ausgabe
+4006BSBasel
+4007BSBasel
+4008BSBasel
+4009BSBasel
+4010BSBasel
+4011BSBasel
+4012BSBasel
+4013BSBasel
+4015BSBasel
+4016BSBasel
+4017BSBasel
+4018BSBasel
+4019BSBasel
+4020BSBasel
+4021BSBasel
+4023BSBasel
+4024BSBasel
+4025BSBasel
+4027BSBasel
+4028BSBasel
+4030BSBasel
+4031BSBasel
+4032BSBasel
+4039BSBasel KPD F
+4040BSBasel VZ
+4051BSBasel
+4052BSBasel
+4053BSBasel
+4054BSBasel
+4055BSBasel
+4056BSBasel
+4057BSBasel
+4058BSBasel
+4059BSBasel
+4070BSBasel Hoff.-Roche
+4091BSBasel
+4101BLBruderholz
+4102BLBinningen
+4102BLBottmingermuehle
+4102BLBinningen 1
+4102BLBinningen 2
+4103BLBottmingen
+4104BLOberwil BL
+4105BLBiel-Benken BL
+4105BLBenken BL
+4105BLBiel BL
+4106BLTherwil
+4107BLEttingen
+4108SOWitterswil
+4112SOBaettwil-Flueh
+4112SOBaettwil
+4112SOFlueh
+4114SOHofstetten SO
+4115SOMariastein
+4116SOMetzerlen
+4117BLBurg im Leimental
+4118SORodersdorf
+4123BLAllschwil
+4123BLNeuallschwil
+4123BLAllschwil 1
+4123BLAllschwil 2
+4123BLAllschwil 3
+4124BLSchoenenbuch
+4125BSRiehen
+4125BSRiehen 1
+4125BSRiehen 2
+4126BSBettingen
+4126BSSt. Chrischona
+4127BLBirsfelden
+4132BLMuttenz
+4132BLFreidorf BL
+4132BLMuttenz 1
+4132BLMuttenz 2
+4133BLPratteln
+4133BLPratteln 1
+4133BLPratteln 2
+4140BLMuenchenstein S AG
+4142BLMuenchenstein
+4142BLMuenchenstein 1
+4142BLMuenchenstein 2
+4142BLMuenchenstein 3
+4142BLNeuewelt
+4143SODornach
+4143SOOberdornach
+4143SODornach 1
+4143SODornach 2
+4144BLArlesheim
+4145SOGempen
+4146SOHochwald
+4147BLAesch BL
+4148BLPfeffingen
+4153BLReinach BL
+4153BLNeureinach
+4153BLReinach BL 1
+4153BLReinach BL 2
+4202BLDuggingen
+4203BLGrellingen
+4204SOHimmelried
+4206SOSeewen SO
+4207BLBretzwil
+4208SONunningen
+4208SOEngi
+4222BLZwingen
+4223BLBlauen
+4224BLNenzlingen
+4225BLBrislach
+4226SOBreitenbach
+4227SOBuesserach
+4228SOErschwil
+4229SOBeinwil SO
+4232SOFehren
+4233SOMeltingen
+4234SOZullwil
+4234SOOberkirch SO
+4242BLLaufen
+4242BLLaufon
+4243BLDittingen
+4244BLRoeschenz
+4245SOKleinluetzel
+4245SOHuggerwald
+4245SOPetit-Lucelle
+4246BLWahlen b. Laufen
+4247SOGrindel
+4252SOBaerschwil
+4252SOWiler SO
+4252SOBaerschwil Dorf
+4253BLLiesberg
+4254BLLiesberg Dorf
+4302BLAugst BL
+4302BLBaselaugst
+4303AGKaiseraugst
+4303AGKaiseraugst Lieb.
+4304BLGiebenach
+4305AGOlsberg
+4310AGRheinfelden
+4310AGRheinfelden 1
+4310AGRheinfelden 2
+4312AGMagden
+4313AGMoehlin
+4313AGRiburg
+4314AGZeiningen
+4315AGZuzgen
+4316AGHellikon
+4317AGWegenstetten
+4322AGMumpf
+4323AGWallbach
+4324AGObermumpf
+4325AGSchupfart
+4332AGStein AG
+4333AGMuenchwilen AG
+4334AGSisseln AG
+4402BLFrenkendorf
+4410BLLiestal
+4410BLLiestal Kaserne
+4411BLSeltisberg
+4412SONuglar
+4413SOBueren SO
+4414BLFuellinsdorf
+4415BLLausen
+4416BLBubendorf
+4417BLZiefen
+4418BLReigoldswil
+4419BLLupsingen
+4421SOSt. Pantaleon
+4422BLArisdorf
+4423BLHersberg
+4424BLArboldswil
+4425BLTitterten
+4426BLLauwil
+4431BLBennwil
+4432BLLampenberg
+4433BLRamlinsburg
+4434BLHoelstein
+4435BLNiederdorf
+4436BLOberdorf BL
+4436BLLiedertswil
+4437BLWaldenburg
+4438BLLangenbruck
+4441BLThuernen
+4442BLDiepflingen
+4443BLWittinsburg
+4444BLRuemlingen
+4444BLSommerau
+4445BLHaefelfingen
+4446BLBuckten
+4447BLKaenerkinden
+4448BLLaeufelfingen
+4448BLDietisberg BL
+4450BLSissach
+4451BLWintersingen
+4452BLItingen
+4453BLNusshof
+4455BLZunzgen
+4456BLTenniken
+4457BLDiegten
+4458BLEptingen
+4460BLGelterkinden
+4461BLBoeckten
+4462BLRickenbach BL
+4463BLBuus
+4464BLMaisprach
+4465BLHemmiken
+4466BLOrmalingen
+4467BLRothenfluh
+4468SOKienberg
+4469BLAnwil
+4492BLTecknau
+4493BLWenslingen
+4494BLOltingen
+4495BLZeglingen
+4496BLKilchberg BL
+4497BLRuenenberg
+4500SOSolothurn
+4500SOSoletta
+4500SOSoleure
+4500SOSolothurn 1
+4500SOSolothurn 1 Ausg
+4501SOSolothurn
+4502SOSolothurn
+4503SOSolothurn
+4504SOSolothurn
+4509SOSolothurn
+4512SOBellach
+4513SOLangendorf
+4514SOLommiswil
+4515SOOberdorf SO
+4515SOWeissenstein
+4522SORuettenen
+4523SONiederwil SO
+4524SOGuensberg
+4524SOBalmberg
+4524SOOberbalmberg
+4525SOBalm b. Guensberg
+4528SOZuchwil
+4528SOBleichenberg
+4532SOFeldbrunnen
+4532SOSt. Niklaus SO
+4533SORiedholz
+4533SOAttisholz
+4534SOFlumenthal
+4535SOHubersdorf
+4535SOKammersrohr
+4536BEAttiswil
+4537BEWiedlisbach
+4537BEDettenbuehl
+4538BEOberbipp
+4539BERumisberg
+4539BEFarnern
+4542SOLuterbach
+4542SOLuterbach-Attishlz
+4543SODeitingen
+4552SODerendingen
+4553SOSubingen
+4554SOEtziken
+4554SOHueniken
+4556SOAeschi SO
+4556SOBolken
+4556SOBurgaeschi
+4556SOSteinhof SO
+4557SOHorriwil
+4558SOHersiwil
+4558SOHeinrichswil
+4558SOWinistorf
+4562SOBiberist
+4562SOBleichenberg
+4563SOGerlafingen
+4564SOObergerlafingen
+4564BEZielebach
+4565SORecherswil
+4566SOKriegstetten
+4566SOHalten
+4566SOOekingen
+4571SOLueterkofen-Ichert
+4571SOLueterkofen
+4571SOIchertswil
+4573SOLohn-Ammannsegg
+4573SOLohn SO
+4573SOAmmannsegg
+4574SONennigkofen
+4574SOLuesslingen
+4576SOTscheppach
+4577SOHessigkofen
+4578SOBibern SO
+4579SOGossliwil
+4581SOKuettigkofen
+4582SOBruegglen
+4583SOMuehledorf SO
+4583SOAetigkofen
+4584SOLueterswil-Gaechli
+4584SOLueterswil
+4584SOGaechliwil
+4585SOBiezwil
+4586SOKyburg-Buchegg
+4586SOBuchegg
+4586SOKyburg Bad
+4587SOAetingen
+4588SOUnterramsern
+4588SOBrittern
+4588SOOberramsern
+4600SOOlten
+4600SOOlten 1
+4600SOOlten 1 Ausgabe
+4600SOOlten TD
+4601SOOlten
+4603SOOlten
+4612SOWangen b. Olten
+4612SOKleinwangen SO
+4613SORickenbach SO
+4614SOHaegendorf
+4615SOAllerheiligenberg
+4616SOKappel SO
+4617SOGunzgen
+4618SOBoningen
+4622SOEgerkingen
+4623SONeuendorf
+4624SOHaerkingen
+4625SOOberbuchsiten
+4626SONiederbuchsiten
+4628SOWolfwil
+4629SOFulenbach
+4632SOTrimbach
+4633SOHauenstein
+4633SOIfenthal
+4634SOWisen SO
+4652SOWinznau
+4653SOObergoesgen
+4654SOLostorf
+4654SOMahren
+4655SOStuesslingen
+4655SORohr b. Olten
+4656SOStarrkirch-Wil
+4656SOWil b. Starrkirch
+4657SODulliken
+4658SODaeniken SO
+4658SOGrod
+4663AGAarburg
+4665AGOftringen
+4665AGOftringen 1
+4665AGOftringen 2
+4665AGKuengoldingen
+4702SOOensingen
+4703SOKestenholz
+4704BENiederbipp
+4704BEWolfisberg
+4710SOBalsthal
+4710SOSt. Wolfgang SO
+4710SOKlus
+4710SOBalsthal Postauto
+4712SOLaupersdorf
+4712SOHoengen
+4713SOMatzendorf
+4714SOAedermannsdorf
+4715SOHerbetswil
+4716SOWelschenrohr
+4716SORosieres
+4716SOGaensbrunnen
+4717SOMuemliswil
+4717SOBrunnersberg
+4718SOHolderbank SO
+4719SORamiswil
+4800AGZofingen
+4801AGZofingen
+4802AGStrengelbach
+4803AGVordemwald
+4805AGBrittnau
+4806LUWikon
+4806LUAdelboden LU
+4812AGMuehlethal
+4813AGUerkheim
+4813AGHinterwil
+4814AGBottenwil
+4852AGRothrist
+4853AGMurgenthal
+4853AGWalliswil AG
+4853AGRiken AG
+4856AGGlashuetten
+4856AGBalzenwil
+4900BELangenthal
+4900BELangenthal 1
+4901BELangenthal
+4902BELangenthal
+4903BELangenthal
+4903BESchoren Langenthal
+4911BESchwarzhaeusern
+4912BEAarwangen
+4912BEHard-Mumenthal
+4912BEMeiniswil
+4912BEMumenthal
+4913BEBannwil
+4914BERoggwil BE
+4915LUSt. Urban
+4916BEUntersteckholz
+4917BEMelchnau
+4917BEBusswil b.Melchnau
+4919BEReisiswil
+4922BEBuetzberg
+4922BEThunstetten
+4923BEWynau
+4924BEObersteckholz
+4932BELotzwil
+4932BEGutenburg
+4933BERuetschelen
+4934BEMadiswil
+4934BEMaettenbach
+4934BEWyssbach
+4935BELeimiswil
+4935BELindenholz
+4936BEKleindietwil
+4937BEUrsenbach
+4938BERohrbach
+4938BERohrbachgraben
+4942BEWalterswil BE
+4943BEOeschenbach
+4944BEAuswil
+4950BEHuttwil
+4952BEEriswil
+4953BESchwarzenbach BE
+4953BESchweinbrunnen
+4954BEWyssachen
+4955BEGondiswil
+5000AGAarau
+5000AGAarau 3
+5000AGAarau 1 Ba
+5000AGAarau Kaserne
+5000AGAarau Postauto AG
+5001AGAarau
+5001AGAarau KPD
+5004AGAarau
+5010SODaeniken PZ
+5012SOSchoenenwerd
+5012SOEppenberg-Woschnau
+5012SOWoeschnau
+5012SOEppenberg
+5013SONiedergoesgen
+5014SOGretzenbach
+5015SONiedererlinsbach
+5015AGErlinsbach AG
+5016AGObererlinsbach
+5016AGErlinsbach AG
+5016AGObererlinsbach AG
+5017AGBarmelweid
+5022AGRombach
+5023AGBiberstein
+5024AGKuettigen
+5025AGAsp
+5025AGHerzberg
+5025AGStaffelegg
+5026AGDensbueren
+5027AGHerznach
+5028AGUeken
+5032AGRohr AG
+5033AGBuchs AG
+5034AGSuhr
+5035AGUnterentfelden
+5035AGEntfelden
+5036AGOberentfelden
+5036AGEntfelden
+5037AGMuhen
+5037AGObermuhen
+5040AGSchoeftland
+5042AGHirschthal
+5043AGHolziken
+5044AGSchlossrued
+5044AGKirchrued
+5046AGSchmiedrued-Walde
+5046AGSchmiedrued
+5046AGWalde AG
+5053AGStaffelbach
+5053AGWittwil
+5054AGKirchleerau-Moosle
+5054AGKirchleerau
+5054AGMoosleerau
+5056AGAttelwil
+5057AGReitnau
+5058AGWiliberg
+5062AGOberhof
+5063AGWoelflinswil
+5064AGWittnau
+5070AGFrick
+5072AGOeschgen
+5073AGGipf-Oberfrick
+5073AGOberfrick
+5074AGEiken
+5075AGHornussen
+5076AGBoezen
+5077AGElfingen
+5078AGEffingen
+5079AGZeihen
+5080AGLaufenburg
+5082AGKaisten
+5083AGIttenthal
+5084AGRheinsulz
+5085AGSulz AG
+5085AGObersulz
+5102AGRupperswil
+5103AGWildegg
+5103AGMoeriken AG
+5105AGAuenstein
+5105AGAu b. Wildegg
+5106AGVeltheim AG
+5107AGSchinznach Dorf
+5108AGOberflachs
+5112AGThalheim AG
+5113AGHolderbank AG
+5116AGSchinznach Bad
+5200AGBrugg AG
+5200AGKoenigsfelden
+5200AGBrugg AG 1
+5200AGBrugg AG 3
+5200AGLauffohr
+5200AGBrugg AG Kaserne
+5201AGBrugg AG
+5210AGWindisch
+5212AGHausen b. Brugg
+5213AGVillnachern
+5222AGUmiken
+5223AGRiniken
+5224AGUnterboezberg
+5224AGBoezberg
+5224AGStalden AG
+5224AGGallenkirch
+5224AGLinn
+5225AGOberboezberg
+5225AGBoezberg
+5232AGVilligen PSI
+5233AGStilli
+5234AGVilligen
+5235AGRuefenach AG
+5236AGRemigen
+5237AGMoenthal
+5237AGUeberthal
+5242AGBirr-Lupfig
+5242AGBirrfeld
+5242AGBirr
+5242AGLupfig
+5243AGMuelligen
+5244AGBirrhard
+5245AGHabsburg
+5246AGScherz
+5272AGGansingen
+5272AGBueren AG
+5273AGOberhofen AG
+5274AGMettau
+5275AGEtzgen
+5276AGWil AG
+5277AGHottwil
+5300AGTurgi
+5300AGVogelsang b. Turgi
+5300AGWil b. Turgi
+5300AGEnnetturgi
+5301AGSiggenthal Station
+5303AGWuerenlingen
+5304AGEndingen
+5305AGUnterendingen
+5306AGTegerfelden
+5312AGDoettingen
+5312AGBeznau
+5313AGKlingnau
+5314AGKleindoettingen
+5314AGEien
+5315AGBoettstein
+5316AGLeuggern
+5316AGGippingen
+5316AGSchlatt b.Leuggern
+5316AGFelsenau AG
+5317AGHettenschwil
+5317AGEtzwil
+5318AGMandach
+5322AGKoblenz
+5323AGRietheim
+5324AGFull-Reuenthal
+5324AGReuenthal
+5325AGLeibstadt
+5326AGSchwaderloch
+5330AGZurzach
+5332AGRekingen AG
+5333AGBaldingen
+5334AGBoebikon
+5400AGBaden
+5400AGBaden 1
+5400AGBaden 1 PAD
+5401AGBaden
+5402AGBaden
+5403AGBaden
+5404AGBaden
+5405AGBaden
+5405AGDaettwil AG
+5406AGBaden
+5406AGRuetihof
+5408AGEnnetbaden
+5412AGGebenstorf
+5412AGReuss
+5413AGBirmenstorf AG
+5415AGNussbaumen b.Baden
+5415AGHertenstein AG
+5415AGObersiggenthal
+5415AGRieden AG
+5416AGKirchdorf AG
+5417AGUntersiggenthal
+5417AGObersiggingen
+5417AGSiggenthal
+5417AGUntersiggingen
+5422AGOberehrendingen
+5422AGEhrendingen
+5423AGFreienwil
+5424AGUnterehrendingen
+5424AGEhrendingen
+5425AGSchneisingen
+5425AGWiden Schneisingen
+5426AGLengnau AG
+5426AGVogelsang Lengnau
+5430AGWettingen
+5430AGWettingen 1
+5430AGWettingen 2
+5430AGWettingen 3
+5431AGWettingen Sonderd
+5432AGNeuenhof
+5436AGWuerenlos
+5436AGOetlikon
+5442AGFislisbach
+5443AGNiederrohrdorf
+5443AGRohrdorf
+5443AGVogelrueti
+5444AGKuenten
+5444AGSulz b. Kuenten
+5445AGEggenwil
+5452AGOberrohrdorf
+5452AGStaretschwil
+5452AGRohrdorf
+5453AGRemetschwil
+5453AGBusslingen
+5454AGBellikon
+5462AGSiglistorf
+5463AGWislikofen
+5463AGMellstorf
+5464AGRuemikon AG
+5465AGMellikon
+5466AGKaiserstuhl AG
+5467AGFisibach
+5502AGHunzenschwil
+5503AGSchafisheim
+5504AGOthmarsingen
+5505AGBrunegg
+5506AGMaegenwil
+5507AGMellingen
+5512AGWohlenschwil
+5512AGBueblikon
+5522AGTaegerig
+5524AGNiederwil AG
+5524AGNesselnbach
+5524AGGnadenthal
+5525AGFischbach-Goeslik
+5525AGGoeslikon
+5600AGLenzburg
+5600AGLenzburg 1
+5600AGLenzburg 2
+5600AGAmmerswil AG
+5601AGLenzburg Sonderdst
+5603AGStaufen
+5604AGHendschiken
+5605AGDottikon
+5606AGDintikon
+5607AGHaegglingen
+5608AGStetten AG
+5610AGWohlen AG
+5610AGWohlen AG 1
+5610AGWohlen AG 2
+5611AGAnglikon
+5612AGVillmergen
+5613AGHilfikon
+5614AGSarmenstorf
+5615AGFahrwangen
+5616AGMeisterschwanden
+5617AGTennwil
+5618AGBettwil
+5619AGBuettikon AG
+5619AGUezwil
+5620AGBremgarten AG
+5620AGBremgarten AG 1
+5620AGBremgarten AG 2
+5620AGBremgarten AG Kas
+5621AGZufikon
+5622AGWaltenschwil
+5622AGBueelisacker
+5623AGBoswil
+5624AGBuenzen
+5624AGWaldhaeusern AG
+5625AGKallern
+5626AGHermetschwil-Staff
+5627AGBesenbueren
+5628AGAristau
+5628AGAlthaeusern
+5628AGBirri
+5630AGMuri AG
+5632AGButtwil
+5634AGMerenschwand
+5634AGUnterrueti
+5634AGRickenbach AG
+5636AGBenzenschwil
+5636AGWallenschwil
+5637AGBeinwil (Freiamt)
+5637AGBrunnwil
+5637AGWiggwil
+5637AGWinterschwil
+5637AGIsenbergschwil
+5637AGGeltwil
+5642AGMuehlau
+5643AGSins
+5643AGMeienberg
+5643AGReussegg
+5643AGAlikon
+5644AGAuw
+5644AGRuestenschwil
+5645AGAettenschwil
+5645AGFenkrieden
+5646AGAbtwil AG
+5647AGOberrueti
+5702AGNiederlenz
+5703AGSeon
+5704AGEgliswil
+5705AGHallwil
+5706AGBoniswil
+5706AGAlliswil
+5707AGSeengen
+5707AGBrestenberg
+5708AGBirrwil
+5712AGBeinwil am See
+5722AGGraenichen
+5722AGRuetihof Graenichen
+5723AGTeufenthal AG
+5724AGDuerrenaesch
+5725AGLeutwil
+5726AGUnterkulm
+5726AGKulm
+5727AGOberkulm
+5727AGKulm
+5728AGGontenschwil
+5728AGSchwarzenberg Bad
+5732AGZetzwil
+5733AGLeimbach AG
+5734AGReinach AG
+5735LUPfeffikon LU
+5736AGBurg AG
+5737AGMenziken
+5742AGKoelliken
+5745AGSafenwil
+5746SOWalterswil SO
+5746SORothacker
+6000LULuzern
+6000LULucerna
+6000LULucerne
+6000LULuzern 4
+6000LULuzern 5
+6000LULuzern 6
+6000LULuzern 7
+6000LULuzern 9
+6000LULuzern 10
+6000LULuzern 11
+6000LULuzern 12
+6000LULuzern 13
+6000LULuzern 14
+6000LULuzern 15
+6000LULuzern 16
+6000LULuzern 20
+6000LULuzern 2 Ba
+6000LULuzern Kaserne
+6000LULuzern Postauto
+6002LULuzern
+6002LULuzern KPD
+6002LULuzern TD
+6003LULuzern
+6004LULuzern
+6005LULuzern
+6005LUSt. Niklausen LU
+6006LULuzern
+6006LUDietschiberg
+6007LULuzern
+6009LULuzern
+6010LUKriens
+6010OWPilatus Kulm
+6011LUKriens
+6012LUObernau
+6013LUEigenthal
+6014LULittau
+6015LUReussbuehl
+6015LUReussbuehl 1
+6015LUReussbuehl 2
+6016LUHellbuehl
+6017LURuswil
+6017LURueediswil
+6018LUButtisholz
+6019LUSigigen
+6020LUEmmenbruecke
+6020LUGerliswil
+6020LUSprengi
+6020LUEmmenweid
+6020LUEmmenbruecke 1
+6020LUEmmenbruecke 2
+6020LUEmmenbruecke 3
+6020LUEmmenbruecke SB
+6021LUEmmenbruecke 1
+6022LUGrosswangen
+6023LURothenburg
+6024LUHildisrieden
+6025LUNeudorf
+6026LURain
+6027LURoemerswil LU
+6028LUHerlisberg
+6030LUEbikon
+6031LUEbikon
+6032LUEmmen
+6032LURathausen
+6032LUEmmen Kaserne
+6033LUBuchrain
+6034LUInwil
+6034LUOberhofen LU
+6034LUPfaffwil
+6035LUPerlen
+6036LUDierikon
+6037LURoot
+6038LUGisikon
+6038LUHonau
+6042AGDietwil
+6043LUAdligenswil
+6044LUUdligenswil
+6045LUMeggen
+6047LUKastanienbaum
+6048LUHorw
+6052NWHergiswil NW
+6053OWAlpnachstad
+6055OWAlpnach Dorf
+6055OWSchoried
+6056OWKaegiswil
+6060OWSarnen
+6060OWRamersberg
+6060OWSarnen 2
+6060OWSarnen 2
+6061OWSarnen 1
+6062OWWilen (Sarnen)
+6062OWOberwilen
+6063OWStalden (Sarnen)
+6063OWSchwendi OW
+6064OWKerns
+6066OWSt. Niklausen OW
+6067OWMelchtal
+6068OWMelchsee-Frutt
+6068OWFrutt
+6072OWSachseln
+6073OWFlueeli-Ranft
+6074OWGiswil
+6074OWGrossteil
+6074OWMoerlialp
+6076OWKleinteil
+6078OWLungern
+6078OWObsee
+6078OWBuerglen OW
+6078OWKaiserstuhl OW
+6082BEBruenig
+6083BEHasliberg Hohfluh
+6083BEHohfluh(Hasliberg)
+6084BEHasliberg Wasserw
+6084BEWasserwendi
+6085BEHasliberg Goldern
+6085BEGoldern
+6086BEHasliberg Reuti
+6086BEReuti (Hasliberg)
+6102LUMalters
+6102LUBlatten (Malters)
+6103LUSchwarzenberg LU
+6105LUSchachen LU
+6106LUWerthenstein
+6110LUWolhusen
+6110LUFontannen
+6112LUDoppleschwand
+6113LURomoos
+6114LUSteinhuserberg
+6122LUMenznau
+6122LUTwerenegg
+6123LUGeiss
+6125LUMenzberg
+6126LUDaiwil
+6130LUWillisau
+6130LUKaeppelimatt
+6130LUOstergau
+6132LURohrmatt
+6133LUHergiswil LU
+6133LUHuebeli
+6142LUGettnau
+6143LUOhmstal
+6144LUZell LU
+6145LUFischbach LU
+6146LUGrossdietwil
+6147LUAltbueron
+6152LUHueswil
+6153LUUfhusen
+6154LUHofstatt
+6154LUFluehlen (Luthern)
+6156LULuthern
+6156LULuthern Bad
+6160LUEntlebuch AVAG
+6161LUEntlebuch
+6162LUEntlebuch
+6162LURengg
+6162LUFinsterwald LU
+6163LUEbnet
+6166LUHasle LU
+6166LUHabschwanden
+6167LUBramboden
+6168LUHeiligkreuz LU
+6170LUSchuepfheim
+6170LUFontannen b.Schuepf
+6170LUSchwaendi LU
+6170LUKlusstalden
+6170LUOberberg LU
+6173LUFluehli LU
+6174LUSoerenberg
+6182LUEscholzmatt
+6182LUMichlischwand
+6182LUFeldmoos
+6182LUGlichenberg
+6192LUWiggen
+6192LUHilfernthal
+6196LUMarbach LU
+6196LUSchaerlig
+6197BESchangnau
+6197BEKemmeriboden
+6197BEBumbach
+6203LUSempach Station
+6204LUSempach Stadt
+6205LUEich
+6206LUNeuenkirch
+6207LUNottwil
+6207LUNottwil SPZ
+6208LUOberkirch LU
+6210LUSursee
+6211LUBuchs LU
+6212LUSt. Erhard
+6212LUKaltbach
+6213LUKnutwil
+6213LUBad Knutwil
+6214LUSchenkon
+6215LUBeromuenster
+6215LUMuenster LU
+6215LUSchwarzenbach LU
+6216LUMauensee
+6216LUBognau
+6217LUKottwil
+6218LUEttiswil
+6221LURickenbach LU
+6222LUGunzwil
+6231LUSchlierbach
+6231LUEtzelwil
+6231LUWetzwil LU
+6232LUGeuensee
+6233LUBueron
+6234LUTriengen
+6234LUKulmerau
+6235LUWinikon
+6236LUWilihof
+6242LUWauwil
+6243LUEgolzwil
+6243LUWauwilermoos
+6244LUNebikon
+6245LUEbersecken
+6246LUAltishofen
+6247LUSchoetz
+6248LUAlberswil
+6252LUDagmersellen
+6253LUUffikon
+6260LUReiden
+6260LUReidermoos
+6260LUHintermoos
+6260LUMehlsecken
+6262LULangnau b. Reiden
+6263LURichenthal
+6264LUPfaffnau
+6265LURoggliswil
+6274LUEschenbach LU
+6275LUBallwil
+6276LUHohenrain
+6276LUEbersol LU
+6277LUKleinwangen
+6277LULieli
+6280LUHochdorf
+6280LUUrswil
+6281LUHochdorf
+6283LUBaldegg
+6284LUGelfingen
+6284LUSulz LU
+6285LUHitzkirch
+6285LURichensee
+6285LURetschwil
+6286LUAltwis
+6287LUAesch LU
+6288LUSchongau
+6288LUNiederschongau
+6289LUMueswangen
+6289LUHaemikon
+6294LUErmensee
+6295LUMosen
+6300ZGZug
+6300ZGZoug
+6300ZGZugo
+6300ZGZug 1
+6300ZGZugerberg
+6301ZGZug
+6302ZGZug
+6303ZGZug
+6304ZGZug
+6305ZGZug
+6310ZGZug
+6311ZGFinstersee
+6312ZGSteinhausen
+6313ZGMenzingen
+6313ZGBostadel
+6313ZGEdlibach
+6314ZGUnteraegeri
+6314ZGAegeri
+6314ZGNeuaegeri
+6314ZGAegeri
+6315ZGOberaegeri
+6315ZGAegeri
+6315ZGAlosen
+6315ZGMorgarten
+6317ZGOberwil b. Zug
+6318ZGWalchwil
+6319ZGAllenwinden
+6330ZGCham
+6330ZGHeiligkreuz ZG
+6330ZGNiederwil b. Cham
+6330ZGKemmatten
+6331ZGHuenenberg
+6332ZGHagendorn
+6340ZGBaar
+6340ZGBlickensdorf
+6340ZGWalterswil ZG
+6340ZGBaar 1
+6341ZGBaar
+6342ZGBaar
+6343ZGRotkreuz
+6343ZGBuonas
+6343ZGRisch
+6343ZGHolzhaeusern ZG
+6344LUMeierskappel
+6345ZGNeuheim
+6349ZGBaar
+6353LUWeggis
+6353LUHertenstein
+6354LUVitznau
+6356LURigi Kaltbad
+6362NWStansstad
+6362NWRotzloch
+6363NWObbuergen
+6363NWFuerigen
+6363NWBuergenstock
+6365NWKehrsiten
+6370NWStans
+6370NWOberdorf NW
+6370NWStans Kaserne
+6371NWStans
+6372NWEnnetmoos
+6373NWEnnetbuergen
+6374NWBuochs
+6375NWBeckenried
+6375NWKlewenalp
+6376NWEmmetten
+6377URSeelisberg
+6377URTreib
+6382NWBueren NW
+6383NWDallenwil
+6383NWNiederrickenbach
+6383NWWiesenberg
+6386NWWolfenschiessen
+6387NWOberrickenbach
+6388OWGrafenort
+6388OWAltzellen
+6388OWObermatt OW
+6390OWEngelberg
+6391OWEngelberg
+6402SZMerlischachen
+6403SZKuessnacht am Rigi
+6404LUGreppen
+6405SZImmensee
+6410SZGoldau
+6410SZRigi Kloesterli
+6410SZRigi Staffel
+6410SZRigi Kulm
+6410SZRigi Scheidegg
+6414SZOberarth
+6415SZArth
+6416SZSteinerberg
+6417SZSattel
+6418SZRothenthurm
+6418SZAltmatt
+6422SZSteinen
+6423SZSeewen SZ
+6424SZLauerz
+6430SZSchwyz
+6430SZSvitto
+6431SZSchwyz
+6432SZRickenbach SZ
+6433SZStoos SZ
+6434SZIllgau
+6436SZMuotathal
+6436SZHinterthal
+6436SZBisisthal
+6436SZRied (Muotathal)
+6438SZIbach
+6438SZOberschoenenbuch
+6440SZBrunnen
+6440SZIngenbohl
+6440SZUnterschoenenbuch
+6441URRuetli
+6442SZGersau
+6443SZMorschach
+6452URSisikon
+6452SZRiemenstalden
+6454URFlueelen
+6460URAltdorf UR
+6460URBalm (Klausen)
+6460URAltdorf UR 1
+6460URAltdorf UR 2
+6460URAltdorf UR 2
+6461URIsenthal
+6462URSeedorf UR
+6463URBuerglen UR
+6464URSpiringen
+6465URUnterschaechen
+6465URUrigen
+6466URBauen
+6466URIsleten
+6467URSchattdorf
+6468URAttinghausen
+6469URHaldi b.Schattdorf
+6472URErstfeld
+6473URSilenen
+6474URAmsteg
+6475URBristen
+6475URGolzern
+6476URIntschi
+6482URGurtnellen
+6482URWiler UR
+6484URWassen UR
+6485URMeien
+6487URGoeschenen
+6487URGoescheneralp
+6490URAndermatt
+6491URRealp
+6491URFurkapass
+6493URHospental
+6500TIBellinzona
+6500TIArtore
+6500TIBellenz
+6500TIBellinzone
+6500TIMonti di Ravecchia
+6500TIBellinzona 2
+6500TIBellinzona 4
+6500TIRavecchia
+6500TIBellinzona 5
+6500TIBellinzona 1 Dist
+6500TIBellinzona DCP
+6500TIBellinzona
+6501TIBellinzona
+6501TIBellinzona DT
+6503TIBellinzona
+6503TICarasso
+6506TIBellinzona 6 Autop
+6512TIGiubiasco
+6512TIPedevilla
+6513TIMonte Carasso
+6514TISementina
+6515TIGudo
+6515TIProgero
+6516TICugnasco
+6516TIGerra Piano
+6517TIArbedo
+6517TIMolinazzo d'Arbedo
+6518TIGorduno
+6523TIPreonzo
+6524TIMoleno
+6525TIGnosca
+6526TIProsito
+6527TILodrino
+6528TICamorino
+6532TICastione
+6533TILumino
+6533TIMonticello
+6534GRS. Vittore
+6535GRRoveredo GR
+6537GRGrono
+6538GRVerdabbio
+6540GRCastaneda
+6541GRSta. Maria
+6542GRBuseno
+6543GRArvigo
+6544GRBraggio
+6545GRSelma
+6545GRLandarenca
+6546GRCauco
+6546GRSta. Domenica
+6546GRBodio GR
+6547GRAugio
+6548GRRossa
+6549GRLaura
+6556GRLeggia
+6557GRCama
+6557GRPiani di Verdabbio
+6558GRLostallo
+6558GRCabbiolo
+6562GRSoazza
+6563GRMesocco
+6563GRMisox
+6563GRPian S. Giacomo
+6565GRS. Bernardino
+6565GRS. Bernardino Ospi
+6571TIIndemini
+6572TIQuartino
+6573TIMagadino
+6574TIVira (Gambarogno)
+6574TIFosano
+6574TIAlpe di Neggia
+6575TIS. Nazzaro
+6575TIVairano
+6576TIGerra (Gambarogno)
+6577TIRanzo
+6577TIS. Abbondio
+6578TICaviano
+6579TIPiazzogna
+6582TIPianezzo
+6582TIPaudo
+6582TILoro
+6583TIS. Antonio
+6583TICarmena
+6583TIVellano
+6584TICarena
+6584TIMelera
+6592TIS. Antonino
+6593TICadenazzo
+6594TIContone
+6595TIRiazzino
+6596TIGordola
+6596TIGaggiole
+6596TIGordemo
+6597TIAgarone
+6597TIMedoscio
+6598TITenero
+6599TIRobasacco
+6600TILocarno
+6600TICardada
+6600TIMuralto
+6600TISolduno
+6600TILocarno 1 Dist L
+6600TILocarno 3 Autopost
+6601TILocarno
+6602TIMuralto
+6604TILocarno
+6604TISolduno
+6605TILocarno
+6605TIMonti Trinita
+6605TIMonte Bre Locarno
+6611TILocarno Sortite
+6611TIMosogno
+6611TIGresso
+6611TICrana
+6612TIAscona
+6612TIMonte Verita
+6612TIMoscia
+6613TIPorto Ronco
+6614TIBrissago
+6614TIMadonna di Ponte
+6614TIPorta (Brissago)
+6614TIBrenscino
+6614TIIsole di Brissago
+6616TILosone
+6616TILosone Caserma
+6618TIArcegno
+6622TIRonco sopra Ascona
+6631TICorippo
+6632TIVogorno
+6632TIBerzona (Verzasca)
+6633TILavertezzo
+6634TIBrione (Verzasca)
+6635TIGerra (Verzasca)
+6636TIFrasco
+6637TISonogno
+6644TIOrselina
+6644TIMadonna del Sasso
+6645TIBrione s. Minusio
+6646TIContra
+6647TIMergoscia
+6648TIMinusio
+6652TITegna
+6652TIPonte Brolla
+6653TIVerscio
+6654TICavigliano
+6655TIIntragna
+6655TICorcapolo
+6655TIVerdasio
+6655TIRasa
+6656TIGolino
+6657TIPalagnedra
+6658TIBorgnone
+6658TICadanza
+6659TICamedo
+6659TIMoneto
+6661TILoco
+6661TIAuressio
+6661TIBerzona
+6662TIRusso
+6663TIComologno
+6663TICorbella
+6663TIVocaglia
+6663TISpruga
+6664TIVergeletto
+6670TIAvegno
+6671TILocarno Sortite
+6672TIGordevio
+6673TIMaggia
+6674TISomeo
+6674TIRiveo
+6675TICevio
+6676TIBignasco
+6677TIMoghegno-Aurigeno
+6677TIAurigeno
+6677TIMoghegno
+6678TIGiumaglio
+6678TILodano
+6678TICoglio
+6682TILinescio
+6683TICerentino
+6683TICollinasca
+6683TINiva (Vallemaggia)
+6684TICampo (VM)
+6684TIPiano di Campo
+6684TICimalmotto
+6685TIBosco/Gurin
+6685TIGurin
+6690TICavergno
+6690TIForoglio
+6690TIRobiei
+6690TIS. Carlo
+6692TIMenzonio
+6692TIBrontallo
+6693TIBroglio
+6694TIPrato-Sornico
+6694TISornico
+6695TIPeccia
+6695TIMogno
+6695TIS. Carlo (Peccia)
+6695TIPiano di Peccia
+6696TIFusio
+6702TIClaro
+6703TIOsogna
+6703TIOsogna Stazione
+6705TICresciano
+6707TIIragna
+6710TIBiasca
+6710TIBiasca Stazione
+6713TIMalvaglia
+6713TIMalvaglia Rongie
+6713TIMalvaglia Chiesa
+6713TIPontirone
+6714TISemione
+6715TIDongio
+6716TIAcquarossa
+6716TIComprovasco
+6716TILeontica
+6716TILottigna
+6717TIDangio-Torre
+6717TIGrumo (Blenio)
+6717TITorre
+6718TIOlivone
+6718TIAcquacalda
+6718TICampra
+6718TICamperio
+6719TIAquila
+6720TICampo (Blenio)
+6720TIGhirone
+6721TILudiano
+6721TIMotto (Blenio)
+6722TICorzoneso
+6722TICumiasca
+6723TIPrugiasco
+6723TITraversa
+6723TICastro
+6723TIMarolta
+6724TIPonto Valentino
+6724TILargario
+6742TIPollegio
+6743TIBodio TI
+6744TIPersonico
+6745TIGiornico
+6746TILavorgo
+6746TICalonico
+6746TINivo
+6747TIChironico
+6748TIAnzonico
+6749TISobrio
+6749TICavagnago
+6760TIFaido
+6760TIMolare
+6760TICalpiogna
+6760TIPrimadengo
+6760TICampello
+6760TIProdoer
+6760TICar.
+6760TIRossura
+6760TIFiggione
+6760TITengia
+6762TIFaido Stazione
+6763TIOsco
+6763TIVigera
+6763TIFreggio
+6763TIMairengo
+6764TIChiggiogna
+6772TIRodi-Fiesso
+6772TIFiesso
+6773TIPrato (Leventina)
+6774TIDalpe
+6775TIAmbr.
+6776TIPiotta
+6776TIAltanca
+6776TIPiora
+6776TIRonco (Quinto)
+6777TIQuinto
+6777TICatto
+6777TIDeggio
+6777TILurengo
+6777TIVarenzo
+6780TIAirolo
+6780TIFontana (Bedretto)
+6780TIMotto Bartola
+6780TINante
+6780TIValle
+6780TIMadrano
+6780TIAirolo Caserma
+6781TIAirolo Sortite
+6781TIVilla Bedretto
+6781TIOssasco
+6781TIRonco (Bedretto)
+6781TIS. Gottardo
+6781TIBedretto
+6781TIAll'Acqua
+6802TIRivera
+6802TIMonte Ceneri
+6802TISoresina
+6802TICapidogno
+6802TIRivera Caserma
+6803TICamignolo
+6804TIBironico
+6805TIMezzovico
+6805TIVira (Mezzovico)
+6806TISigirino
+6807TITaverne
+6808TITorricella
+6809TIMedeglia
+6810TIIsone
+6810TIIsone Caserma
+6814TILamone-Cadempino
+6814TIOstarietta
+6814TILamone
+6814TICadempino
+6815TIMelide
+6816TIBissone
+6817TIMaroggia
+6818TIMelano
+6821TIRovio
+6822TIArogno
+6823TIPugerna
+6823TICaprino
+6823TICavallino
+6825TICapolago
+6825TIMte Generoso Vetta
+6826TIRiva S. Vitale
+6827TIBrusino Arsizio
+6827TIPoiana
+6828TIBalerna
+6828TIBisio
+6828TIMezzana
+6830TIChiasso
+6830TIChiasso 1
+6830TIChiasso 3
+6830TIBoffalora
+6832TIPedrinate
+6832TISeseglio
+6833TIVacallo
+6833TIS. Simone
+6834TIMorbio Inferiore
+6834TIBalbio
+6834TIFontanella
+6835TIMorbio Superiore
+6836TISerfontana
+6837TICaneggio
+6837TIBruzella
+6838TIMuggio
+6838TICabbio
+6838TIScudellate
+6839TISagno
+6850TIMendrisio
+6850TIMendrisio Stazione
+6850TIMendrisio Borgo
+6852TIGenestrerio
+6852TIBoscherina
+6853TILigornetto
+6854TIS. Pietro
+6855TIStabio
+6855TIGaggiolo
+6862TIRancate
+6863TIBesazio
+6864TIArzo
+6865TITremona
+6866TIMeride
+6867TISerpiano
+6872TISalorino
+6872TIMte Generoso Bellv
+6872TISomazzo
+6873TICorteglia
+6874TICastel S. Pietro
+6875TICasima
+6875TIMonte
+6875TICampora
+6877TIColdrerio
+6877TIVilla Coldrerio
+6882TIBrusata
+6883TINovazzano
+6900TILugano
+6900TICalprino
+6900TIMassagno
+6900TIParadiso
+6900TILugano 3 Dist
+6901TILugano
+6902TILugano 2 Caselle
+6902TIParadiso
+6903TILugano
+6903TIS. Salvatore
+6903TIMonte S. Salvatore
+6903TIMt Bre 6903 Lugano
+6904TILugano 4 Caselle
+6905TILugano 5 Autoposta
+6906TILugano 6 Caselle
+6907TILugano 7 Caselle
+6908TIMassagno Caselle
+6910TILugano
+6911I Campione
+6912TIPazzallo
+6913TICarabbia
+6914TICarona
+6915TIPambio-Noranco
+6915TINoranco
+6916TIGrancia
+6917TIBarbengo
+6917TICadepiano
+6917TIBarbengo Paese
+6918TIFigino
+6918TICasoro
+6919TICarabietta
+6921TIVico Morcote
+6922TIMorcote
+6922TIArbostora
+6922TIOlivella
+6924TISorengo
+6925TIGentilino
+6925TICappella-Agnuzzo
+6926TIMontagnola
+6926TICertenago
+6927TIAgra
+6927TIBigogno
+6928TIManno
+6929TIGravesano
+6929TIGrumo di Gravesano
+6930TIBedano
+6932TIBreganzona
+6932TIBiogno
+6933TIMuzzano
+6933TIAgnuzzo
+6934TIBioggio
+6935TIBosco Luganese
+6936TICademario
+6936TILisone
+6936TICademario Cas cura
+6937TIBreno
+6938TIVezio
+6938TIFescoggia
+6939TIArosio
+6939TIMugena
+6942TISavosa
+6943TIVezia
+6944TICureglia
+6945TIOriglio
+6946TIPonte Capriasca
+6947TIVaglio
+6948TIPorza
+6949TIComano
+6950TITesserete
+6950TICampestro
+6950TIGola di Lago
+6951TILugano Sortite
+6951TIInsone
+6951TIOdogno
+6951TILelgio
+6951TIScareglia
+6951TIValcolla
+6951TIColla
+6951TIBogno
+6951TICozzo
+6951TISignora
+6952TICanobbio
+6953TILugaggia
+6954TISala Capriasca
+6954TIBigorio
+6955TICagiallo
+6955TIOggio
+6956TILopagno
+6957TIRoveredo TI
+6957TITreggia
+6958TIBidogno
+6958TICorticiasca
+6959TIMaglio di Colla
+6959TICertara
+6959TICurtina
+6959TICimadera
+6959TIPiandera Paese
+6962TIViganello
+6962TILa Santa
+6962TIAlbonago
+6963TIPregassona
+6963TICureggia
+6964TIDavesco-Soragno
+6964TISoragno
+6965TICadro
+6966TIVilla Luganese
+6967TIDino
+6968TISonvico
+6974TIAldesago
+6976TICastagnola
+6977TIRuvigliana
+6977TISuvigliana
+6978TIGandria
+6979TIBre sopra Lugano
+6980TICastelrotto
+6980TICroglio
+6981TILugano Sortite
+6981TIBedigliora
+6981TIBiogno-Beride
+6981TIBombinasco
+6981TIBanco
+6982TIAgno
+6982TISerocca
+6983TIMagliaso
+6983TIMagliasina
+6984TIPura
+6986TINovaggio
+6986TIMiglieglia
+6986TICurio
+6987TICaslano
+6988TIPonte Tresa
+6989TIPurasca
+6990TICassina d'Agno
+6991TINeggio
+6992TIVernate
+6992TICimo
+6993TIIseo
+6994TIAranno
+6995TIMolinazzo
+6995TIMadonna del Piano
+6996TIPonte Cremenaga
+6996TIFornasette
+6997TISessa
+6998TITermine
+6998TICastello Monteggio
+6998TIMonteggio
+6999TIAstano
+7000GRChur
+7000GRCuoira
+7000GRCuera
+7000GRCoira
+7000GRCoire
+7000GRChur 1 Ba
+7000GRChur KPD
+7000GRChur Kaserne
+7001GRChur
+7002GRChur
+7002GRChur TD
+7003GRChur Postauto
+7004GRChur
+7005GRChur
+7005GRMasans
+7006GRChur
+7007GRChur
+7012GRFelsberg
+7013GRDomat/Ems
+7013GREms GR
+7014GRTrin
+7015GRTamins
+7015GRReichenau
+7016GRTrin Mulin
+7017GRFlims Dorf
+7018GRFlims Waldhaus
+7019GRFidaz
+7023GRHaldenstein
+7026GRMaladers
+7027GRCastiel
+7027GRLueen
+7027GRCalfreisen
+7028GRSt. Peter
+7028GRPagig
+7029GRPeist
+7031GRLaax GR
+7031GRLaax GR 1
+7032GRLaax GR 2
+7050GRArosa
+7050GRInnerarosa
+7056GRMolinis
+7057GRLangwies
+7057GRFondei
+7057GRSapuen
+7058GRLitzirueti
+7062GRPassugg-Araschgen
+7062GRAraschgen
+7063GRPraden
+7064GRTschiertschen
+7074GRMalix
+7074GRKreuz (Malix)
+7075GRChurwalden
+7076GRParpan
+7077GRValbella
+7077GRLenzerheide See
+7078GRLenzerheide/Lai
+7082GRVaz/Obervaz
+7082GRObervaz
+7082GRZorten
+7083GRLantsch/Lenz
+7083GRLenz
+7084GRBrienz/Brinzauls
+7084GRVazerol
+7104GRVersam
+7104GREgschi
+7104GRAcla (Safien)
+7104GRVersam Station
+7104GRArezen
+7106GRTenna
+7107GRSafien Platz
+7107GRNeukirch (Safien)
+7108GRMura (Safien)
+7109GRThalkirch
+7111GRPitasch
+7112GRDuvin
+7112GRPeiden
+7112GRPeiden Bad
+7112GRPeiden Dorf
+7113GRCamuns
+7114GRUors (Lumnezia)
+7115GRSurcasti
+7116GRTersnaus
+7116GRLunschania
+7116GRSt. Martin
+7122GRValendas
+7122GRBruen
+7122GRDutjen
+7122GRCarrera
+7126GRCastrisch
+7127GRSevgein
+7127GRSeewis im Oberland
+7128GRRiein
+7130GRIlanz
+7130GRGlion
+7130GRStrada i. O.
+7130GRSchnaus
+7132GRVals
+7133GRObersaxen Affeier
+7133GRAffeier
+7134GRObersaxen Meierhof
+7134GRMeierhof
+7135GRObersaxen Giraniga
+7135GRGiraniga
+7136GRObers Friggahues
+7136GRFriggahues
+7137GRFlond
+7138GRSurcuolm
+7138GRValata
+7141GRLuven
+7142GRCumbel
+7142GRCumbels
+7143GRMorissen
+7144GRVella
+7145GRDegen
+7145GRIgels
+7146GRVattiz
+7147GRVignogn
+7147GRVigens
+7148GRLumbrein
+7148GRSurin
+7149GRVrin
+7151GRSchluein
+7151GRSchleuis
+7152GRSagogn
+7153GRFalera
+7153GRFellers
+7154GRRuschein
+7155GRLadir
+7156GRRueun
+7156GRPigniu
+7157GRSiat
+7158GRWaltensburg/Vuorz
+7158GRVuorz
+7158GRWaltensbg/Vuorz St
+7159GRAndiast
+7162GRTavanasa
+7163GRDanis
+7164GRDardin
+7165GRBreil/Brigels
+7165GRBrigels
+7166GRTrun
+7166GRDarvella
+7166GRTruns
+7166GRLumneins
+7167GRZignau
+7168GRSchlans
+7172GRRabius
+7173GRSurrein
+7173GRTenigerbad
+7174GRS. Benedetg
+7174GRSt. Benedikt
+7175GRSumvitg
+7175GRSomvix
+7176GRCumpadials
+7180GRDisentis/Muster
+7180GRDisla
+7180GRMuster
+7182GRCavardiras
+7183GRMompe Medel
+7184GRCuraglia
+7184GRMedel (Lucmagn)
+7185GRPlatta
+7186GRSegnas
+7186GRMompe Tujetsch
+7187GRCamischolas
+7188GRSedrun
+7188GRTujetsch
+7188GRSurrein GR
+7189GRRueras
+7189GRSelva (Tujetsch)
+7189GRTschamut
+7199GRTrin Station
+7201GRUntervaz Bahnhof
+7202GRSays
+7203GRTrimmis
+7204GRUntervaz
+7205GRZizers
+7206GRIgis
+7207GRLandquart Fabriken
+7208GRMalans GR
+7212GRSeewis Dorf
+7212GRSeewis Praettigau
+7213GRValzeina
+7214GRGruesch
+7214GRPardisla
+7214GRUeberlandquart
+7214GRSchmitten (Seewis)
+7214GRSeewis-Valzeina
+7215GRFanas
+7220GRSchiers
+7222GRMittellunden
+7223GRBuchen
+7224GRPutz
+7226GRStels
+7226GRFajauna
+7228GRSchuders
+7228GRPusserein
+7231GRPragg-Jenaz
+7232GRFurna
+7233GRJenaz
+7235GRFideris
+7235GRFideris Station
+7240GRKueblis
+7241GRConters
+7242GRLuzein
+7243GRPany
+7244GRGadenstaett
+7245GRAscharina
+7245GRSt. Antoenien Asch
+7246GRSt. Antoenien
+7247GRSaas im Praettigau
+7249GRSerneus
+7249GRMezzaselva
+7249GRSerneus Station
+7250GRKlosters
+7250GRAeuja
+7250GRMonbiel
+7252GRKlosters Dorf
+7260GRDavos Dorf
+7260GRDischma
+7260GRFlueela Hospiz
+7260GRFlueelapass
+7265GRDavos Wolfgang
+7265GRWolfgang
+7265GRLaret
+7270GRDavos Platz
+7270GRDavos Platz 1
+7270GRDavos 2
+7270GRDavos 4
+7270GRSchatzalp (Davos)
+7272GRDavos Clavadel
+7272GRSertig Doerfli
+7272GRClavadel
+7276GRDavos Frauenkirch
+7276GRFrauenkirch
+7277GRDavos Glaris
+7277GRGlaris
+7278GRDavos Monstein
+7278GRMonstein
+7302GRLandquart
+7303GRMastrils
+7304GRMaienfeld
+7304GRLuziensteig
+7304GRSt. Luzisteig
+7306GRFlaesch
+7307GRJenins
+7310SGBad Ragaz
+7310SGPfaefers Bad
+7310SGRagaz
+7312SGPfaefers
+7313SGSt. Margrethenberg
+7314SGVadura
+7314SGVasoen
+7315SGVaettis
+7315SGKunkels
+7317SGValens
+7317SGBalen-Gassaura
+7317SGGassaura
+7320SGSargans
+7323SGWangs
+7323SGPizolhuette
+7323SGPizol
+7324SGVilters
+7325SGSchwendi
+7326SGWeisstannen
+7402GRBonaduz
+7402GRSculms
+7403GRRhaezuens
+7404GRFeldis/Veulden
+7404GRVeulden
+7405GRRothenbrunnen
+7408GRCazis
+7408GRRealta
+7408GRUnterrealta
+7411GRSils im Domleschg
+7412GRScharans
+7413GRFuerstenaubruck
+7414GRFuerstenau
+7415GRRodels
+7415GRPratval
+7416GRAlmens
+7417GRPaspels
+7417GRCanova
+7417GRTrans
+7418GRTumegl/Tomils
+7418GRTomils
+7419GRScheid
+7421GRSummaprada
+7421GRSchauenberg
+7422GRTartar
+7423GRSarn
+7423GRPortein
+7424GRPraez
+7424GRDalin
+7425GRMasein
+7426GRFlerden
+7427GRUrmein
+7428GRTschappina
+7428GRObertschappina
+7428GRUntertschappina
+7428GRGlaspass
+7430GRThusis
+7430GRRongellen
+7431GRThusis Ausgaenge
+7431GRMutten
+7431GRObermutten
+7432GRZillis
+7432GRReischen
+7433GRDonath
+7433GRCasti
+7433GRFarduen
+7433GRPatzen
+7433GRLohn GR
+7433GRMathon
+7433GRWergenstein
+7434GRSufers
+7435GRSpluegen
+7435GRSpluegenpass
+7436GRMedels
+7437GRNufenen
+7438GRHinterrhein
+7440GRAndeer
+7442GRClugin
+7443GRPignia
+7444GRAusserferrera
+7445GRInnerferrera
+7446GRCampsut-Croet
+7446GRCroet
+7447GRCresta (Avers)
+7447GRAvers
+7447GRAm Bach (Avers)
+7448GRJuf
+7450GRTiefencastel
+7450GRSolis
+7451GRAlvaschein
+7452GRCunter
+7452GRConters im Oberhst
+7453GRTinizong
+7454GRRona
+7455GRMulegns
+7456GRSur
+7456GRMarmorera
+7457GRBivio
+7458GRMon
+7459GRStierva
+7460GRSavognin
+7462GRSalouf
+7463GRRiom
+7464GRParsonz
+7472GRSurava
+7473GRAlvaneu Bad
+7477GRFilisur
+7482GRBerguen/Bravuogn
+7482GRBravuogn
+7482GRPreda
+7482GRStugl/Stuls
+7482GRStuls
+7484GRLatsch
+7492GRAlvaneu Dorf
+7493GRSchmitten (Albula)
+7494GRWiesen GR
+7494GRJenisberg
+7500GRSt. Moritz
+7500GRSt. Moritz 1
+7500GRSt. Moritz 3
+7502GRBever
+7502GRSpinas
+7503GRSamedan
+7503GRPunt Muragl
+7504GRPontresina
+7504GRMorteratsch
+7504GRBernina Suot
+7505GRCelerina
+7505GRSchlarigna
+7512GRChampfer
+7513GRSilvaplana
+7514GRSils/Segl Maria
+7514GRSils im Engadin
+7514GRSegl
+7514GRFex
+7515GRSils/Segl Baselgia
+7515GRSils im Engadin
+7515GRSegl
+7516GRMaloja
+7516GRMaloggia
+7517GRPlaun da Lej
+7522GRLa Punt-Chamues-ch
+7522GRChamues-ch
+7522GRPonte-Campovasto
+7523GRMadulain
+7524GRZuoz
+7525GRS-chanf
+7526GRCinuos-chel
+7526GRSusauna
+7526GRChapella
+7527GRBrail
+7530GRZernez
+7530GRIl Fuorn
+7530GROva Spin
+7532GRTschierv
+7533GRFuldera
+7534GRLue
+7535GRValchava
+7536GRSta. Maria V. M.
+7537GRMuestair
+7537GRMuenster GR
+7542GRSusch
+7543GRLavin
+7545GRGuarda
+7545GRGiarsun
+7545GRGuarda Staziun
+7546GRArdez
+7550GRScuol
+7550GRTarasp Kurhaus
+7550GRS-charl
+7550GRSchuls
+7551GRFtan
+7551GRFetan
+7552GRVulpera
+7553GRTarasp
+7554GRSent
+7554GRVal Sinestra
+7554GRCrusch
+7556GRRamosch
+7557GRVna
+7558GRStrada
+7558GRSeraplana
+7559GRTschlin
+7560GRMartina
+7560GRVinadi
+7562GRSamnaun-Compatsch
+7562GRLaret (Samnaun)
+7563GRSamnaun Dorf
+7602GRCasaccia
+7603GRVicosoprano
+7604GRBorgonovo
+7605GRStampa
+7606GRPromontogno
+7606GRBondo
+7608GRCastasegna
+7610GRSoglio
+7710GROspizio Bernina
+7710GRBernina Hospiz
+7710GRLa Motta
+7710GRAlp Gruem
+7741GRS. Carlo GR
+7741GRPrivilasco
+7742GRPoschiavo
+7742GRCavaglia
+7742GRSfaz.
+7742GRVal di Campo
+7742GRLa Roesa
+7743GRBrusio
+7743GRMiralago
+7744GRCampocologno
+7745GRLi Curt
+7745GRAnnunziata
+7745GRPrada
+7745GRS. Antonio GR
+7746GRLe Prese
+7747GRViano
+7748GRCampascio
+7748GRCavajone
+7748GRZalende
+8000ZHZuerich
+8000ZHZurich
+8000ZHZurigo
+8000ZHZuerichhorn
+8001ZHZuerich
+8002ZHZuerich
+8003ZHZuerich
+8004ZHZuerich
+8004ZHZuerich Lochergut
+8005ZHZuerich
+8006ZHZuerich
+8008ZHZuerich
+8010ZHZuerich-Muelligen
+8020ZHZuerich 1 Ba
+8020ZHZuerich
+8021ZHZuerich
+8021ZHZuerich TD
+8022ZHZuerich
+8023ZHZuerich
+8024ZHZuerich
+8025ZHZuerich
+8026ZHZuerich
+8027ZHZuerich
+8028ZHZuerich
+8029ZHZuerich
+8030ZHZuerich
+8031ZHZuerich
+8032ZHZuerich
+8032ZHNeumuenster
+8032ZHZuerich 32 Ba
+8033ZHZuerich
+8034ZHZuerich
+8035ZHZuerich
+8036ZHZuerich
+8036ZHZuerich Corona
+8037ZHZuerich
+8038ZHZuerich
+8039ZHZuerich
+8040ZHZuerich
+8041ZHZuerich
+8041ZHLeimbach ZH
+8042ZHZuerich
+8043ZHZuerich
+8044ZHZuerich
+8044ZHGeeren
+8044ZHGockhausen
+8045ZHZuerich
+8045ZHZuerich SB Friesbg
+8046ZHZuerich
+8046ZHAffoltern b. Zch
+8047ZHZuerich
+8047ZHAlbisrieden
+8048ZHZuerich
+8048ZHAltstetten ZH
+8049ZHZuerich
+8050ZHZuerich
+8050ZHOerlikon
+8050ZHZuerich Postauto
+8051ZHZuerich
+8051ZHSchwamendingen
+8052ZHZuerich
+8052ZHSeebach
+8052ZHZuerich SB Birchhf
+8053ZHZuerich
+8055ZHZuerich
+8056ZHZuerich
+8057ZHZuerich
+8058ZHZuerich
+8059ZHZuerich
+8060ZHZuerich
+8061ZHZuerich
+8062ZHZuerich
+8063ZHZuerich
+8064ZHZuerich
+8065ZHZuerich
+8070ZHZuerich CS
+8071ZHZuerich CS PZ
+8079ZHZuerich
+8080ZHZuerich KPD
+8085ZHZuerich Versich.
+8086ZHZuerich R Digest
+8088ZHZuerich Jelmoli
+8090ZHZuerich
+8091ZHZuerich
+8092ZHZuerich
+8093ZHZuerich
+8099ZHZuerich
+8102ZHOberengstringen
+8102ZHEngstringen
+8103ZHUnterengstringen
+8103ZHEngstringen
+8104ZHWeiningen ZH
+8105ZHRegensdorf
+8105ZHRegensdorf 1
+8105ZHWatt
+8106ZHRegensdorf 2
+8106ZHAdlikon b.Regensdf
+8107ZHBuchs ZH
+8108ZHDaellikon
+8112ZHOtelfingen
+8113ZHBoppelsen
+8114ZHDaenikon ZH
+8115ZHHuettikon
+8117ZHFaellanden
+8118ZHPfaffhausen
+8121ZHBenglen
+8122ZHBinz
+8123ZHEbmatingen
+8124ZHMaur
+8124ZHUessikon
+8125ZHZollikerberg
+8126ZHZumikon
+8126ZHWaltikon
+8127ZHForch
+8127ZHAesch b. Maur
+8127ZHLimberg
+8127ZHScheuren (Forch)
+8127ZHGuldenen
+8130ZHZumikon Y. Rocher
+8132ZHEgg b. Zuerich
+8132ZHLangwies
+8132ZHVollikon
+8132ZHHinteregg
+8132ZHNeuhaus ZH
+8133ZHEsslingen
+8133ZHEmmat
+8134ZHAdliswil
+8134ZHOberleimbach
+8134ZHSood-Oberleimbach
+8134ZHAdliswil 1
+8134ZHAdliswil 2
+8135ZHLangnau am Albis
+8135ZHGontenbach
+8135ZHSihlwald
+8135ZHAlbis
+8136ZHGattikon
+8142ZHUitikon Waldegg
+8142ZHRinglikon
+8142ZHWaldegg b. Uitikon
+8143ZHStallikon
+8143ZHSellenbueren
+8143ZHUetliberg
+8152ZHGlattbrugg
+8152ZHOpfikon
+8153ZHRuemlang
+8153ZHKatzenrueti
+8154ZHOberglatt ZH
+8155ZHNiederhasli
+8155ZHMettmenhasli
+8155ZHNassenwil
+8156ZHOberhasli
+8157ZHDielsdorf
+8158ZHRegensberg
+8162ZHSteinmaur
+8162ZHNiedersteinmaur
+8162ZHObersteinmaur
+8162ZHSuenikon
+8164ZHBachs
+8165ZHSchoefflisdorf
+8165ZHOberweningen
+8165ZHSchleinikon
+8166ZHNiederweningen
+8172ZHNiederglatt ZH
+8173ZHNeerach
+8173ZHRiedt b. Neerach
+8174ZHStadel
+8175ZHWindlach
+8175ZHRaat b. Windlach
+8175ZHSchuepfheim ZH
+8180ZHBuelach
+8180ZHEschenmosen
+8180ZHNussbaumen
+8181ZHHoeri
+8181ZHEndhoeri
+8181ZHNiederhoeri
+8182ZHHochfelden
+8184ZHBachenbuelach
+8185ZHWinkel
+8185ZHRueti (Wisenthal)
+8185ZHSeeb
+8187ZHWeiach
+8192ZHGlattfelden
+8192ZHZweidlen
+8193ZHEglisau
+8194ZHHuentwangen
+8195ZHWasterkingen
+8196ZHWil ZH
+8197ZHRafz
+8200SHSchaffhausen
+8200SHSchaffhouse
+8200SHSciaffusa
+8200SHSchaffhausen 1 Aus
+8201SHSchaffhausen
+8202SHSchaffhausen
+8203SHSchaffhausen
+8203SHBuchthalen
+8204SHSchaffhausen
+8205SHSchaffhausen
+8206SHSchaffhausen
+8207SHSchaffhausen
+8207SHHerblingen
+8208SHSchaffhausen
+8212SHNeuhausen
+8212SHNeuhausen 1
+8212SHNeuhausen 2
+8212ZHNohl
+8213SHNeunkirch
+8214SHGaechlingen
+8215SHHallau
+8216SHOberhallau
+8217SHWilchingen
+8218SHOsterfingen
+8219SHTrasadingen
+8222SHBeringen
+8223SHGuntmadingen
+8224SHLoehningen
+8225SHSiblingen
+8226SHSchleitheim
+8226SHOberwiesen
+8228SHBeggingen
+8231SHHemmental
+8232SHMerishausen
+8233SHBargen SH
+8234SHStetten SH
+8235SHLohn SH
+8236SHBuettenhardt
+8236SHOpfertshofen SH
+8238D Buesingen
+8239SHDoerflingen
+8240SHThayngen
+8241SHBarzheim
+8242SHBibern SH
+8242SHHofen SH
+8243SHAltdorf SH
+8245ZHFeuerthalen
+8246ZHLangwiesen
+8246ZHAlt Paradies
+8247ZHFlurlingen
+8248ZHUhwiesen
+8252TGSchlatt b. D.
+8252TGMettschlatt
+8252TGOberschlatt TG
+8252TGMett-Oberschlatt
+8252TGUnterschlatt
+8252TGNeu Paradies
+8253TGDiessenhofen
+8253TGSt. Katharinental
+8253TGWillisdorf
+8254TGBasadingen
+8255TGSchlattingen
+8259TGKaltenbach
+8259TGEtzwilen
+8259TGRheinklingen
+8260SHStein am Rhein
+8260SHStein am Rhein 1
+8260SHStein am Rhein 2
+8260TGWagenhausen
+8261SHHemishofen
+8262SHRamsen
+8262SHWiesholz
+8263SHBuch SH
+8264TGEschenz
+8264TGKlingenzell
+8264TGBornhausen
+8265TGMammern
+8266TGSteckborn
+8266TGGlarisegg
+8267TGBerlingen
+8268TGMannenbach-Salenst
+8268TGArenenberg
+8268TGSalenstein
+8272TGErmatingen
+8273TGTriboltingen
+8274TGTaegerwilen
+8274TGGottlieben
+8280TGKreuzlingen
+8280TGKreuzlingen 1
+8280TGKreuzlingen 2
+8280TGKreuzlingen 3
+8280TGKurzrickenbach
+8280TGKreuzlingen 4
+8280TGBernrain
+8288TGKreuzlingen Sonder
+8301ZHGlattzentrum
+8302ZHKloten
+8302ZHGerlisberg
+8302ZHKloten Kaserne
+8303ZHBassersdorf
+8303ZHBaltenswil ZH
+8304ZHWallisellen
+8304ZHNeugut Duebendorf
+8305ZHDietlikon
+8306ZHBruettisellen
+8307ZHEffretikon
+8307ZHBisikon
+8307ZHMoosburg
+8307ZHRikon b.Effretikon
+8307ZHBietenholz
+8307ZHOttikon b.Kemptth.
+8308ZHIllnau
+8308ZHMesikon
+8308ZHAgasul
+8308ZHHorben b. Illnau
+8309ZHNuerensdorf
+8309ZHBirchwil
+8309ZHBreite
+8309ZHOberwil Nuerensdf
+8309ZHHakab
+8310ZHKemptthal
+8310ZHGrafstal
+8311ZHBruetten
+8312ZHWinterberg ZH
+8312ZHKleinikon
+8314ZHKyburg
+8314ZHEttenhausen Kyburg
+8314ZHBillikon b. Kyburg
+8315ZHLindau
+8315ZHEschikon
+8317ZHTagelswangen
+8320ZHFehraltorf
+8321ZHWildberg
+8321ZHEhrikon
+8322ZHMadetswil
+8322ZHGuendisau
+8330ZHPfaeffikon ZH
+8330ZHIrgenhausen
+8330ZHWallikon
+8330ZHHermatswil
+8331ZHAuslikon
+8331ZHOberbalm b. Auslik
+8332ZHRussikon
+8332ZHSennhof Russikon
+8332ZHRumlikon
+8332ZHWilhof b. Russikon
+8335ZHHittnau
+8335ZHIsikon
+8335ZHUnterhittnau
+8335ZHOberhittnau
+8335ZHDuerstelen
+8340ZHHinwil
+8340ZHErlosen
+8340ZHGirenbad b. Hinwil
+8340ZHHadlikon
+8340ZHRingwil
+8342ZHWernetshausen
+8342ZHBachtel
+8342ZHHasenstrick
+8344ZHBaeretswil
+8344ZHNeuthal
+8345ZHAdetswil
+8352ZHRaeterschen
+8352ZHElsau
+8352ZHRicketwil
+8352ZHRuemikon ZH
+8352ZHSchottikon
+8352ZHTollhausen
+8353ZHElgg
+8353ZHZuenikon
+8353ZHGuendlikon
+8354ZHHofstetten b. Elgg
+8354ZHDickbuch
+8354ZHHuggenberg
+8355TGAadorf
+8356TGEttenhausen TG
+8356TGTaenikon
+8357TGGuntershausen
+8357TGMaischhausen
+8360TGEschlikon TG
+8360TGHolzmannshaus
+8360TGHurnen
+8360TGWallenwil
+8362TGBalterswil
+8362TGIfwil TG
+8362TGItaslen
+8363TGBichelsee
+8370TGSirnach
+8372TGWiezikon b.Sirnach
+8372TGHorben b. Sirnach
+8374TGDussnang
+8374TGTannegg
+8374TGVogelsang TG
+8374TGSchurten TG
+8374TGOberwangen TG
+8376TGFischingen
+8376TGAu TG
+8400ZHWinterthur
+8400ZHWinterthur 1 Ausg
+8401ZHWinterthur
+8401ZHWinterthur TD
+8402ZHWinterthur
+8404ZHWinterthur
+8404ZHOberwinterthur
+8404ZHReutlingen
+8404ZHStadel(Winterthur)
+8405ZHWinterthur
+8405ZHEidberg
+8405ZHGotzenwil
+8405ZHIberg (Winterthur)
+8405ZHSeen
+8406ZHWinterthur
+8406ZHDaettnau
+8406ZHToess
+8407ZHWinterthur
+8407ZHVeltheim ZH
+8408ZHWinterthur
+8408ZHWuelflingen
+8409ZHWinterthur
+8409ZHHegi (Winterthur)
+8410ZHWinterthur
+8411ZHWinterthur
+8412ZHAesch b.Neftenbach
+8412ZHHuenikon
+8412ZHRiet b. Neftenbach
+8413ZHNeftenbach
+8414ZHBuch am Irchel
+8415ZHBerg am Irchel
+8415ZHGraeslikon
+8416ZHFlaach
+8418ZHSchlatt
+8418ZHNussberg
+8418ZHOberschlatt ZH
+8418ZHWaltenstein
+8421ZHDaettlikon
+8422ZHPfungen
+8423ZHEmbrach-Embraport
+8424ZHEmbrach
+8425ZHOberembrach
+8426ZHLufingen
+8426ZHAugwil
+8427ZHRorbas-Freienstein
+8427ZHFreienstein
+8427ZHRorbas
+8428ZHTeufen ZH
+8442ZHHettlingen
+8444ZHHenggart
+8447ZHDachsen
+8447ZHLaufen am Rheinfal
+8450ZHAndelfingen
+8451ZHKleinandelfingen
+8452ZHAdlikon
+8452ZHDaetwil ZH
+8452ZHNiederwil
+8453ZHAlten
+8454SHBuchberg
+8455SHRuedlingen
+8457ZHHumlikon
+8458ZHDorf
+8459ZHVolken
+8460ZHMarthalen
+8461ZHOerlingen
+8462ZHRheinau
+8462ZHNeurheinau
+8463ZHBenken ZH
+8464ZHEllikon am Rhein
+8465ZHRudolfingen
+8465ZHWildensbuch
+8466ZHTruellikon
+8467ZHTruttikon
+8467ZHGisenhard
+8468ZHWaltalingen
+8468ZHGuntalingen
+8471ZHRutschwil-Daegerlen
+8471ZHOberwil Daegerlen
+8471ZHBerg-Daegerlen
+8471ZHDaegerlen
+8472ZHSeuzach
+8472ZHOhringen
+8472ZHOberohringen
+8474ZHDinhard
+8474ZHEschlikon ZH
+8474ZHWelsikon
+8475ZHOssingen
+8476ZHUnterstammheim
+8476ZHStammheim
+8477ZHOberstammheim
+8477ZHStammheim
+8478ZHThalheim
+8478ZHGuetighausen
+8479ZHAltikon
+8482ZHSennhof
+8483ZHKollbrunn
+8483ZHBruenggen
+8484ZHWeisslingen
+8484ZHNeschwil
+8484ZHDettenried
+8484ZHTheilingen
+8486ZHRikon im Toesstal
+8486ZHLangenhard
+8486ZHSchwaendi ZH
+8487ZHZell ZH
+8487ZHRaemismuehle
+8488ZHTurbenthal
+8488ZHGirenbad Turbnthal
+8488ZHSeelmatten
+8488ZHOberhofen ZH
+8488ZHNeubrunn
+8492ZHWila
+8492ZHSteinen b. Wila
+8492ZHTablat
+8492ZHSchalchen
+8493ZHSaland
+8493ZHBlitterswil
+8494ZHBauma
+8494ZHLipperschwendi
+8495ZHSchmidrueti
+8495ZHSitzberg
+8496ZHSteg im Toesstal
+8497ZHFischenthal
+8498ZHGibswil-Ried
+8498ZHGibswil
+8498ZHRaad b. Gibswil
+8498ZHRied b. Gibswil
+8499ZHSternenberg
+8500TGFrauenfeld
+8500TGHerten
+8500TGHorgenbach
+8500TGHuben
+8500TGOsterhalden
+8500TGStrass
+8500TGBuehl TG
+8500TGDingenhart
+8500TGErzenholz
+8500TGNiederwil TG
+8500TGOberwil TG
+8500TGFrauenfeld 1
+8500TGGerlikon
+8500TGFrauenfeld 1 Ausg
+8500TGFrauenfeld Kaserne
+8500TGFrauenfeld Pauto
+8501TGFrauenfeld
+8502TGFrauenfeld
+8503TGFrauenfeld
+8505TGPfyn
+8506TGLanzenneunforn
+8506TGDettighofen b. L
+8507TGHoerhausen
+8507TGSalen-Reutenen
+8507TGSalen-Reutenen
+8507TGGuendelhart
+8508TGHomburg
+8508TGUnterhoerstetten
+8508TGOberhoerstetten
+8508TGReckenwil
+8510TGFrauenfeld
+8512TGThundorf
+8512TGLustdorf
+8512TGWetzikon TG
+8514TGBissegg
+8514TGBaenikon
+8514TGFimmelsberg
+8514TGKaltenbrunnen TG
+8514TGWolfikon TG
+8514TGGriesenberg
+8514TGStrohwilen
+8515TGAmlikon
+8522TGHaeuslenen
+8522TGAawangen
+8523ZHHagenbuch ZH
+8523ZHOberschneit
+8524TGUesslingen
+8524TGTruettlikon
+8524TGDietingen
+8524TGIselisberg
+8524TGBuch b. Frauenfeld
+8524TGHorben b. Frfeld
+8525TGNiederneunforn
+8525TGNeunforn
+8525TGFahrhof
+8525TGWilen b. Neunforn
+8526TGOberneunforn
+8526TGNeunforn
+8532TGWarth
+8532TGWeiningen TG
+8535TGHerdern
+8535TGWilen b. Herdern
+8536TGHuettwilen
+8536TGKalchrain
+8536TGSteinegg TG
+8537TGNussbaumen TG
+8537TGUerschhausen
+8542ZHWiesendangen
+8544ZHRickenbach-Attikon
+8544ZHAttikon
+8544ZHSulz ZH
+8544ZHBertschikon b.Att.
+8545ZHRickenbach ZH
+8546TGIslikon
+8546TGGundetswil
+8546TGBethelhausen
+8546TGMenzengruet
+8546TGKefikon
+8547TGGachnang
+8547TGLiebensberg
+8548ZHEllikon a d Thur
+8552TGFelben-Wellhausen
+8552TGWellhausen
+8553TGHuettlingen-Mettdf
+8553TGHarenwilen
+8553TGMettendorf TG
+8553TGHuettlingen
+8554TGMuellheim-Wigoltgn
+8554TGGrueneck
+8554TGEschikofen
+8554TGBonau
+8554TGGehrau
+8555TGMuellheim Dorf
+8555TGLangenhart
+8556TGWigoltingen
+8556TGEngwang
+8557TGLipperswil
+8557TGHattenhausen
+8557TGWagerswil
+8557TGHefenhausen
+8558TGRaperswilen
+8558TGBueren TG
+8558TGFischbach TG
+8558TGLamperswil TG
+8558TGHelsighausen
+8558TGIllhart
+8559TGFruthwilen
+8560TGMaerstetten Stat
+8561TGOttoberg
+8561TGBoltshausen
+8562TGMaerstetten Dorf
+8564TGWaeldi
+8564TGGunterswilen
+8564TGEngwilen
+8564TGSonterswil
+8565TGHugelshofen
+8566TGNeuwilen
+8566TGSchwaderloh
+8566TGDotnacht
+8566TGEngelswilen
+8566TGEllighausen
+8566TGLippoldswilen
+8570TGWeinfelden
+8570TGHard b. Weinfelden
+8570TGWeerswilen
+8572TGBerg TG
+8572TGKehlhof TG
+8572TGAndhausen
+8572TGGraltshausen
+8573TGSiegershausen
+8573TGDippishausen
+8573TGBaetershausen
+8573TGAlterswilen
+8573TGAltishausen
+8574TGLengwil-Oberhofen
+8574TGDettighofen Oberh
+8574TGIllighausen
+8574TGOberhofen b. Kreuz
+8575TGBuerglen TG
+8575TGIstighofen
+8576TGMauren TG
+8577TGSchoenholzerswilen
+8577TGRitzisbuhwil
+8577TGHagenwil am Nollen
+8577TGToos
+8578TGNeukirch
+8578TGOlmerswil
+8580TGAmriswil
+8580TGBiessenhofen
+8580TGBrueschwil
+8580TGHatswil
+8580TGHemmerswil
+8580TGMuehlebach TG
+8580TGRaeuchlisberg
+8580TGSommeri
+8580TGDozwil
+8580TGHagenwil
+8580TGHefenhofen
+8581TGSchocherswil
+8583TGSulgen
+8583TGHessenreuti
+8583TGGoetighofen
+8583TGDonzhausen
+8584TGLeimbach TG
+8584TGOpfershofen TG
+8584TGGuntershausen
+8585TGMattwil
+8585TGHapperswil
+8585TGEggethof
+8585TGDuennershaus
+8585TGLangrickenbach
+8585TGZuben
+8585TGSchoenenbaumgarten
+8585TGHerrenhof
+8585TGBirwinken
+8585TGKlarsreuti
+8586TGErlen
+8586TGAndwil TG
+8586TGHeimenhofen
+8586TGKuemmertshausen
+8586TGBuch b. Happerswil
+8586TGRiedt b. Erlen
+8586TGBuchackern
+8586TGEngishofen
+8586TGEnnetaach
+8587TGOberaach
+8587TGNiederaach
+8588TGZihlschlacht
+8589TGSitterdorf
+8590TGRomanshorn
+8590TGRomanshorn 1
+8590TGRomanshorn 2
+8590TGRomanshorn 3
+8592TGUttwil
+8593TGKesswil
+8594TGGuettingen
+8595TGAltnau
+8596TGScherzingen
+8596TGMuensterlingen
+8597TGLandschlacht
+8598TGBottighofen
+8599TGSalmsach
+8600ZHDuebendorf
+8600ZHGfenn
+8600ZHHermikon
+8600ZHStettbach
+8600ZHDuebendorf 1
+8600ZHDuebendorf 2
+8600ZHDuebendorf Kaserne
+8602ZHWangen ZH
+8603ZHSchwerzenbach
+8604ZHVolketswil
+8604ZHHegnau
+8604ZHKindhausen ZH
+8604ZHZimikon
+8605ZHGutenswil
+8606ZHNaenikon
+8606ZHWerrikon
+8606ZHGreifensee
+8607ZHAathal-Seegraeben
+8607ZHSeegraeben
+8608ZHBubikon
+8609ZHSchwerzenbach Herz
+8610ZHUster
+8610ZHNossikon
+8610ZHUster 1
+8612ZHUster 2
+8612ZHNiederuster
+8613ZHUster 3
+8613ZHOberuster
+8614ZHBertschikon
+8614ZHSulzbach
+8615ZHWermatswil
+8615ZHFreudwil
+8616ZHRiedikon
+8617ZHMoenchaltorf
+8618ZHOetwil am See
+8618ZHWillikon
+8620ZHWetzikon ZH
+8620ZHMedikon
+8620ZHEmmetschloo
+8620ZHWetzikon ZH 1
+8620ZHEttenhausen ZH
+8621ZHWetzikon ZH 4
+8621ZHRobenhausen
+8622ZHWetzikon ZH
+8622ZHOberwetzikon
+8623ZHWetzikon ZH
+8623ZHKempten
+8623ZHOberkempten
+8624ZHGruet (Gossau ZH)
+8625ZHGossau ZH
+8626ZHOttikon
+8626ZHHerschmettlen
+8627ZHGrueningen
+8627ZHBinzikon
+8627ZHItzikon
+8630ZHRueti ZH
+8630ZHFaegswil
+8632ZHTann
+8633ZHWolfhausen
+8634ZHHombrechtikon
+8635ZHDuernten
+8635ZHOberduernten
+8636ZHWald ZH
+8636ZHHittenberg
+8637ZHLaupen ZH
+8637ZHHubwies
+8638SGGoldingen
+8638SGHintergoldingen
+8639ZHFaltigberg
+8640SGRapperswil SG
+8640SGHurden
+8640SGKempraten
+8640SZHurden
+8640SGRapperswil SG Zust
+8640SGRapperswil SG TD
+8645SGJona
+8646SGWagen
+8700ZHKuesnacht ZH
+8700ZHGoldbach ZH
+8700ZHItschnach
+8702ZHZollikon
+8702ZHZollikon Dorf
+8702ZHZollikon Station
+8703ZHErlenbach ZH
+8704ZHHerrliberg
+8704ZHWetzwil ZH
+8706ZHMeilen
+8706ZHFeldmeilen
+8706ZHObermeilen
+8707ZHUetikon am See
+8708ZHMaennedorf
+8712ZHStaefa
+8712ZHKehlhof ZH
+8712ZHRedlikon
+8712ZHUelikon
+8713ZHUerikon
+8714ZHFeldbach
+8715SGBollingen
+8715SGWurmsbach
+8716SGSchmerikon
+8717SGBenken SG
+8718SGSchaenis
+8718SGDorf b. Schaenis
+8722SGKaltbrunn
+8723SGRufi
+8723SGMaseltrangen
+8725SGErnetschwil
+8725SGSteg SG
+8725SGGebertingen
+8726SGRicken SG
+8726SGHummelwald
+8727SGWalde SG
+8730SGUznach
+8730SGUznaberg
+8730SGUznach Postauto
+8732SGNeuhaus SG
+8733SGEschenbach SG
+8734SGErmenswil
+8735SGSt. Gallenkappel
+8735SGRueeterswil
+8737SGGommiswald
+8738SGUetliburg SG
+8739SGRieden SG
+8740SGUznach Voegele AG
+8750GLGlarus
+8750GLGlaris
+8750GLGlarona
+8750GLRiedern
+8750GLKloental
+8751URUrnerboden
+8752GLNaefels
+8753GLMollis
+8754GLNetstal
+8755GLEnnenda
+8755GLEnnetbuehls
+8756GLMitloedi
+8757GLFilzbach
+8758GLObstalden
+8759GLNetstal
+8762GLSchwanden GL
+8762GLSchwaendi GL
+8762GLSool
+8765GLEngi
+8766GLMatt
+8767GLElm
+8772GLNidfurn
+8772GLLeuggelbach
+8773GLHaslen GL
+8775GLLuchsingen-Haetzin
+8775GLLuchsingen
+8775GLHaetzingen
+8777GLDiesbach GL
+8777GLBetschwanden
+8782GLRueti GL
+8783GLLinthal
+8784GLBraunwald
+8800ZHThalwil
+8801ZHThalwil
+8802ZHKilchberg ZH
+8802ZHBendlikon
+8803ZHRueschlikon
+8803ZHNidelbad
+8804ZHAu ZH
+8805ZHRichterswil
+8805ZHRichterswil Burghd
+8806SZBaech SZ
+8806SZBaechau
+8807SZFreienbach
+8808SZPfaeffikon SZ
+8810ZHHorgen
+8810ZHKaepfnach
+8810ZHArn
+8810ZHHorgen 1
+8812ZHHorgen
+8813ZHHorgen
+8815ZHHorgenberg
+8816ZHHirzel
+8816ZHSpitzen
+8820ZHWaedenswil
+8820ZHHerrlisberg Waedw
+8824ZHSchoenenberg ZH
+8824ZHTanne b.Waedenswil
+8825ZHHuetten
+8832SZWollerau
+8832SZWilen b. Wollerau
+8833ZHSamstagern
+8834SZSchindellegi
+8835SZFeusisberg
+8836SZBennau
+8836SZBiberbrugg
+8840SZEinsiedeln
+8840SZHorgenberg SZ
+8840SZTrachslau
+8841SZGross
+8842SZUnteriberg
+8842SZHoch-Ybrig
+8843SZOberiberg
+8843SZIbergeregg
+8844SZEuthal
+8845SZStuden SZ
+8846SZWillerzell
+8847SZEgg SZ
+8849SZAlpthal
+8851SZLachen SZ Ramensp.
+8852SZAltendorf
+8853SZLachen SZ
+8854SZSiebnen
+8854SZGalgenen
+8855SZWangen SZ
+8855SZNuolen
+8856SZTuggen
+8857SZVorderthal
+8858SZInnerthal
+8862SZSchuebelbach
+8863SZButtikon SZ
+8864SZReichenburg
+8865GLBilten
+8866GLZiegelbruecke
+8867GLNiederurnen
+8868GLOberurnen
+8872SGWeesen
+8872SGFli
+8872SGBetlis
+8873SGAmden
+8873SGArfenbuehl
+8874GLMuehlehorn
+8877SGMurg
+8878SGQuinten
+8879SGPizolpark (Mels)
+8880SGWalenstadt
+8881SGWalenstadt Ausg
+8881SGWalenstadtberg
+8881SGKnoblisbuehl
+8881SGTscherlach
+8882SGUnterterzen
+8883SGQuarten
+8884SGOberterzen
+8885SGMols
+8886SGMaedris-Vermol
+8886SGVermol
+8887SGMels
+8887SGMels Kaserne
+8888SGHeiligkreuz (Mels)
+8889SGPlons
+8890SGFlums
+8892SGBerschis
+8893SGFlums Hochwiese
+8893SGHochwiese (Flums)
+8894SGFlumserberg Saxli
+8894SGSaxli (Flums)
+8895SGFlumserberg Portel
+8895SGPortels
+8896SGFlumserberg Bergh
+8896SGGrossberg (Flums)
+8897SGFlumserberg Theim
+8897SGTannenheim
+8898SGFlumserberg Tboden
+8898SGTannenbodenalp
+8902ZHUrdorf
+8902ZHOberurdorf
+8903ZHBirmensdorf ZH
+8903ZHLandikon
+8903ZHBirmensdorf ZH Kas
+8904ZHAesch
+8905AGArni-Islisberg
+8905AGIslisberg
+8905AGArni AG
+8906ZHBonstetten
+8907ZHWettswil
+8908ZHHedingen
+8909ZHZwillikon
+8910ZHAffoltern am Albis
+8911ZHRifferswil
+8912ZHObfelden
+8913ZHOttenbach
+8913ZHRickenbach Ottenb
+8914ZHAeugst am Albis
+8914ZHAeugstertal
+8915ZHHausen am Albis
+8915ZHAlbisbrunn
+8915ZHTuerlen
+8916AGJonen
+8917AGOberlunkhofen
+8917AGLunkhofen
+8918AGUnterlunkhofen
+8918AGLunkhofen
+8919AGRottenschwil
+8925ZHEbertswil
+8926ZHKappel am Albis
+8926ZHHauptikon
+8926ZHUerzlikon
+8932ZHMettmenstetten
+8932ZHRossau
+8932ZHDachlissen
+8933ZHMaschwanden
+8934ZHKnonau
+8934ZHUttenberg
+8942ZHOberrieden
+8944ZGSihlbrugg Dorf
+8944ZHSihlbrugg Station
+8951ZHFahrweid
+8952ZHSchlieren
+8952ZHSchlieren SB Li-Zm
+8953ZHDietikon
+8953ZHSchoenenwerd ZH
+8953ZHDietikon 1
+8953ZHDietikon 2
+8953ZHDietikon 3
+8954ZHGeroldswil
+8955ZHOetwil
+8956AGKillwangen
+8957AGSpreitenbach
+8962AGBergdietikon
+8962AGBaltenschwil AG
+8963AGKindhausen AG
+8964AGRudolfstetten
+8964AGFriedlisberg
+8965AGBerikon
+8965AGBerikon 1
+8965AGBerikon 2 Dorf
+8966AGOberwil-Lieli
+8966AGLieli
+8966AGOberwil AG
+8967AGWiden
+9000SGSt. Gallen
+9000SGSt-Gall
+9000SGS. Gallo
+9000SGSt. Gallen 1 Ba
+9000SGSt. Gallen Kaserne
+9001SGSt. Gallen
+9001SGSt. Gallen KPD
+9001SGSt. Gallen TD
+9001SGSt.Gallen Postauto
+9003SGSt. Gallen
+9004SGSt. Gallen
+9006SGSt. Gallen
+9007SGSt. Gallen
+9008SGSt. Gallen
+9009SGSt. Gallen
+9010SGSt. Gallen
+9011SGSt. Gallen
+9011SGNotkersegg
+9012SGSt. Gallen
+9013SGSt. Gallen
+9014SGSt. Gallen
+9014SGSt. Gallen 14 Za
+9015SGSt. Gallen
+9015SGWinkeln
+9016SGSt. Gallen
+9020SGSt. Gallen
+9025SGSt. Gallen Quelle
+9026SGSt. Gallen K AG
+9027SGSt. Gallen
+9028SGSt. Gallen CV AG
+9029SGSt. Gallen
+9030SGAbtwil SG
+9030SGSt. Josefen
+9030SGGaiserwald
+9032SGEngelburg
+9033SGUntereggen
+9034SGEggersriet
+9035ARGrub AR
+9036SGGrub SG
+9037ARSpeicherschwendi
+9038ARRehetobel
+9038ARKaien
+9042ARSpeicher
+9042ARBendlehn
+9042ARRank
+9043ARTrogen
+9043ARTrogen Kinderdorf
+9044ARWald AR
+9050AIAppenzell
+9050AIHirschberg
+9050AISteinegg AI
+9050AIRuete
+9050AISchlatt AI
+9050AIEggerstanden
+9052ARNiederteufen
+9053ARTeufen AR
+9054AIHaslen AI
+9055ARBuehler
+9056ARGais
+9056ARSchachen b. Gais
+9056ARStoss AR
+9057AIWeissbad
+9057AIWasserauen
+9057AISchwende
+9058AIBruelisau
+9062ARLustmuehle
+9063ARStein AR
+9064ARHundwil
+9100ARHerisau
+9100ARWilen (Herisau)
+9100ARHerisau 1
+9101ARHerisau
+9102ARHerisau
+9103ARSchwellbrunn
+9104ARWaldstatt
+9105ARSchoenengrund
+9105ARWald SG
+9107ARUrnaesch
+9107ARSchwaegalp
+9107ARZuerchersmuehle
+9108AIGonten
+9108AIJakobsbad
+9112ARSchachen b.Herisau
+9113SGDegersheim
+9114SGHoffeld
+9115SGDicken
+9116SGWolfertswil
+9116SGMagdenau
+9122SGMogelsberg
+9122SGEbersol
+9123SGNassen
+9125SGBrunnadern
+9125SGFurth
+9126SGNecker
+9127SGSt. Peterzell
+9127SGPeterzell
+9128SGBaechli (Hemberg)
+9200SGGossau SG
+9200SGMettendorf SG
+9200SGGossau SG 1
+9200SGGossau SG 2
+9201SGGossau SG
+9203SGNiederwil SG
+9204SGAndwil SG
+9205SGWaldkirch
+9205SGNiederwil b. Waldk
+9212SGArnegg
+9213TGHauptwil
+9213TGSorntal b.Hauptwil
+9214TGKradolf-Schoenenb.
+9214TGKradolf
+9215TGSchoenenberg TG
+9215TGBuhwil
+9216TGHeldswil
+9216TGHohentannen
+9220TGBischofszell
+9220TGBlidegg
+9220TGBischofszell Nord
+9223TGSchweizersholz
+9223TGHalden
+9225TGWilen (Gottshaus)
+9225TGSt. Pelagiberg
+9225TGGottshaus
+9230SGFlawil
+9230SGOberglatt SG
+9230SGAlterschwil SG
+9230SGBotsberg
+9230SGBurgau
+9230SGFlawil 1
+9230SGFlawil 2
+9231SGEgg (Flawil)
+9234SGRindal
+9234SGOberrindal
+9234SGUnterrindal
+9240SGUzwil
+9240SGNiederglatt SG
+9242SGOberuzwil
+9243SGJonschwil
+9244SGNiederuzwil
+9245SGOberbueren
+9245SGSonnental
+9246SGNiederbueren
+9246SGSorntal b. Ndbueren
+9247SGHenau
+9248SGBichwil
+9248SGRiggenschwil
+9249SGAlgetshausen
+9249SGNiederstetten
+9249SGOberstetten
+9302SGKronbuehl
+9303SGWittenbach
+9304SGBernhardzell
+9305SGBerg SG
+9306TGFreidorf TG
+9308SGLoemmenschwil
+9312SGHaeggenschwil
+9313SGMuolen
+9314TGSteinebrunn
+9315TGNeukirch (Egnach)
+9315TGWinden
+9320TGArbon
+9320TGFrasnacht
+9320TGSteineloh
+9320TGStachen
+9322TGEgnach
+9323SGSteinach
+9325TGRoggwil TG
+9326TGHorn
+9327SGTuebach
+9400SGRorschach
+9400SGRorschacherberg
+9400SGRorschach Ost
+9400SGRorschach Zust-Amt
+9401SGRorschach
+9402SGMoerschwil
+9403SGGoldach
+9405ARWienacht-Tobel
+9405ARTobel AR
+9410ARHeiden
+9410ARSchwendi b. Heiden
+9411ARReute AR
+9411ARMohren
+9413AIOberegg
+9413AISt. Anton
+9414ARSchachen b. Reute
+9420SGRheineck Intermed
+9422SGStaad SG
+9422SGBuechen b. Staad
+9423SGAltenrhein
+9424SGRheineck
+9425SGThal
+9426ARLutzenberg
+9427ARWolfhalden
+9427ARZelg (Wolfhalden)
+9428ARWalzenhausen
+9428ARLachen AR
+9428ARPlatz
+9428ARBueriswilen
+9430SGSt. Margrethen SG
+9434SGAu SG
+9435SGHeerbrugg
+9436SGBalgach
+9437SGMarbach SG
+9442SGBerneck
+9442SGBueriswilen
+9443SGWidnau
+9444SGDiepoldsau
+9444SGSchmitter
+9445SGRebstein
+9450SGAltstaetten SG
+9450SGLuechingen
+9451SGKriessern
+9452SGHinterforst
+9453SGEichberg
+9462SGMontlingen
+9463SGOberriet SG
+9463SGKobelwald
+9464SGRuethi SG
+9464SGLienz
+9465SGSalez
+9466SGSennwald
+9467SGFruemsen
+9468SGSax
+9469SGHaag (Rheintal)
+9470SGBuchs SG
+9470SGBurgerau
+9470SGRaefis
+9470SGBuchs SG 1
+9470SGWerdenberg
+9471SGBuchs SG 1
+9471SGBuchs SG 2
+9471SGBuchs SG 3
+9472SGGrabs
+9472SGGrabserberg
+9473SGGams
+9473SGGasenzen
+9475SGSevelen
+9476SGWeite
+9476SGFontnas
+9477SGTruebbach
+9478SGAzmoos
+9478SGWartau
+9479SGOberschan
+9479SGMalans SG
+9479SGGretschins
+9485FLNendeln
+9486FLSchaanwald
+9487FLGamprin-Bendern
+9487FLBendern
+9488FLSchellenberg
+9490FLVaduz
+9491FLRuggell
+9492FLEschen
+9493FLMauren FL
+9494FLSchaan
+9495FLTriesen
+9496FLBalzers
+9496FLMaels
+9497FLTriesenberg
+9498FLPlanken
+9500SGWil SG
+9500SGWil SG 1
+9500SGWil SG 2
+9500SGWil SG Ausgabe
+9501SGWil SG 1
+9502TGBraunau
+9503TGStehrenberg
+9503TGLanterswil
+9504TGFriltschen
+9504TGWeingarten Maerwil
+9506TGLommis
+9507TGStettfurt
+9508TGWeingarten-Kalth
+9508TGKalthaeusern
+9508TGWeingarten
+9512SGRossrueti
+9514TGWuppenau
+9514TGBefang
+9514TGGeftenau
+9514TGVorrueti
+9515TGHosenruck
+9515TGHeiligkreuz TG
+9515TGWelfensberg
+9517TGMettlen
+9517TGReuti
+9523SGZueberwangen
+9524SGZuzwil SG
+9524SGLaupen SG
+9525SGLenggenwil
+9526SGZuckenriet
+9527SGNiederhelfenschwil
+9532TGRickenbach b. Wil
+9533SGKirchberg SG
+9533SGDietschwil
+9533SGRupperswil SG
+9533SGWolfikon SG
+9534SGGaehwil
+9535TGWilen b. Wil
+9536SGSchwarzenbach SG
+9542TGMuenchwilen TG
+9543TGSt. Margarethen TG
+9543TGMoerikon
+9545TGWaengi
+9545TGAnetswil
+9545TGWilhof TG
+9545TGRosental
+9545TGHunzikon
+9545TGJakobstal
+9545TGHeiterschen
+9546TGTuttwil
+9546TGKrillberg
+9547TGWittenwil
+9547TGWeiern
+9548TGMatzingen
+9548TGMurkart
+9548TGRistenbuehl
+9548TGHalingen
+9552SGBronschhofen
+9553TGBettwiesen
+9554TGTaegerschen
+9555TGTobel
+9556TGAffeltrangen
+9556TGZezikon
+9562TGMaerwil
+9562TGBuch b. Maerwil
+9565TGBussnang
+9565TGOberbussnang
+9565TGOppikon
+9565TGSchmidshof
+9565TGRothenhausen
+9572TGBusswil TG
+9572TGHub
+9573TGLittenheid
+9601SGLuetisburg Station
+9601SGGraemigen
+9602SGBazenheid
+9602SGMueselbach
+9604SGLuetisburg
+9606SGBuetschwil
+9607SGMosnang
+9608SGGanterschwil
+9612SGDreien
+9612SGWiesen (Mosnang)
+9613SGMuehlrueti
+9614SGLibingen
+9615SGDietfurt
+9620SGLichtensteig
+9620SGBunt
+9620SGGurtberg
+9620SGWasserfluh
+9621SGOberhelfenschwil
+9621SGWigetshof
+9622SGKrinau
+9630SGWattwil
+9630SGHeiterswil
+9630SGHummelwald
+9630SGSchoenenberg SG
+9630SGBunt
+9631SGUlisbach
+9633SGHemberg
+9642SGEbnat-Kappel
+9642SGEbnat
+9642SGKappel SG
+9642SGWintersberg SG
+9643SGKrummenau
+9650SGNesslau
+9650SGDicken (Nesslau)
+9651SGEnnetbuehl
+9651SGRietbad
+9652SGNeu St. Johann
+9655SGStein SG
+9656SGAlt St. Johann
+9656SGStarkenbach
+9657SGUnterwasser
+9658SGWildhaus
+9658SGOberdorf SG

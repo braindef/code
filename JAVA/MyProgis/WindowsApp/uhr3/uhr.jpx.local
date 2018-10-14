@@ -1,0 +1,17 @@
+build.menu.1[0]=com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make
+build.menu.2[0]=com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;rebuild
+content.layout.xml.[0]=<project-layout><tab_container selected_index="1"><tab node_name="src/uhr/AnalogClock.java"/><tab node_name="src/uhr/AnalogUhr.java"/><tab node_name="src/uhr/Clock.java"/><tab node_name="src/uhr/DigitalClock.java"/><tab node_name="src/uhr/TestClock.java"/></tab_container></project-layout>
+debug.NoTracingClasses.1[0]=16 java.lang.Object1  1 -1
+debug.NoTracingClasses.2[0]=21 java.lang.ClassLoader1  1 -1
+debug.NoTracingClasses.3[0]=16 java.lang.String1  1 -1
+debug.SplitThreadsAndDataView[0]=0
+history.files.active[0]=src/uhr/AnalogUhr.java,F;12,203
+history.files.open.1[0]=src/uhr/AnalogClock.java,F;0,162
+history.files.open.2[0]=src/uhr/AnalogUhr.java,F;12,203
+history.files.open.3[0]=src/uhr/Clock.java,F;0,701
+history.files.open.4[0]=src/uhr/DigitalClock.java,F;0,386
+history.files.open.5[0]=src/uhr/TestClock.java,F;8,163
+import.optimize.legacyPropertiesRead[0]=1
+sys.Author[0]=Marc Landolt
+sys.DefaultPackage[0]=einfprog.ue4
+team.lastScanned[0]=1158485030715

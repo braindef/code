@@ -1,0 +1,60 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.applet.*;
+
+/**
+ * <p>Title: PI Approximation</p>
+ * <p>Description: </p>
+ * <p>Copyright: Copyright (c) 2003</p>
+ * <p>Company: </p>
+ * @author not attributable
+ * @version 1.0
+ */
+
+public class Scheiben extends Applet {
+  private boolean isStandalone = false;
+  //Get a parameter value
+  public String getParameter(String key, String def) {
+    return isStandalone ? System.getProperty(key, def) :
+      (getParameter(key) != null ? getParameter(key) : def);
+  }
+
+  //Construct the applet
+  public Scheiben() {
+  }
+  //Initialize the applet
+  public void init() {
+    try {
+      jbInit();
+    }
+    catch(Exception e) {
+      e.printStackTrace();
+    }
+  }
+  //Component initialization
+  private void jbInit() throws Exception {
+  }
+  //Get Applet information
+  public String getAppletInfo() {
+    return "Applet Information";
+  }
+  //Get parameter info
+  public String[][] getParameterInfo() {
+    return null;
+  }
+  //Main method
+  public static void main(String[] args) {
+    Scheiben applet = new Scheiben();
+    applet.isStandalone = true;
+    Frame frame;
+    frame = new Frame();
+    frame.setTitle("Applet Frame");
+    frame.add(applet, BorderLayout.CENTER);
+    applet.init();
+    applet.start();
+    frame.setSize(500,520);
+    Dimension d = Toolkit.getDefaultToolkit().getScreenSize();
+    frame.setLocation((d.width - frame.getSize().width) / 2, (d.height - frame.getSize().height) / 2);
+    frame.setVisible(true);
+  }
+}

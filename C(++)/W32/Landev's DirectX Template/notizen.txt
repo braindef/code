@@ -1,0 +1,15 @@
+
+new public würfel
+
+if (1<td<11) würfel.x= (td-1)*30; würfel.y=(td-1)*30	geschwindigkeit = (2/1/0)	beschleunigung =
+
+
+start
+
+würfel.geschwindigkeit(1/1/0);
+sleep(100);
+würfel.beschleunigung(-0.1/-0.1/0)
+sleep(10000);
+
+würfel.geheZu(x/y, bis t=5s, in t=5s, a=
+

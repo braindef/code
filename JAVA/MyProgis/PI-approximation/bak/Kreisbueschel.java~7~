@@ -1,0 +1,33 @@
+import java.awt.*;
+import java.applet.*;
+
+
+public class Kreisbueschel extends Applet
+{
+  public void init() {}
+
+  public void paint(Graphics g)
+  {
+    Dimension zentrum = new Dimension(getSize());
+    zentrum.width/=2;
+    zentrum.height/=2;
+    int s=getSize().height/5;
+    double r=getSize().height*3/5;
+    int c=0;
+
+    double q=0.85;
+
+    for(int i=0; i<5; i++)
+    {
+      r=r*Math.pow(q, i);
+      c=(int)Math.sqrt(r*r-s*s/4);
+      if (i>3) g.clearRect(zentrum.width-s/2  ,zentrum.height-s/2, s, s);
+      drawCircle(g, zentrum.width+c, zentrum.height, (int)r);
+      drawCircle(g, zentrum.width-c, zentrum.height, (int)r);
+    }
+  }
+  public void drawCircle(Graphics g, int xm, int ym, int r)
+  {
+    g.drawOval(xm-r, ym-r, 2*r, 2*r);
+  }
+}

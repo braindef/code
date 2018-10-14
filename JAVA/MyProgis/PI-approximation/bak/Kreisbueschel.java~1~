@@ -1,0 +1,45 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.applet.*;
+
+/**
+ * <p>Title: PI Approximation</p>
+ * <p>Description: </p>
+ * <p>Copyright: Copyright (c) 2003</p>
+ * <p>Company: </p>
+ * @author not attributable
+ * @version 1.0
+ */
+
+public class Kreisbueschel extends Applet {
+  private boolean isStandalone = false;
+  //Get a parameter value
+  public String getParameter(String key, String def) {
+    return isStandalone ? System.getProperty(key, def) :
+      (getParameter(key) != null ? getParameter(key) : def);
+  }
+
+  //Construct the applet
+  public Kreisbueschel() {
+  }
+  //Initialize the applet
+  public void init() {
+    try {
+      jbInit();
+    }
+    catch(Exception e) {
+      e.printStackTrace();
+    }
+  }
+  //Component initialization
+  private void jbInit() throws Exception {
+  }
+  //Get Applet information
+  public String getAppletInfo() {
+    return "Applet Information";
+  }
+  //Get parameter info
+  public String[][] getParameterInfo() {
+    return null;
+  }
+}

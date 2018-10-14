@@ -1,0 +1,30 @@
+
+
+/**
+ * <p>Überschrift: Einbinden einer Klassendatei</p>
+ * <p>Beschreibung: </p>
+ * <p>Copyright: Copyright (c) 2003</p>
+ * <p>Organisation: al kaida</p>
+ * @author Marc Landolt
+ * @version 0.1
+ */
+
+public class BankSimulation {
+
+  public static void main(String[] args) {
+    Konto kto = new Konto();
+    for(int j=0; j<20; j++) {
+      for (int i = 0; i < 360; i++) {
+        kto.setzeZinsfuss(0.025);
+        kto.einzahlung(1.0, i);
+        System.out.println("Tag: " + i + " Saldo: " + kto.getSaldo());
+      }
+      kto.addiereJahreszins();
+      System.out.println(kto.getSaldo());
+      System.out.println("Jahr: " + j );
+    }
+    System.out.println(kto.getSaldo());
+
+  }
+
+}

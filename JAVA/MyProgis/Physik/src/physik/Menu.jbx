@@ -1,0 +1,23 @@
+[PropertyInfo]
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+image1,ImageIcon,false,false, , ,false,<default>
+image2,ImageIcon,false,false, , ,false,<default>
+image3,ImageIcon,false,false, , ,false,<default>
+jMechanik,JMenu,false,false, , ,false,<default>
+jMenuAkustuk,JMenu,false,false, , ,false,<default>
+jMenuAtomKernphysik,JMenu,false,false, , ,false,<default>
+jMenuBar,JMenuBar,false,false, , ,false,<default>
+jMenuDatei,JMenu,false,false, , ,false,<default>
+jMenuDateiBeenden,JMenuItem,false,false, , ,false,<default>
+jMenuElektrik,JMenu,false,false, , ,false,<default>
+jMenuElektrikOhm,JMenuItem,false,false, , ,false,<default>
+jMenuHelpAbout,JMenuItem,false,false, , ,false,<default>
+jMenuHilfe,JMenu,false,false, , ,false,<default>
+jMenuWaermelehre,JMenu,false,false, , ,false,<default>
+jToolBar,JToolBar,false,false, , ,false,<default>
+statusBar,JLabel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

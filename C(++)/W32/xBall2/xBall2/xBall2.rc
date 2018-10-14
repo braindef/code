@@ -1,0 +1,142 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Deutsch (Deutschland) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_DEU)
+#ifdef _WIN32
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Deutsch (Deutschland) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Deutsch (Schweiz) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_DES)
+#ifdef _WIN32
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN_SWISS
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG DIALOGEX 0, 0, 496, 158
+STYLE DS_SETFONT | DS_FIXEDSYS | DS_CENTER | WS_POPUP | WS_BORDER
+EXSTYLE WS_EX_PALETTEWINDOW
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "ENDE",ID_ENDE,262,127,50,14
+    CONTROL         "Team A (1)",IDC_TeamA,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,20,20,51,10
+    CONTROL         "Team B (2)",IDC_TeamB,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,115,20,51,10
+    PUSHBUTTON      "Gültig (3)",IDC_VALID,202,94,50,14
+    PUSHBUTTON      "Ungültig (4)",IDC_INVALID,262,94,50,14
+    EDITTEXT        IDC_Timer,113,62,49,14,ES_AUTOHSCROLL | ES_READONLY | ES_NUMBER
+    LTEXT           "Gesammtzeit",IDC_STATIC,113,48,42,8
+    EDITTEXT        IDC_PauseTime,201,62,50,14,ES_AUTOHSCROLL | ES_READONLY
+    LTEXT           "Pausenzeit",IDC_STATIC,201,48,36,8
+    EDITTEXT        IDC_PauseDefault,261,62,50,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "Pausenvorgabe",IDC_STATIC,262,48,51,8
+    CONTROL         "Regeln",IDC_AdjustVolume,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,14,129,38,10
+    EDITTEXT        IDC_TimeDefault,7,62,50,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "Zeitvorgabe (s)",IDC_STATIC,7,48,50,8
+    PUSHBUTTON      "Start",IDC_START,7,94,50,14
+    PUSHBUTTON      "Stop",IDC_STOP,114,94,50,14
+    PUSHBUTTON      "Pause",IDC_PAUSE,61,94,50,14
+    CONTROL         107,IDC_STATIC,"Static",SS_BITMAP,332,7,157,145
+    GROUPBOX        "Moderator",IDC_STATIC,191,36,130,83
+    PUSHBUTTON      "Fade Out",IDC_FADEOUT,114,126,50,14
+    PUSHBUTTON      "Fade In",IDC_FadeIn,61,126,50,14
+    GROUPBOX        "Sound",IDC_STATIC,7,117,163,29
+    GROUPBOX        "Tasten",IDC_STATIC,7,7,163,33
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 489
+        VERTGUIDE, 170
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 151
+        HORZGUIDE, 56
+        HORZGUIDE, 76
+        HORZGUIDE, 108
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "xBall.bmp"
+IDB_VIPERS              BITMAP                  "logo-vipers.bmp"
+#endif    // Deutsch (Schweiz) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

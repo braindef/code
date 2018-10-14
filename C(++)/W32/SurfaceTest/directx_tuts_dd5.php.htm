@@ -1,0 +1,695 @@
+<html><head><title>Directx - Tutorials - DER VERTEXWAHN Eine Geschichte nach einer wahren Begebenheit</title>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+body {
+    background-color: #ffffff;
+    margin: 0pt;
+    padding: 0;
+}
+<!--
+     A:link {text-decoration: none;color: #000000;}
+     A:visited {text-decoration: none;color: #000000;}
+     A:active {text-decoration: none;color: #FFFFFF;}
+     A:hover {text-decoration: none;color: #CC6600;}
+-->
+</style></head><body topmargin="0" rightmargin="0" leftmargin="0" alink="#cc6600" background="directx_tuts_dd5.php-Dateien/back.gif" link="#000000" marginheight="0" marginwidth="0" text="#003399" vlink="#000000">
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+  <tbody><tr> 
+    <td valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tbody><tr> 
+          <td align="center" bgcolor="#cccccc" valign="top" width="25"> <img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="25"> 
+            <img src="directx_tuts_dd5.php-Dateien/logo.gif" height="191" width="13"> </td>
+          <td colspan="2" valign="top">
+
+<br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr> 
+                <td width="10"><img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="10"></td>
+                <td> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr> 
+                      <td width="100%">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://www.codeworx.org/" target="_self">www.codeworx.org</a>/<a href="http://www.codeworx.org/directx_tuts.php" target="_self">directx_tuts</a>/DER 
+VERTEXWAHN Eine Geschichte nach einer wahren Begebenheit 
+</font>
+                      </td>
+                      <td width="10"><img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="10"></td>
+                      <td bgcolor="#cccccc" width="10"><img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="10"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+                <td width="10"><img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="10"></td>
+              </tr>
+            </tbody></table>
+<p> 
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr> 
+                <td width="10"><img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="10"></td>
+                <td> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr> 
+                      <td width="100%">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2">  <b>DER VERTEXWAHN Eine Geschichte nach einer wahren Begebenheit</b><br>
+  Ein Tutorial von Julian Amann<br>
+  <br>
+  <i><font size="1"><b><font size="2">&#8222;Ihr habt Kenny getötet. Ihr Schweine!&#8220; 
+  <br>
+  Southpark</font></b></font></i><br>
+  <br>
+  DirectGraphics: Eine Geschichte voller Missverständnisse...<br>
+  <br>
+  <b>Vorwort</b>
+</font><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mit dem erscheinen von DirectGraphics sind in verschiedenen Foren und Newsgroups 
+  immer wieder die gleichen Fragen aufgetaucht. "Was ist mit DirectDraw passiert?", 
+  "Wie kann man Sprites mit DirectGraphics darstellen?", und so weiter... 
+  Da es dazu verschiedne Ansätze gibt und dieses Thema zu umfangreich ist 
+  um es in ein paar kurzen Sätzen beantworten zu können, habe ich mich 
+  entschlossen ein Tutorial dazu zu verfassen. Letztendlich wurde der Vorschlag 
+  für dieses Tutorial im Forum der C++ Ecke (www.c-plusplus.de/forum) gemacht, 
+  worauf ich mich an die Arbeit gemacht habe. Bevor es aber ans Eingemachte geht 
+  möchte ich erst noch auf die Vorraussetzungen hinweisen, die man benötigt 
+  um dieses Tutorial einigermaßen zu verstehen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vorausgesetzt sind Kenntnisse in C/C++ - keine Angst man braucht kein Guru 
+  zu sein um meinen Code interpretieren zu können - und Grundlagen in der 
+  WinAPI - man sollte in der Lage sein ein einfaches Fenster auf den Bildschirm 
+  zu bringen, da ich darauf nicht weiter eingehen werde.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wenn jemand einen Fehler entdeckt oder Verbesserungsvorschläge hat, braucht 
+  dieser jemand mir nur eine E-Mail zu schicken. Auch bei Fragen einfach eine 
+  E-Mail an mich (JamesBlond008@gmx.de) oder noch besser einfach in einem Forum 
+  stellen, da es bei mir ein wenig dauern kann, bevor ihr eine Antwort von mir 
+  erhaltet.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ich programmiere jetzt inzwischen seit einem guten Jahr mit DirectX, aber ich 
+  bin noch lange kein Profi. Deshalb entschuldige ich mich schon mal für 
+  alle Fehler in diesem Tutorial. Im nächsten Abschnitt werde ich einen kleinen 
+  Einblick in die DirectX Welt geben.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>DirectX</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DirectX ermöglicht einen schnellen Zugriff auf die Hardware auf Low-Level 
+  Ebene (= Hardwarenah). Der Geschwindigkeitsvorteil entsteht vor allem dadurch 
+  das bei DirectX nicht erst wie bei der Windows API unzählige Zwischenstufen 
+  zu andern APIs durchlaufen werden müssen, sondern so weit es geht die Hardware 
+  auf direkten Wege angesprochen wird. Im Grunde genommen ist DirectX ein Set 
+  von Low-Level-APIs, die für Spiele oder für Anwendungen, die eine 
+  möglichst hohe Performance benötigen, gedacht ist. Mit DirectX lässt 
+  sich viel anstellen. Man kann Grafikkarten, Soundkarten oder auch Eingabegeräte 
+  damit ansteuern und verwalten.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>DirectX 8.0</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mit DirectX 8 hat sich vieles in DirectX geändert. Erschreckend für 
+  viele Programmierer war sicherlich das Fehlen von DirectDraw und DirectSound. 
+  Was ist mit diesen Komponenten passiert? Sind Außerirdische auf der Erde 
+  gelandet und haben diese Komponenten entführt? Hat sie Copperfield durch 
+  einen Zauberspruch verschwinden lassen? Oder war das nur eine Ente von Microsoft? 
+  Leider nicht. Kurz gesagt wurde DirectDraw und Direct3D zu DirectGraphics zusammengefasst, 
+  aus DirectSound und DirectMusic wurde DirectAudio und DirectShow (früher 
+  Bestandteil des Media SDK) gehört nun als neue Komponente zum DirectX Umfang.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Viele werden sich jetzt sicherlich fragen wie es sich jetzt mit der Aufwärtskompalität 
+  von DirectX verhält und was diese Änderungen nötig machte. Mit 
+  der Aufwärtskompalität bzw. Abwärtskompalität sieht es Momentan 
+  so aus: DirectDraw ist zwar weiterhin in der Laufzeitbibliothek von DirectX 
+  enthalten, wird aber nicht mehr weiterentwickelt und ist deshalb auch nicht 
+  mehr in der DXSDK Dokumentation zu finden. D. h. Programme, die DirectDraw benutzen, 
+  werden weiterhin auf jeden PC laufen, bis sich eines Tages MS dazu entschließt 
+  DirectDraw aus der DirectX Runtime zu nehmen. Aber warum? Warum kommt Microsoft 
+  nach 5 Jahren auf die Idee einfach die Aufwärtskompalität zu gefährden 
+  und diese Komponente durch eine neue zu ersetzen. Das weiß wohl nur Gott 
+  und Microsoft. Auf der offiziellen DirectX Entwickler Seite konnte man lesen, 
+  dass sich die Architektur so in dieser Form nicht mehr aufrecht erhalten ließ 
+  und man die API vereinfachen wollte und man sie daher kurzerhand geändert 
+  hat. Im Grunde genommen hat sich ja an DirectDraw seit DirectX 5.0 nichts großartiges 
+  mehr geändert.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">So fragen sich jetzt viele Entwickler soll man nun umsteigen auf DirectX 8.0 
+  oder vorerst weiter auf DirectX 7.0 aufbauen. Nun diese Frage ist gar nicht 
+  so leicht zu beantworten. Außer für OpenGL Anhänger. Aber dieses 
+  Tutorial heißt nun mal nicht "Umstieg von DirectX auf OpenGL". 
+  Außerdem hat DirectX weit mehr als nur eine Schnittstelle für die 
+  Graphische Ausgabe zu bieten. Nun aber zurück zur eigentlichen Frage. Obwohl 
+  es noch keine gescheiten Treiber gibt und bekanntere Software Firmen behaupten 
+  das in DirectX 8.0 schwerwiegende Fehler enthalten sind (was ich nicht bezweifle 
+  *g*), würde ich empfehlen auf DirectX 8.0 umzusteigen. Oder hat es noch 
+  Sinn sich in eine veraltete API einzulernen?</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DirectX 8.0 hat sich entschieden in Hinsicht auf die 2D Grafik geändert. 
+  In DX 8 wird man keine Funktion mehr finden die Blit heißt. Auch die DirectDraw 
+  Clipper wird man vermissen und vor allem das Colorkeying. Doch wird das so bleiben? 
+  Wird DX OpenGL immer Verwandter und wie wird die Entwicklung weitergehen?</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Ein Ausblick in die Zukunft von DX</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ich bin natürlich kein Hellseher oder Wahrsager, aber wie es aussieht 
+  wird die altbekannte Funktionalität wieder in DX 9 mit der vollständigen 
+  Verknüpfung von D3D mit DirectDraw zurückkehren. Wie genau diese Funktionen 
+  dann aussehen werden und welche Ähnlichkeiten es zu DD geben wird (Clipping, 
+  Sufaces, Colorkey) kann ich hier noch nicht sagen. Dabei wird auch die Zusammenführung 
+  von Windows 9x und Windows NT durchgeführt werden und DX 9 wahrscheinlich 
+  nur noch auf Windows ME und Windows 2000 laufen. Mehr kann ich dazu leider nicht 
+  sagen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Natürlich gab es in DX 8 noch viele weitere Veränderungen gegenüber 
+  den ältern Versionen wie programmierbare Pixel- und VertexShader (Eingriff 
+  in die D3D Rendering Pipe). Diese Spielen aber in diesem Tutorial keine Rolle 
+  und so habe ich sie einfach Verschwiegen. Wer genaueres über die Veränderungen 
+  wissen will kann sich auf msdn.microsoft.com/directx genauer informieren.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Viele Wege führen nach Rom</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wie ein Sprichwort schon sagt "Viele Wege führen nach Rom". 
+  So verhält es sich auch bei DirectX und Sprites. Wie schon anfangs erwähnt 
+  gibt es mehrere Möglichkeiten mit DX 8 Sprites auf dem Bildschirm darzustellen.<br>
+  a) Man bleibt bei DirectDraw, da DX aufwärtskompatibel ist<br>
+  b) Unter Verwendung der Methoden SetBackBuffer und CopyRects<br>
+  c) Durch die Implementierung einer eigenen Spriteengine, die auf D3D basiert<br>
+  d) Durch die Benutzung des ID3DXSprite Interfaces</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">In diesem Tutorial werde ich auf die in b und c genanten Vorschläge eingehen 
+  und weiter ausführen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">(MS schlägt vor für 2D weiterhin DirectDraw7 zu verwenden.)</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Voreinstellungen</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Als erstes benötigt man das DiectX SDK. Dieses kann man unter folgender 
+  Adresse downloaden: http://www.microsoft.com/downloads/release.asp?ReleaseID=16927. 
+  Falls jemanden der download zu groß ist, kann man sich das SDK dort auch 
+  für etwa DM 25,- bestellen und zuschicken lassen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Damit die hier beschriebenen Programme ohne Probleme laufen müssen erst 
+  ein paar Voreinstellungen getroffen werden. Bei jedem Projekt muss die Datei 
+  d3d8.lib in den Linker miteingebunden werden. Hier entstehen meistens schon 
+  die ersten Fehler, bei denen dann verwundert gefragt wird warum sich der Sourcecode 
+  nicht kompilieren lässt - also nicht vergessen diese Datei einzubinden. 
+  Wie man das macht liegt an der Entwicklungsumgebung. Ich werde es hier für 
+  Visual C++ beschreiben mit dem ich selber arbeite. Erstellen Sie ein neues Projekt. 
+  Wählen Sie im Menü Projekt-&gt;Einstellungen...-&gt;Linker. Fügen 
+  Sie die Datei d3d8.lib unter Objekt-/Bibliothek-Module ein.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Rahmenanwendung</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nun sollte man eine Rahmenanwendung erstellen in der man den hier beschriebenen 
+  Sourcecode einbauen und testen kann.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ich will ihr aber nichts über die Windows API und das erstellen von Fenstern 
+  schreiben - ich bin einfach zu faul dafür. Bevor man sich also weiter mit 
+  DirectGraphics oder im generellen mit DirectX befasst sollte man erst ein paar 
+  Tutorials über WinAPI durcharbeiten.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Sprites unter Verwendung der Methoden SetBackBuffer und CopyRects</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ein paar DirectDraw Funktionen sind in DG ihn ähnlicher Form wieder zu 
+  finden. Es gibt immer noch Surfaces und Funktionen zum Blitten eines Surfaces 
+  in den Backbuffer (oder Frontbuffer - wenn man das will). In diesem Abschnitt 
+  werden wir ein Programm erstellen, das genau nach diesem Prinzip ablaufen wird. 
+  Wir verschaffen uns Zugriff auf den Backbuffer, werden ein Sprite in ein Surface 
+  laden und dieses Surface dann in den Backbuffer blitten und feststellen das 
+  die ganze Sache eine großen Hacken hat.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Flippen, Blitten und DoubleBuffering</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Bevor es weiter gehen kann, müssen erst noch ein paar Grundlegende Begriffe 
+  geklärt werden.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ein Surface kann man sich als Rechteck mir einer bestimmten Breite und Höhe 
+  vorstellen. Jede Einheit auf diesem Rechteck präsentiert ein Pixel mit 
+  einer bestimmten Farbwert, der vom verwendeten Farbmodell abhängt.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Blit ist die Abkürzung für "bit block transfer" und es 
+  bedeutet nichts anderes als Daten (gemeint sind Datenblöcke) von einen 
+  Speicherbereich in einen andren zu schieben (kopieren). Dies könnten z. 
+  B. Datenblöcke eines Surfaces sein, das in den Backbuffer geblittet wird 
+  oder der Inhalt das Backbuffer, der in das Primary Surface kopiert wird.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Die Grafikkarte besteht aus zwei oder mehreren Video Pages. Während auf 
+  einer Video Page das fertige Bild angezeigt wird, wird auf der andren Video 
+  Page das nächste Frame gezeichnet. Wenn das Frame fertig gezeichnet ist 
+  werden die beiden Pages miteinander vetauscht (Flippen) und das nächste 
+  Frame wird auf der anderen Video Page gezeichnet. In der Fachsprache spricht 
+  man vom PageFlipping. Häufig redet man auch vom sogenannten DoubleBuffering 
+  oder Backbuffering. Früher unterschied man zwischen PageFlipping und DoubleBuffering. 
+  Von DoubleBuffering sprach man wenn sich der Backbuffer im Arbeitsspeicher befand 
+  und vom PageFlipping wenn sich der Backbuffer im VRAM (Video RAM) befand. Inzwischen 
+  macht man bei diesen Begriffen keinen Unterschied mehr, da ein Backbuffer im 
+  VRAM nichts ungewöhnliches mehr ist. Angemerkt sei hier das man logischerweise 
+  nicht vom PageFlipping spricht wenn sich der Backbuffer im Arbeitsspeicher befindet.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ich weiß das diese Erklärungen nicht besonders sind, aber ich hoffe 
+  sie helfen sich etwas unter den Begriffen vorzustellen zu können.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Das Eingemachte</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nach dem ganzen gelaber wollen wir nun zum praktischen Teil kommen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ich habe das Errorchecking hier aus Gründen der Übersichtlichkeit 
+  weggelassen. Im folgenden werde ich den Sourcecode Zeile für Zeile erklären.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Als erstes sehen wir uns die Headerdateien an, die benötigt werden.<br>
+</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">// Direct3D Headerdateien
+#include &lt;d3d8.h&gt; // Headerdatei fuer Direct3D
+#include &lt;d3dx8.h&gt; // Eine in D3D integrierte Hilfsbibliothek</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Beim kompilieren nicht vergessen d3d8.lib und d3dx8.lib in den Linker mit einzubinden. 
+  In der Headerdatei d3dx8 stecken Hilfsfunktionen die uns beim Laden eines Bitmaps 
+  in ein Surface helfen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nun legen wir einige mehr oder weniger nützliche Defines fest um später 
+  einfach Änderungen am Programmcode vornehmen zu können.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">#define SCREEN_WIDTH 800
+#define SCREEN_HEIGHT 600
+#define SCREEN_BPP 16</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Als nächstes definieren wir ein Makro, das uns Tastaturabfragen ermöglicht.<br>
+</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">#define KEY_DOWN(vk_code) ((GetAsyncKeyState(vk_code) &amp; 0x8000)    ? 1 : 0)</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nun legen wir einige globale Variablen fest.<br>
+</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">LPDIRECT3D8 lpD3D = NULL;
+LPDIRECT3DDEVICE8 lpD3DDevice = NULL;
+D3DDISPLAYMODE d3ddm;
+D3DPRESENT_PARAMETERS d3dpp;</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>lpD3D:</b> Direct3D Hauptobjekt<br>
+  <b>lpD3DDevice:</b> Device Objekt - ermöglicht den Zugriff auf die Rendering 
+  Pipe von D3D<br>
+  <b>d3ddm: </b>Display Mode<br>
+  <b>d3dpp: </b>Anzeige Eigenschafen (genauso könnte man sagen Pathfinding 
+  = Wegfindung... naja...)</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Für genauere Informationen einfach mal in der DXSDK Docu nachschlagen.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">LPDIRECT3DSURFACE8 lpBackbuffer = NULL;
+LPDIRECT3DSURFACE8 lpSprite = NULL;</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">lpBackbuffer wird logischerweise als Backbuffer genutzt und lpSprite als Surface 
+  für ein Bild, das wir später aus einer Datei laden und dann auf den 
+  Backbuffer blitten.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">POINT SpritePosition;
+RECT rcSprite;</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">In einer POINT Struktur wird die Position des Sprites gespeichert und in einer 
+  RECT Struktur wird der Bereich festgelegt der auf den Backbuffer geblittet werden 
+  soll. Das sieht jetzt vielleicht etwas umständlich aus wird uns aber beim 
+  betracht der Parameter der CopyRect Funktion verständlicher. Vorher muss 
+  aber erst noch D3D initialisiert werden.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3D = Direct3DCreate8(D3D_SDK_VERSION);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Das Direct3D Objekt wird erstellt, genauer gesagt wird uns durch diese Funktion 
+  ein Handle auf das IDirect3D8 COM Objekt zugewiesen, über den wir dann 
+  weitere Funktionen aufrufen können.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3D-&gt;GetAdapterDisplayMode(D3DADAPTER_DEFAULT, &amp;d3ddm);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Füllt die d3ddm Struktur, die uns u. a. Informationen über den Speicheraufbau 
+  der Grafikkarte liefert.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">memset(&amp;d3dpp, 0, sizeof(d3dpp));</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Die d3dpp Struktur wird bereinigt - eine reine Vorsichtsmaßnahme - man 
+  weiß ja nie ;)</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">d3dpp.Windowed = FALSE;
+d3dpp.SwapEffect = D3DSWAPEFFECT_FLIP;
+d3dpp.BackBufferFormat = d3ddm.Format;
+d3dpp.BackBufferWidth = 800;
+d3dpp.BackBufferHeight = 600;
+d3dpp.BackBufferCount = 1;
+d3dpp.FullScreen_RefreshRateInHz = D3DPRESENT_RATE_DEFAULT;
+d3dpp.FullScreen_PresentationInterval = D3DPRESENT_INTERVAL_ONE;
+d3dpp.hDeviceWindow = main_window_handle;</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Windowed: Wird auf FALSE gesetzt. Damit legen wir fest das unsere Anwendung 
+  im Vollbildmodus laufen soll<br>
+  SwapEffect: Es soll geflipt werden<br>
+  BackBufferFormat: Hier wird der Speicheraufbau der Grafikkarte angegeben (z. 
+  B. 5-5-5, 5-6-5). Da wir ja nicht wissen können welchen Speicheraufbau 
+  die Grafikkarte unseres Endbenutzers hat, nehmen wir den vorhin mit GetAdapterDisplayMode 
+  bestimmten Wert<br>
+  BackBufferWidth: Breite des Backbuffers - normalerweise gleich SCREEN_WIDTH<br>
+  BackBufferHeight: Höhe des Backbuffers - normalerweise gleich SCREEN_HEIGHT<br>
+  BackBufferCount: Anzahl der verwendeten Backbuffer - wir wollen Doublebuffering 
+  deshalb setzen wird diesen Wert auf 1<br>
+  FullScreen_RefreshRateInHz: Bei dieser Variablen könnte man denken das 
+  man hier die RefreshRate angeben könnte - dem ist aber nicht so. Hier muss 
+  ein fest definierter Wert folgen.<br>
+  FullScreen_PresentationInterval: Gibt an wie, wann der Bildschirm refresht wird. 
+  Wir wollen das der Bildschirm sooft Aktuallisiert wird wie es geht (somit hängt 
+  die maximale Frameanzahl pro Sekunde von der Refreshrate des Monitors ab)<br>
+  hDevicWindow: Window Handle des Fensters in dem sich alles abspielen soll</font></p>
+<pre>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">if(lpD3D-&gt;CheckDeviceType(D3DADAPTER_DEFAULT, D3DDEVTYPE_HAL,
+d3ddm.Format, d3ddm.Format, FALSE)==D3D_OK)
+{
+   lpD3D-&gt;CreateDevice(D3DADAPTER_DEFAULT, D3DDEVTYPE_HAL, main_window_handle,
+   D3DCREATE_SOFTWARE_VERTEXPROCESSING, &amp;d3dpp, &amp;lpD3DDevice;
+}
+
+else
+{
+   lpD3D-&gt;CreateDevice(D3DADAPTER_DEFAULT, D3DDEVTYPE_REF , main_window_handle,
+   D3DCREATE_SOFTWARE_VERTEXPROCESSING, &amp;d3dpp, &amp;lpD3DDevice);
+}</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Als erstes wird geprüft ob die Grafikkarte Hardwarebeschleunigung unterstützt. 
+  Falls dies der Fall ist wird das Device mit Hardwarebeschleunigung erzeugt, 
+  ansonsten wird auf den Reference Rasterizer (Software) zurückgegriffen. 
+  Das Device verschafft uns dann Zugriff auf die Rendering Pipeline von D3D.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Auf den Reference Rasterizer wird immer dann Zugegriffen, wenn die Hardware 
+  ein bestimmtes Feature nicht unterstützt wie z. B. Alphablending. Der REF 
+  emuliert dann durch Softwarealgorithmen die benötigte Hardwarefunktion.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;SetRenderState(D3DRS_CULLMODE, D3DCULL_NONE);
+lpD3DDevice-&gt;SetRenderState(D3DRS_LIGHTING, FALSE);
+lpD3DDevice-&gt;SetRenderState(D3DRS_ZENABLE, FALSE);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Hier wird Culling, Lighting und Z-Buffering deaktiviert, da wir in unserem 
+  Fall darauf verzichten können. Diese sind erst bei dreidimensionalen Szenen 
+  von Bedeutung.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;GetBackBuffer(0, D3DBACKBUFFER_TYPE_MONO, &amp;lpBackbuffer);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mit GetBackBuffer verschaffen wir uns Zugriff auf den Backbuffer.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;CreateImageSurface(100, 100, d3ddm.Format, &amp;lpSprite);
+D3DXLoadSurfaceFromFile(lpSprite, NULL, NULL, "test.bmp", NULL,
+D3DX_FILTER_POINT, 0, NULL);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Hier wird das Surface für unser Sprite erzeugt mit der entsprechenden 
+  Höhe und Breite und anschließend wird ein Bitmap in das Surface geladen.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">if(KEY_DOWN(VK_ESCAPE))
+PostMessage(main_window_handle, WM_DESTROY,0,0);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Falls die Escape Taste gedrückt wird, wird das Programm beendet.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;CopyRects(lpSprite, &amp;rcSprite, 1, lpBackbuffer, &amp;SpritePosition);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Blittet das Sprite in den Backbuffer.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;Present(NULL, NULL, NULL, NULL);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Zeigt das Bild an.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Und schon sind wir fertig!</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wie anfangs erwähnt gibt's dabei einen Hacken. Colorkeying wird nicht 
+  unterstützt. Somit wird diese Funktion für jedes kleinere 2D Spielchen 
+  praktisch nutzlos. Das einzige was man damit machen könnte wäre das 
+  Anzeigen von einem Hintergrundbild oder ähnlichem. Wie gesagt die 2D Funktionalität 
+  wird erst wieder mit DX 9 wieder vollständig integriert. Bis dahin könnte 
+  man weiterhin DirectDraw benutzen. Aber trotzdem stellt sich ein Frage: "If 
+  you've got 3D functionality, then why on earth would you want to use Blit anyway?"</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">(Allerdings könnte man mit obiger Funktion eine Kopie des Backbuffers 
+  in ein Surface erstellen und dieses Surface dann als Bild abspeichern - hilfreich 
+  wenn man Screenshots machen will.)</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Implementierung einer eigenen Spriteengine</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nun Direct3D dürfte vielen ein Begriff sein. Wenn man dieses Tutorial 
+  (oder wie auch immer man es nennen will) ließt, sollte man wenigstes schon 
+  wissen das es sich dabei um einen Bestandteil von DirectX, einer einfachen 3D 
+  API handelt, die uns eine Menge Arbeit abnehmen kann. Erstens müssen wir 
+  uns um keine Treiber- und Grafikkartenspezifischen Probleme kümmern und 
+  zweitens bietet uns Direct3D schon einige Grundfunktionen für das Zeichnen 
+  und Darstellen von dreidimensionalen Szenen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">"If you can draw one pixel you can draw everything". Wie gesagt DirectX 
+  kann uns dabei eine Menge Arbeit abnehmen. D3D ist in der Lage verschiedene 
+  Primitve zu rendern. Nämlich Punkte, Linien und Dreiecke. Durch Dreiecke 
+  kann man nahezu jedes Objekt darstellen. Durch geschicktes Shading (Guardshading 
+  das Vertexweise ist) können auch Runde Formen und Objekte wie beispielsweiße 
+  Zylinder oder Kugeln dargestellt werden. Bevor wir aber zu solchen Themen wie 
+  Lighting, Shading oder Texturing kommen beschäftigen wir uns lieber noch 
+  kurz mit den Polygonen. Bei der Polygonalen Darstellung werden Objekte als Netz 
+  dargestellt. Gekrümmte Oberflächen müssen dabei angenähert 
+  werden. Da die Polygonale Repräsentation die Oberflächen von Objekten 
+  beschreibt, wird sie auch manchmal als boundary representation bezeichnet. Nachteile 
+  dieser Technik sind allerdings dass die Genauigkeit der Repräsentation 
+  von der verwendeten Anzahl der Polygonalen abhängt. Oh... kommen wir lieber 
+  wieder zurück in die einfache, flache Welt der Sprites...</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Bevor es aber los gehen kann erst ein wenig Theorie. Wie wollen wir in einer 
+  3D Umgebung ein 2D Sprite darstellen?</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wir nehmen zwei Dreiecke, mappen eine Textur (unser Sprite) auf die beiden 
+  Dreiecke und rendern es via Direct3D auf den Bildschirm.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Halt! So einfach geht es natürlich auch wieder nicht. Ein normales Sprite 
+  ist eigentlich immer rechteckig. In Direct3D gibt es aber nur Dreiecke. Das 
+  ist aber gar kein Problem den aus Dreiecken lässt sich ganz einfach ein 
+  Rechteck zusammenbauen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Einfache Datenstrukturen in Direct3D<br>
+  <br>
+  <img src="directx_tuts_dd5.php-Dateien/vertex1.jpg" height="200" width="533"> </b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Hier sieht man eine Triangle List. Das kann man sich in etwa so vorstellen: 
+  Man füllt ein Array mit den Koordinaten der Eckpunkte eines Objektes. D3D 
+  fasst immer 3 nacheinanderfolgende Eckpunkte sinngemäß zu einem Dreieck 
+  zusammen und rendert es auf den Bildschirm. Hierbei würden wir für 
+  zwei Dreiecke 6 Vertices (zu deutsch etwa Eckpunkte) benötigen. Wenn wir 
+  unsere Figur etwas genauer betrachten stellen wir fest das die Dreiecke immer 
+  2 Eckpunkte gemeinsam haben und wir mit 4 Vertices auskommen würden. Dazu 
+  gibt es eine andere Datenstruktur in D3D, nämlich den Triangle Strip.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Triangle Strip genauer betrachtet:<br>
+  <br>
+  <img src="directx_tuts_dd5.php-Dateien/vertex2.jpg" height="100" width="200"> </font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Der Vorteil beim Triangle Strip liegt auf der Hand. Man kann mehrere Dreiecke 
+  durch die Angabe von wenigeren Vertices beschreiben. Beim oberen Beispiel haben 
+  wir mit 8 Vertices 6 Dreiecke beschreiben. Hätten wir für die gleiche 
+  Aufgabe einen Triangle Strip benützt hätten wir 18 Vertices benötigt. 
+  Gesagt sei aber noch das die Dreiecke nicht immer so schön zusammenhängen 
+  und man deshalb auf andere Datenstrukturen zurückgreifen muss. In diesem 
+  Tutorial würde das aber jetzt zu weit reichen um es hier großartig 
+  auszuführen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Textur Mapping</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um nun unser eigentliches Sprite auf dem Bildschim anzeigen zu können 
+  Betrachten wir es einfach als Textur. Unter Textur Mapping versteht man vereinfacht 
+  gesagt das "kleben" von Texturen auf Oberflächen. Das ganze wird 
+  gemacht damit die Textur richtig auf das angegebene Objekt angezeigt/gemapt 
+  wird.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="directx_tuts_dd5.php-Dateien/vertex3.jpg" height="175" width="198"></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Stellen wir uns vor wir wollen auf obiges Quadrat eine Textur mappen. Problem: 
+  der Computer weiß nicht wie er die Textur auf das Objekt packen soll. 
+  Wir wollen folgendes machen: Die linke obere Ecke der Textur soll auf A, die 
+  rechte obere Ecke der Textur soll auf B, die linke untere Ecke der Textur soll 
+  auf C und die rechte untere Ecke der Textur soll auf D. Eigentlich ja ganz logisch, 
+  aber man könnte genauso die Textur einfach Seitenverkehrt auf das Objekt 
+  mappen, wenn man das will. Nun kann man aber nicht zum Computer sagen schau 
+  her die Textur will ich so und so haben sondern man muss das dem PC irgendwie 
+  anders mitteilen. Dazu verwendet man sogenannte Textur-Koordinaten. Dazu wird 
+  ein zweidimensionales Koordinatensystem verwendet. Die Achsen in diesem System 
+  werden mit den Buchstaben u und v bezeichnet.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Der Ursprung/Nullpunkt (0,0) dieses Koordinatensystems liegt in der linken 
+  oberen Ecke. Die rechte obere Ecke der Textur hat die Koordinaten (1,0), die 
+  linke untere Ecke der Textur hat die Koordinaten (0,1) und die rechte untere 
+  Ecke hat die Koordinaten (1,1).</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Somit müsste man die Textur so auf das Quadrat mappen:<br>
+  A: (0,0)<br>
+  B: (1,0)<br>
+  C: (0,1)<br>
+  D: (1,1)</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Transparents</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Bei DirectDraw verwendete man für Transparents einen ColorKey. Das Prinzip 
+  dahinter war eigentlich ganz einfach: Es wurden alle Pixel mit einer bestimmten 
+  Farbe nicht auf den Bildschirm gerendert. In D3D gibt es keinen Colorkey, dafür 
+  aber das Alphablending. Mit Alphablending kann man Objekte auch halbdurchscheinend 
+  darstellen. Um aber auf das Ergebnis eines Colorkeys zu kommen, werden wir ähnlich 
+  wie beim Colorkey einen Farbwert als Transparente Farbe definieren und mit Hilfe 
+  von Alphablending Transparents erzeugen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Matrizen</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Im Zusammenhang mit D3D werden wir häufiger dem Begriff "Matizen" 
+  oder "Matrix" begegnen. Man versteht unter einer Matrix eine mathematische 
+  Schreibweiße. Im allgemeinen bezeichnet man ein Koeffizientenschema der 
+  Form</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="directx_tuts_dd5.php-Dateien/vertex4.jpg" height="52" width="97"></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">als Matrix.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Durch solche Matrizen lassen sich auf einfache Weise Verschiebungen, Streckungen 
+  oder Spiegelungen beschreiben oder eben auch Translationen, Skalierungen, Rotationen 
+  und Transformationen, die letztendlich aus Zahlen komplizierte 3D Gebilde formen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um es kurz zu umreisen werden in einer normalen 3D Engine erst alle Objekte 
+  eingelesen, die Kameraposition definiert, die Transformation vom lokalen Koordinatensystem 
+  ins Welt-Koordinatensystem definiert, die Szene transformiert und anschließend 
+  die Szene gerendert.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Dazu erstellt man einfach verschiedene Matrizen. Z. B. eine Translationsmatrix, 
+  eine Rotationsmatrix (eine für jede Achse), eine Skalierungsmatrix usw. 
+  Multipliziert man alle diese Matrizen miteinander so erhält man eine Gesamtmatrix 
+  mit allen Transformationen - das aktuelle Abbild unserer 3D Welt.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Da dieses Tutorial auch nicht "Mach dir deine eigene Wireframe Engine" 
+  oder "Bau dir deinen eignen Renderer" heißt werde ich hierauf 
+  nicht weiter eingehen. Das würde wirklich den Rahmen dieses Tutorials sprengen 
+  (Das ist diesmal keine Ausrede dafür das ich einfach zu faul bin es zu 
+  erklären ;).</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Da wir uns mit einfachen Sprites abgeben, müssen wir uns nicht intensiver 
+  mit diesem Thema auseinandersetzen. In D3D gibt es eine integrierte Bibliothek 
+  namens D3DX, die Funktionen für bestimmte Matrizenberechnungen zur Verfügung 
+  stellt.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">In D3D begegnet man im groben folgenden Matrizen:</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">World Matrix: Unser vituelles Universium<br>
+  Projection Matrix: Führt die 3D Objekte in eine 2D Projektion auf unserem 
+  Bildschirm über<br>
+  View Matrix: Stellt unsere Kamera dar mit der wir uns in unserer virtuellen 
+  Welt bewegen können</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wir werden jedoch nur die Projektionsmatrix kennen lernen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Das Flexible Vertex Format (FVF) und VertexBuffer</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Die Idee hinter den VertexBuffern wurde oben schon einmal vereinfacht beschreiben: 
+  Im Grunde genommen ist ein VertexBuffer ein Array mit den Koordinaten der Eckpunkte 
+  eines Objektes. Man kann durch bestimmte Befehle D3D dazu veranlassen drei hintereinander 
+  folgende Koordinaten als ein Dreieck aufzufassen, das dann auf den Bildschirm 
+  gerendert wird. Das einzige Problem dabei ist, dass wir D3D erst noch sagen 
+  müssen wie die Koordinaten in unserm VertexBuffer abgespeichert sind.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Zu diesem Zweck wurde das sogenannte Flexible Vertex Format (kurz FVF) entwickelt. 
+  Damit kann man für jeden VertexBuffer ein spezielles Format erstellen nach 
+  dem die einzelnen Koordinaten abgespeichert werden.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">So kann man z. B. neben den eigentlichen Koordinaten auch noch die u, v Koordinaten 
+  für das Texturmapping abspeichern. Ein anderer Vorteil liegt darin das 
+  Elemente der Vertex Struktur, die nicht benutzt bzw. benötigt werden somit 
+  gleich ausgeschlossen sind und nicht unnötig Speicher verbrauchen oder 
+  unsere Anwendung ausbremsen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Transformed und Lit Vertices</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Direct3D kann unsere Objekte transformieren und beleuchten. In manchen Fällen 
+  kann diese Funktionalität aber unerwünscht sein wenn wir z. B. die 
+  Beleuchtung selbst übernehmen wollen oder schon transformierte Koordinaten 
+  vorliegen haben da wir unsere Objekte durch eine eigene Transformpipeline gejagt 
+  haben. Dafür gibt es u. a. auch das FVF.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Der Praktische Teil</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Die Implementierung einer Spriteengine kann sehr unterschiedlich aussehen und 
+  folgende ist nur eine von vielen Möglichkeiten. "Viele Wege führen 
+  nach..."</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Im folgenden wird nur der neue Programmcode erklärt.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">#define D3DFVF_VERTEX2D (D3DFVF_XYZ|D3DFVF_TEX1)</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Oben wurde ein FVF definiert mit den entsprechenden FVF-Codes. D3DFVF_XYZ (Position 
+  der Vertices) und D3DFVF_TEX1 (weißt darauf hin das nach den Koordinaten 
+  des Objektes die Texturkoordinaten folgen).</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">struct VERTEX2D
+{
+   float x, y, z;
+   float u, v;
+};</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Die Vertexstruktur - nicht mehr und nicht weniger... Eigentlich dürfte 
+  klar sein das x, y, z die Position des Sprites darstellen und u und v die Texturkoordinaten 
+  sind.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">D3DCAPS8 d3dcaps;</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">d3dcaps: Caps - welche Möglichkeiten bietet uns die Hardware?</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">LPDIRECT3DTEXTURE8 lpSprite = NULL;
+LPDIRECT3DVERTEXBUFFER8 lpVBSprite = NULL;</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">lpSprite wird als Buffer für das zu ladene Bild verwendet und lpVBSprite 
+  als VertexBuffer für die Vertices des Sprites.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">VERTEX2D sprite_vertices[] =
+{
+   {-SPRITE_WIDTH/2,SPRITE_HEIGHT/2,0.0f,0.0f,0.0f,},
+   {-SPRITE_WIDTH/2,-SPRITE_HEIGHT/2,0.0f,0.0f,SPRITE_HEIGHT/256,},
+   {SPRITE_WIDTH/2,SPRITE_HEIGHT/2,0.0f,SPRITE_WIDTH/256,0.0f,},
+   {SPRITE_WIDTH/2,-SPRITE_HEIGHT/2,0.0f,SPRITE_WIDTH/256,SPRITE_HEIGHT/256,},
+};</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Hier werden die Vertices der Sprites definiert.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">#define SPRITE_WIDTH 69.0f
+#define SPRITE_HEIGHT 110.0f</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sprite Breite und Höhe.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">D3DXMATRIX matProj;</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Hier wird die Projektionsmatrix definiert.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;SetRenderState(D3DRS_ALPHABLENDENABLE, TRUE);
+lpD3DDevice-&gt;SetRenderState(D3DRS_SRCBLEND, D3DBLEND_SRCALPHA);
+lpD3DDevice-&gt;SetRenderState(D3DRS_DESTBLEND, D3DBLEND_INVSRCALPHA);</font></font></pre>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">if(d3dcaps.AlphaCmpCaps &amp; D3DPCMPCAPS_GREATER)
+{
+   lpD3DDevice-&gt;SetRenderState(D3DRS_ALPHAFUNC, D3DCMP_GREATER);
+   lpD3DDevice-&gt;SetRenderState(D3DRS_ALPHAREF, 0x00000000);
+   lpD3DDevice-&gt;SetRenderState(D3DRS_ALPHATESTENABLE, TRUE);
+}</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mit dem ersten Funktionsaufruf wird das Alphablending aktviert. Danach wird 
+  der RenderState gesetzt über den D3D mitgeteilt wird wie das Alphablending 
+  angewendet werden soll. In unserem Beispiel Missbrauchen wir es als eine Art 
+  Colorkey.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">D3DXMatrixOrthoLH(&amp;matProj, 800, 600, 0, 1);
+lpD3DDevice-&gt;SetTransform(D3DTS_PROJECTION, &amp;matProj);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Die Projektionsmatrix wird gesetzt.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mit dem ersten Funktionsaufruf wird das Alphablending aktviert. Danach wird 
+  der RenderState gesetzt über den D3D mitgeteilt wird wie das Alphablending 
+  angewendet werden soll. In unserem Beispiel Missbrauchen wir es als eine Art 
+  Colorkey.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">D3DXCreateTextureFromFileExA(lpD3DDevice, "joe256.bmp", D3DX_DEFAULT,
+D3DX_DEFAULT, D3DX_DEFAULT, 0, D3DFMT_UNKNOWN, D3DPOOL_MANAGED, D3DX_DEFAULT,
+D3DX_DEFAULT, D3DCOLOR_XRGB(255,0,255), NULL, NULL, &amp;lpSprite);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wahnsinn... wie viele Parameter hat die Funktion noch? ;)... Eigentlich sind 
+  für uns hier nur drei Parameter wichtig. Zu einem der zweite in dem der 
+  Dateiname der zu ladenen Textur angegeben wird, der letzte indem der Texturbuffer 
+  angeben wird, wo wir die Datei zwischenlagern wollen und der "Colorkey" 
+  (11ter Parameter), der mithilfe des Macros D3DCOLOR_XRGB definiert wurde. (Für 
+  genauere Informationen wie immer im DXSDK nachschlagen)</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">VOID *lpVertices;</font></font></pre>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;CreateVertexBuffer(sizeof(sprite_vertices), 0, D3DFVF_VERTEX2D,
+D3DPOOL_DEFAULT, &amp;lpVBSprite);</font></font></pre>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpVBSprite-&gt;Lock(0, sizeof(sprite_vertices), (BYTE**)&amp;lpVertices, 0);</font></font></pre>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">memcpy(lpVertices, sprite_vertices, sizeof(sprite_vertices));</font></font></pre>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpVBSprite-&gt;Unlock();</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Füllt den VertexBuffern mit den Vertices unseres Sprites. VertexBuffer 
+  sind im allgemeinen schneller ansprechbar, da sie direkt im VRAM gespeichert 
+  werden.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Damit wurde die Initialisierung abgeschlossen. Kommen wir nun zum Rendern.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;Clear( 0, NULL, D3DCLEAR_TARGET, D3DCOLOR_XRGB(0,0,0), 1.0f,    0);
+lpD3DDevice-&gt;BeginScene();</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mit dem Aufruf von Clear wird der Backbuffer gelöscht und mit der angegebenen 
+  Farbe gefüllt (hier schwarz). BeginScene startet danach das Rendering unserer 
+  Szene.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;SetTexture(0, lpSprite);
+lpD3DDevice-&gt;SetTextureStageState(0, D3DTSS_COLOROP, D3DTA_TEXTURE);
+lpD3DDevice-&gt;SetTextureStageState(0, D3DTSS_ALPHAOP, D3DTA_TEXTURE);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Und schon sind wir beim Rendern angelangt. Mit SetTexture bringen wir D3D auf 
+  die folgenden Objekte die ausgewählte Textur zu mappen. Mit beiden Aufrufen 
+  von SetTextureStageState wird das Alphablending für die ausgewählte 
+  Textur aktiviert.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;SetVertexShader(D3DFVF_VERTEX2D);
+lpD3DDevice-&gt;SetStreamSource(0, lpVBSprite, sizeof(VERTEX2D));
+lpD3DDevice-&gt;DrawPrimitive(D3DPT_TRIANGLESTRIP, 0, 2);</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mit SetVertexShader wird D3D schnell noch mitgeteilt wie wir unser Vertieces 
+  gespeichert haben und schließlich wird das Objekt durch DrawPrimitive 
+  auf den Bildschirm gerendert. SetStreamSource vermittelt D3D die zu renderen 
+  Vertices.</font></p>
+<pre><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="2">lpD3DDevice-&gt;EndScene();
+lpD3DDevice-&gt;Present( NULL, NULL, NULL, NULL );</font></font></pre>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mit EndScene wir das Rendern unserer Szene beendet. Present zeigt dann unsere 
+  fertig gerenderte Szene an.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Zugegeben dieses Spritebeispiel ist sehr primitiv, aber ich hoffe ich konnte 
+  mit diesem Tutorial dazu beitragen mehr Licht ins Dunkle zu bringen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>The Never Ending Story...</b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">So und schon sind wir am Ende dieses Tutorials angelangt. Obiges Beispielprogramm 
+  könnte man erweitern zu einer Spriteengine. Man könnte verschiedene 
+  Sprites Rotieren lassen und sich noch ein wenig am Alphablending austoben - 
+  Also noch viel Spaß beim Testen.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://www.codeworx.org/dl/dx_vertex.zip" target="_blank">Download Demoprojekte</a><br>
+</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
+</font></p>
+<p></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+  </font>
+                      </p></td>
+                      <td width="10"><img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="10"></td>
+                      <td bgcolor="#cccccc" width="10"><img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="10"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+                <td width="10"><img src="directx_tuts_dd5.php-Dateien/px.gif" height="8" width="10"></td>
+              </tr>
+            </tbody></table>
+      </p></td>
+          <td rowspan="2" background="directx_tuts_dd5.php-Dateien/hg1.gif" nowrap="nowrap" valign="top" width="90"> 
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr background="directx_tuts_dd5.php-Dateien/hg2.gif" bgcolor="#cccccc"> 
+                <td> 
+<div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">gamedev</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+  <a href="http://www.codeworx.org/gamedev_tuts.php" target="_self">tutoials</a><br>
+  <a href="http://www.codeworx.org/gamedev_proj.php" target="_self">projekte<br>
+  </a><a href="http://www.codeworx.org/links.php" target="_self">links</a><br>
+  <font size="2">c/c++</font><br>
+  <a href="http://www.codeworx.org/cpp_tuts.php" target="_self">tutorials</a><br>
+  <a href="http://www.codeworx.org/cpp_compiler.php" target="_self">compiler</a><br>
+  <font size="2">opengl</font><br>
+  <a href="http://www.codeworx.org/opengl_tuts.php" target="_self">tutorials</a><br>
+  <a href="http://www.codeworx.org/links.php#OpenGL" target="_self">links </a><br>
+  <font size="2">directX</font><br>
+  <a href="http://www.codeworx.org/directx_tuts.php" target="_self">tutorials</a><br>
+  <a href="http://www.codeworx.org/links.php#DirectX" target="_self">links</a><br>
+
+  <font size="2">grafik</font><br>
+  <a href="http://www.codeworx.org/grafik_artikel.php" target="_self">artikel</a><br><a href="http://www.codeworx.org/texturen.php" target="_self">texturen</a><br>
+
+  <a href="http://www.codeworx.org/" target="_self"><font color="#003399" size="2">home</font></a><br>
+  <a href="http://www.spieleentwickler-board.de/" target="_blank">DSBoard</a><br>
+  
+  <a href="http://www.codeworx.org/kontakt.php" target="_self">kontakt</a><br>
+  <a href="mailto:webmaster@codeworx.org" target="_blank">em@il</a><br>
+  <a href="http://www.codeworx.org/impressum.php" target="_self">impressum<br>
+  disclaimer</a><br>
+  <a href="http://www.codeworx.org/buecher.php" target="_self"><font color="#003399" size="2">buecher</font></a><br>
+  <a href="http://www.amazon.de/exec/obidos/ASIN/1556220413/codeworgtutor-21">
+ <img src="directx_tuts_dd5.php-Dateien/1556220413.jpg" alt="cover" border="0" hspace="3" vspace="3"></a><br>
+  <a href="http://www.codeworx.org/buecher.php" target="_self">mehr buecher</a><br>
+  <font size="2">linkpartner</font><br>
+  <a href="http://www.softgames.de/" target="_blank">softgames.de</a><br>
+  
+<a href="http://www.resourcecode.de/" target="_blank">resourcecode</a><br>
+  
+<a href="http://www.games-net.de/" target="_blank">games-net</a><br>
+  <a href="http://www.mehalon.de.vu/" target="_blank">mehalon</a><br>
+  <a href="http://www.x-tutorials.de/" target="_blank">x-tutorials</a><br>
+  <a href="http://www.blitzbase.de/" target="_blank">blitzbase</a><br> 
+  <a href="http://www.gamedev-zone.de/" target="_blank">gamedev-zone</a><br>
+  <a href="http://www.silizium-net.de/" target="_blank">silizium-net</a><br>
+  <a href="http://www.robsite.de/" target="_blank">robsite</a><br>
+  <a href="http://mb-network.net/" target="_blank">mb-network</a><br>
+  <a href="http://www.gamedevpage.de/" target="_blank">gamedevpage</a><br>
+  <a href="http://www.physicaltouch.de/" target="_blank">physicaltouch</a><br>
+  <a href="http://www.vb-games.de/" target="_blank">vb-games</a><br>
+  <a href="http://www.basicartstudios.de/" target="_blank">basicartstudios</a></font></div>
+                </td>
+              </tr>
+              <tr> 
+                <td><img src="directx_tuts_dd5.php-Dateien/rund1.gif" height="50" width="90"></td>
+              </tr>
+            </tbody></table>
+            
+          </td>
+        </tr>
+        <tr> 
+          <td rowspan="2" colspan="2" bgcolor="#cccccc">&nbsp;</td>
+          <td height="8" width="1065"><img src="directx_tuts_dd5.php-Dateien/rund3.gif" height="15" width="15"></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#cccccc" width="1065">
+           <div align="center"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"> | 
+  ||| || <a href="http://www.codeworx.org/" target="_self">codeworx.org 2001</a> 
+  | <a href="http://www.codeworx.org/kontakt.php" target="_self">kontakt</a> | <a href="http://www.codeworx.org/impressum.php" target="_self">impressum/dislaimer</a> 
+  | <a href="mailto:webmaster@codeworx.org" target="_blank">em@il:webmaster@codeworx.org</a> 
+  | | |||</font></div>
+          </td>
+          <td background="directx_tuts_dd5.php-Dateien/rund2.gif" height="33" nowrap="nowrap" width="100">&nbsp;</td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+    
+
+</body></html>
